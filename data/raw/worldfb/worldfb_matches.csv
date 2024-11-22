@@ -1,0 +1,2011 @@
+Match ID,Season,Round,Home Team,Away Team,Home Coach,Away Coach
+2019-2020_1,2019-2020,1,Liverpool FC,Norwich City,Jürgen Klopp,Daniel Farke
+2019-2020_2,2019-2020,1,West Ham United,Manchester City,Manuel Pellegrini,Pep Guardiola
+2019-2020_3,2019-2020,1,AFC Bournemouth,Sheffield United,Eddie Howe,Chris Wilder
+2019-2020_4,2019-2020,1,Burnley FC,Southampton FC,Sean Dyche,Ralph Hasenhüttl
+2019-2020_5,2019-2020,1,Crystal Palace,Everton FC,Roy Hodgson,Marco Silva
+2019-2020_6,2019-2020,1,Watford FC,Brighton & Hove Albion,Gracia,Graham Potter
+2019-2020_7,2019-2020,1,Tottenham Hotspur,Aston Villa,Mauricio Pochettino,Dean Smith
+2019-2020_8,2019-2020,1,Leicester City,Wolverhampton Wanderers,Brendan Rodgers,Nuno Espírito Santo
+2019-2020_9,2019-2020,1,Newcastle United,Arsenal FC,Steve Bruce,Unai Emery
+2019-2020_10,2019-2020,1,Manchester United,Chelsea FC,Ole Gunnar Solskjær,Frank Lampard
+2019-2020_11,2019-2020,2,Arsenal FC,Burnley FC,Unai Emery,Sean Dyche
+2019-2020_12,2019-2020,2,Aston Villa,AFC Bournemouth,Dean Smith,Eddie Howe
+2019-2020_13,2019-2020,2,Brighton & Hove Albion,West Ham United,Graham Potter,Manuel Pellegrini
+2019-2020_14,2019-2020,2,Everton FC,Watford FC,Marco Silva,Gracia
+2019-2020_15,2019-2020,2,Norwich City,Newcastle United,Daniel Farke,Steve Bruce
+2019-2020_16,2019-2020,2,Southampton FC,Liverpool FC,Ralph Hasenhüttl,Jürgen Klopp
+2019-2020_17,2019-2020,2,Manchester City,Tottenham Hotspur,Pep Guardiola,Mauricio Pochettino
+2019-2020_18,2019-2020,2,Sheffield United,Crystal Palace,Chris Wilder,Roy Hodgson
+2019-2020_19,2019-2020,2,Chelsea FC,Leicester City,Frank Lampard,Brendan Rodgers
+2019-2020_20,2019-2020,2,Wolverhampton Wanderers,Manchester United,Nuno Espírito Santo,Ole Gunnar Solskjær
+2019-2020_21,2019-2020,3,Aston Villa,Everton FC,Dean Smith,Marco Silva
+2019-2020_22,2019-2020,3,Norwich City,Chelsea FC,Daniel Farke,Frank Lampard
+2019-2020_23,2019-2020,3,Brighton & Hove Albion,Southampton FC,Graham Potter,Ralph Hasenhüttl
+2019-2020_24,2019-2020,3,Manchester United,Crystal Palace,Ole Gunnar Solskjær,Roy Hodgson
+2019-2020_25,2019-2020,3,Sheffield United,Leicester City,Chris Wilder,Brendan Rodgers
+2019-2020_26,2019-2020,3,Watford FC,West Ham United,Gracia,Manuel Pellegrini
+2019-2020_27,2019-2020,3,Liverpool FC,Arsenal FC,Jürgen Klopp,Unai Emery
+2019-2020_28,2019-2020,3,AFC Bournemouth,Manchester City,Eddie Howe,Pep Guardiola
+2019-2020_29,2019-2020,3,Tottenham Hotspur,Newcastle United,Mauricio Pochettino,Steve Bruce
+2019-2020_30,2019-2020,3,Wolverhampton Wanderers,Burnley FC,Nuno Espírito Santo,Sean Dyche
+2019-2020_31,2019-2020,4,Southampton FC,Manchester United,Ralph Hasenhüttl,Ole Gunnar Solskjær
+2019-2020_32,2019-2020,4,Chelsea FC,Sheffield United,Frank Lampard,Chris Wilder
+2019-2020_33,2019-2020,4,Crystal Palace,Aston Villa,Roy Hodgson,Dean Smith
+2019-2020_34,2019-2020,4,Leicester City,AFC Bournemouth,Brendan Rodgers,Eddie Howe
+2019-2020_35,2019-2020,4,Manchester City,Brighton & Hove Albion,Pep Guardiola,Graham Potter
+2019-2020_36,2019-2020,4,Newcastle United,Watford FC,Steve Bruce,Gracia
+2019-2020_37,2019-2020,4,West Ham United,Norwich City,Manuel Pellegrini,Daniel Farke
+2019-2020_38,2019-2020,4,Burnley FC,Liverpool FC,Sean Dyche,Jürgen Klopp
+2019-2020_39,2019-2020,4,Everton FC,Wolverhampton Wanderers,Marco Silva,Nuno Espírito Santo
+2019-2020_40,2019-2020,4,Arsenal FC,Tottenham Hotspur,Unai Emery,Mauricio Pochettino
+2019-2020_41,2019-2020,5,Liverpool FC,Newcastle United,Jürgen Klopp,Steve Bruce
+2019-2020_42,2019-2020,5,Brighton & Hove Albion,Burnley FC,Graham Potter,Sean Dyche
+2019-2020_43,2019-2020,5,Manchester United,Leicester City,Ole Gunnar Solskjær,Brendan Rodgers
+2019-2020_44,2019-2020,5,Sheffield United,Southampton FC,Chris Wilder,Ralph Hasenhüttl
+2019-2020_45,2019-2020,5,Tottenham Hotspur,Crystal Palace,Mauricio Pochettino,Roy Hodgson
+2019-2020_46,2019-2020,5,Wolverhampton Wanderers,Chelsea FC,Nuno Espírito Santo,Frank Lampard
+2019-2020_47,2019-2020,5,Norwich City,Manchester City,Daniel Farke,Pep Guardiola
+2019-2020_48,2019-2020,5,AFC Bournemouth,Everton FC,Eddie Howe,Marco Silva
+2019-2020_49,2019-2020,5,Watford FC,Arsenal FC,Quique Sánchez Flores,Unai Emery
+2019-2020_50,2019-2020,5,Aston Villa,West Ham United,Dean Smith,Manuel Pellegrini
+2019-2020_51,2019-2020,6,Southampton FC,AFC Bournemouth,Ralph Hasenhüttl,Eddie Howe
+2019-2020_52,2019-2020,6,Leicester City,Tottenham Hotspur,Brendan Rodgers,Mauricio Pochettino
+2019-2020_53,2019-2020,6,Burnley FC,Norwich City,Sean Dyche,Daniel Farke
+2019-2020_54,2019-2020,6,Everton FC,Sheffield United,Marco Silva,Chris Wilder
+2019-2020_55,2019-2020,6,Manchester City,Watford FC,Pep Guardiola,Quique Sánchez Flores
+2019-2020_56,2019-2020,6,Newcastle United,Brighton & Hove Albion,Steve Bruce,Graham Potter
+2019-2020_57,2019-2020,6,Crystal Palace,Wolverhampton Wanderers,Roy Hodgson,Nuno Espírito Santo
+2019-2020_58,2019-2020,6,West Ham United,Manchester United,Manuel Pellegrini,Ole Gunnar Solskjær
+2019-2020_59,2019-2020,6,Arsenal FC,Aston Villa,Unai Emery,Dean Smith
+2019-2020_60,2019-2020,6,Chelsea FC,Liverpool FC,Frank Lampard,Jürgen Klopp
+2019-2020_61,2019-2020,7,Sheffield United,Liverpool FC,Chris Wilder,Jürgen Klopp
+2019-2020_62,2019-2020,7,AFC Bournemouth,West Ham United,Eddie Howe,Manuel Pellegrini
+2019-2020_63,2019-2020,7,Aston Villa,Burnley FC,Dean Smith,Sean Dyche
+2019-2020_64,2019-2020,7,Chelsea FC,Brighton & Hove Albion,Frank Lampard,Graham Potter
+2019-2020_65,2019-2020,7,Crystal Palace,Norwich City,Roy Hodgson,Daniel Farke
+2019-2020_66,2019-2020,7,Tottenham Hotspur,Southampton FC,Mauricio Pochettino,Ralph Hasenhüttl
+2019-2020_67,2019-2020,7,Wolverhampton Wanderers,Watford FC,Nuno Espírito Santo,Quique Sánchez Flores
+2019-2020_68,2019-2020,7,Everton FC,Manchester City,Marco Silva,Pep Guardiola
+2019-2020_69,2019-2020,7,Leicester City,Newcastle United,Brendan Rodgers,Steve Bruce
+2019-2020_70,2019-2020,7,Manchester United,Arsenal FC,Ole Gunnar Solskjær,Unai Emery
+2019-2020_71,2019-2020,8,Brighton & Hove Albion,Tottenham Hotspur,Graham Potter,Mauricio Pochettino
+2019-2020_72,2019-2020,8,Burnley FC,Everton FC,Sean Dyche,Marco Silva
+2019-2020_73,2019-2020,8,Liverpool FC,Leicester City,Jürgen Klopp,Brendan Rodgers
+2019-2020_74,2019-2020,8,Norwich City,Aston Villa,Daniel Farke,Dean Smith
+2019-2020_75,2019-2020,8,Watford FC,Sheffield United,Quique Sánchez Flores,Chris Wilder
+2019-2020_76,2019-2020,8,West Ham United,Crystal Palace,Manuel Pellegrini,Roy Hodgson
+2019-2020_77,2019-2020,8,Arsenal FC,AFC Bournemouth,Unai Emery,Eddie Howe
+2019-2020_78,2019-2020,8,Manchester City,Wolverhampton Wanderers,Pep Guardiola,Nuno Espírito Santo
+2019-2020_79,2019-2020,8,Southampton FC,Chelsea FC,Ralph Hasenhüttl,Frank Lampard
+2019-2020_80,2019-2020,8,Newcastle United,Manchester United,Steve Bruce,Ole Gunnar Solskjær
+2019-2020_81,2019-2020,9,Everton FC,West Ham United,Marco Silva,Manuel Pellegrini
+2019-2020_82,2019-2020,9,AFC Bournemouth,Norwich City,Eddie Howe,Daniel Farke
+2019-2020_83,2019-2020,9,Aston Villa,Brighton & Hove Albion,Dean Smith,Graham Potter
+2019-2020_84,2019-2020,9,Chelsea FC,Newcastle United,Frank Lampard,Steve Bruce
+2019-2020_85,2019-2020,9,Leicester City,Burnley FC,Brendan Rodgers,Sean Dyche
+2019-2020_86,2019-2020,9,Tottenham Hotspur,Watford FC,Mauricio Pochettino,Quique Sánchez Flores
+2019-2020_87,2019-2020,9,Wolverhampton Wanderers,Southampton FC,Nuno Espírito Santo,Ralph Hasenhüttl
+2019-2020_88,2019-2020,9,Crystal Palace,Manchester City,Roy Hodgson,Pep Guardiola
+2019-2020_89,2019-2020,9,Manchester United,Liverpool FC,Ole Gunnar Solskjær,Jürgen Klopp
+2019-2020_90,2019-2020,9,Sheffield United,Arsenal FC,Chris Wilder,Unai Emery
+2019-2020_91,2019-2020,10,Southampton FC,Leicester City,Ralph Hasenhüttl,Brendan Rodgers
+2019-2020_92,2019-2020,10,Manchester City,Aston Villa,Pep Guardiola,Dean Smith
+2019-2020_93,2019-2020,10,Brighton & Hove Albion,Everton FC,Graham Potter,Marco Silva
+2019-2020_94,2019-2020,10,Watford FC,AFC Bournemouth,Quique Sánchez Flores,Eddie Howe
+2019-2020_95,2019-2020,10,West Ham United,Sheffield United,Manuel Pellegrini,Chris Wilder
+2019-2020_96,2019-2020,10,Burnley FC,Chelsea FC,Sean Dyche,Frank Lampard
+2019-2020_97,2019-2020,10,Newcastle United,Wolverhampton Wanderers,Steve Bruce,Nuno Espírito Santo
+2019-2020_98,2019-2020,10,Arsenal FC,Crystal Palace,Unai Emery,Roy Hodgson
+2019-2020_99,2019-2020,10,Liverpool FC,Tottenham Hotspur,Jürgen Klopp,Mauricio Pochettino
+2019-2020_100,2019-2020,10,Norwich City,Manchester United,Daniel Farke,Ole Gunnar Solskjær
+2019-2020_101,2019-2020,11,AFC Bournemouth,Manchester United,Eddie Howe,Ole Gunnar Solskjær
+2019-2020_102,2019-2020,11,Arsenal FC,Wolverhampton Wanderers,Unai Emery,Nuno Espírito Santo
+2019-2020_103,2019-2020,11,Aston Villa,Liverpool FC,Dean Smith,Jürgen Klopp
+2019-2020_104,2019-2020,11,Brighton & Hove Albion,Norwich City,Graham Potter,Daniel Farke
+2019-2020_105,2019-2020,11,Manchester City,Southampton FC,Pep Guardiola,Ralph Hasenhüttl
+2019-2020_106,2019-2020,11,Sheffield United,Burnley FC,Chris Wilder,Sean Dyche
+2019-2020_107,2019-2020,11,West Ham United,Newcastle United,Manuel Pellegrini,Steve Bruce
+2019-2020_108,2019-2020,11,Watford FC,Chelsea FC,Quique Sánchez Flores,Frank Lampard
+2019-2020_109,2019-2020,11,Crystal Palace,Leicester City,Roy Hodgson,Brendan Rodgers
+2019-2020_110,2019-2020,11,Everton FC,Tottenham Hotspur,Marco Silva,Mauricio Pochettino
+2019-2020_111,2019-2020,12,Norwich City,Watford FC,Daniel Farke,Quique Sánchez Flores
+2019-2020_112,2019-2020,12,Chelsea FC,Crystal Palace,Frank Lampard,Roy Hodgson
+2019-2020_113,2019-2020,12,Burnley FC,West Ham United,Sean Dyche,Manuel Pellegrini
+2019-2020_114,2019-2020,12,Newcastle United,AFC Bournemouth,Steve Bruce,Eddie Howe
+2019-2020_115,2019-2020,12,Southampton FC,Everton FC,Ralph Hasenhüttl,Marco Silva
+2019-2020_116,2019-2020,12,Tottenham Hotspur,Sheffield United,Mauricio Pochettino,Chris Wilder
+2019-2020_117,2019-2020,12,Leicester City,Arsenal FC,Brendan Rodgers,Unai Emery
+2019-2020_118,2019-2020,12,Manchester United,Brighton & Hove Albion,Ole Gunnar Solskjær,Graham Potter
+2019-2020_119,2019-2020,12,Wolverhampton Wanderers,Aston Villa,Nuno Espírito Santo,Dean Smith
+2019-2020_120,2019-2020,12,Liverpool FC,Manchester City,Jürgen Klopp,Pep Guardiola
+2019-2020_121,2019-2020,13,West Ham United,Tottenham Hotspur,Manuel Pellegrini,José Mourinho
+2019-2020_122,2019-2020,13,AFC Bournemouth,Wolverhampton Wanderers,Eddie Howe,Nuno Espírito Santo
+2019-2020_123,2019-2020,13,Arsenal FC,Southampton FC,Unai Emery,Ralph Hasenhüttl
+2019-2020_124,2019-2020,13,Brighton & Hove Albion,Leicester City,Graham Potter,Brendan Rodgers
+2019-2020_125,2019-2020,13,Crystal Palace,Liverpool FC,Roy Hodgson,Jürgen Klopp
+2019-2020_126,2019-2020,13,Everton FC,Norwich City,Marco Silva,Daniel Farke
+2019-2020_127,2019-2020,13,Watford FC,Burnley FC,Quique Sánchez Flores,Sean Dyche
+2019-2020_128,2019-2020,13,Manchester City,Chelsea FC,Pep Guardiola,Frank Lampard
+2019-2020_129,2019-2020,13,Sheffield United,Manchester United,Chris Wilder,Ole Gunnar Solskjær
+2019-2020_130,2019-2020,13,Aston Villa,Newcastle United,Dean Smith,Steve Bruce
+2019-2020_131,2019-2020,14,Newcastle United,Manchester City,Steve Bruce,Pep Guardiola
+2019-2020_132,2019-2020,14,Burnley FC,Crystal Palace,Sean Dyche,Roy Hodgson
+2019-2020_133,2019-2020,14,Chelsea FC,West Ham United,Frank Lampard,Manuel Pellegrini
+2019-2020_134,2019-2020,14,Liverpool FC,Brighton & Hove Albion,Jürgen Klopp,Graham Potter
+2019-2020_135,2019-2020,14,Tottenham Hotspur,AFC Bournemouth,José Mourinho,Eddie Howe
+2019-2020_136,2019-2020,14,Southampton FC,Watford FC,Ralph Hasenhüttl,Quique Sánchez Flores
+2019-2020_137,2019-2020,14,Norwich City,Arsenal FC,Daniel Farke,Freddie Ljungberg
+2019-2020_138,2019-2020,14,Wolverhampton Wanderers,Sheffield United,Nuno Espírito Santo,Chris Wilder
+2019-2020_139,2019-2020,14,Leicester City,Everton FC,Brendan Rodgers,Marco Silva
+2019-2020_140,2019-2020,14,Manchester United,Aston Villa,Ole Gunnar Solskjær,Dean Smith
+2019-2020_141,2019-2020,15,Crystal Palace,AFC Bournemouth,Roy Hodgson,Eddie Howe
+2019-2020_142,2019-2020,15,Burnley FC,Manchester City,Sean Dyche,Pep Guardiola
+2019-2020_143,2019-2020,15,Leicester City,Watford FC,Brendan Rodgers,Hayden Mullins
+2019-2020_144,2019-2020,15,Wolverhampton Wanderers,West Ham United,Nuno Espírito Santo,Manuel Pellegrini
+2019-2020_145,2019-2020,15,Manchester United,Tottenham Hotspur,Ole Gunnar Solskjær,José Mourinho
+2019-2020_146,2019-2020,15,Chelsea FC,Aston Villa,Frank Lampard,Dean Smith
+2019-2020_147,2019-2020,15,Southampton FC,Norwich City,Ralph Hasenhüttl,Daniel Farke
+2019-2020_148,2019-2020,15,Liverpool FC,Everton FC,Jürgen Klopp,Marco Silva
+2019-2020_149,2019-2020,15,Sheffield United,Newcastle United,Chris Wilder,Steve Bruce
+2019-2020_150,2019-2020,15,Arsenal FC,Brighton & Hove Albion,Freddie Ljungberg,Graham Potter
+2019-2020_151,2019-2020,16,Everton FC,Chelsea FC,Duncan Ferguson,Frank Lampard
+2019-2020_152,2019-2020,16,AFC Bournemouth,Liverpool FC,Eddie Howe,Jürgen Klopp
+2019-2020_153,2019-2020,16,Tottenham Hotspur,Burnley FC,José Mourinho,Sean Dyche
+2019-2020_154,2019-2020,16,Watford FC,Crystal Palace,Hayden Mullins,Roy Hodgson
+2019-2020_155,2019-2020,16,Manchester City,Manchester United,Pep Guardiola,Ole Gunnar Solskjær
+2019-2020_156,2019-2020,16,Aston Villa,Leicester City,Dean Smith,Brendan Rodgers
+2019-2020_157,2019-2020,16,Newcastle United,Southampton FC,Steve Bruce,Ralph Hasenhüttl
+2019-2020_158,2019-2020,16,Norwich City,Sheffield United,Daniel Farke,Chris Wilder
+2019-2020_159,2019-2020,16,Brighton & Hove Albion,Wolverhampton Wanderers,Graham Potter,Nuno Espírito Santo
+2019-2020_160,2019-2020,16,West Ham United,Arsenal FC,Manuel Pellegrini,Freddie Ljungberg
+2019-2020_161,2019-2020,17,Liverpool FC,Watford FC,Jürgen Klopp,Nigel Pearson
+2019-2020_162,2019-2020,17,Burnley FC,Newcastle United,Sean Dyche,Steve Bruce
+2019-2020_163,2019-2020,17,Chelsea FC,AFC Bournemouth,Frank Lampard,Eddie Howe
+2019-2020_164,2019-2020,17,Leicester City,Norwich City,Brendan Rodgers,Daniel Farke
+2019-2020_165,2019-2020,17,Sheffield United,Aston Villa,Chris Wilder,Dean Smith
+2019-2020_166,2019-2020,17,Southampton FC,West Ham United,Ralph Hasenhüttl,Manuel Pellegrini
+2019-2020_167,2019-2020,17,Manchester United,Everton FC,Ole Gunnar Solskjær,Duncan Ferguson
+2019-2020_168,2019-2020,17,Wolverhampton Wanderers,Tottenham Hotspur,Nuno Espírito Santo,José Mourinho
+2019-2020_169,2019-2020,17,Arsenal FC,Manchester City,Freddie Ljungberg,Pep Guardiola
+2019-2020_170,2019-2020,17,Crystal Palace,Brighton & Hove Albion,Roy Hodgson,Graham Potter
+2019-2020_171,2019-2020,18,Everton FC,Arsenal FC,Duncan Ferguson,Freddie Ljungberg
+2019-2020_172,2019-2020,18,AFC Bournemouth,Burnley FC,Eddie Howe,Sean Dyche
+2019-2020_173,2019-2020,18,Aston Villa,Southampton FC,Dean Smith,Ralph Hasenhüttl
+2019-2020_174,2019-2020,18,Brighton & Hove Albion,Sheffield United,Graham Potter,Chris Wilder
+2019-2020_175,2019-2020,18,Newcastle United,Crystal Palace,Steve Bruce,Roy Hodgson
+2019-2020_176,2019-2020,18,Norwich City,Wolverhampton Wanderers,Daniel Farke,Nuno Espírito Santo
+2019-2020_177,2019-2020,18,Manchester City,Leicester City,Pep Guardiola,Brendan Rodgers
+2019-2020_178,2019-2020,18,Watford FC,Manchester United,Nigel Pearson,Ole Gunnar Solskjær
+2019-2020_179,2019-2020,18,Tottenham Hotspur,Chelsea FC,José Mourinho,Frank Lampard
+2019-2020_180,2019-2020,18,West Ham United,Liverpool FC,David Moyes,Jürgen Klopp
+2019-2020_181,2019-2020,19,Tottenham Hotspur,Brighton & Hove Albion,José Mourinho,Graham Potter
+2019-2020_182,2019-2020,19,AFC Bournemouth,Arsenal FC,Eddie Howe,Mikel Arteta
+2019-2020_183,2019-2020,19,Aston Villa,Norwich City,Dean Smith,Daniel Farke
+2019-2020_184,2019-2020,19,Chelsea FC,Southampton FC,Frank Lampard,Ralph Hasenhüttl
+2019-2020_185,2019-2020,19,Crystal Palace,West Ham United,Roy Hodgson,Manuel Pellegrini
+2019-2020_186,2019-2020,19,Everton FC,Burnley FC,Carlo Ancelotti,Sean Dyche
+2019-2020_187,2019-2020,19,Sheffield United,Watford FC,Chris Wilder,Nigel Pearson
+2019-2020_188,2019-2020,19,Manchester United,Newcastle United,Ole Gunnar Solskjær,Steve Bruce
+2019-2020_189,2019-2020,19,Leicester City,Liverpool FC,Brendan Rodgers,Jürgen Klopp
+2019-2020_190,2019-2020,19,Wolverhampton Wanderers,Manchester City,Nuno Espírito Santo,Pep Guardiola
+2019-2020_191,2019-2020,20,Brighton & Hove Albion,AFC Bournemouth,Graham Potter,Eddie Howe
+2019-2020_192,2019-2020,20,Newcastle United,Everton FC,Steve Bruce,Carlo Ancelotti
+2019-2020_193,2019-2020,20,Southampton FC,Crystal Palace,Ralph Hasenhüttl,Roy Hodgson
+2019-2020_194,2019-2020,20,Watford FC,Aston Villa,Nigel Pearson,Dean Smith
+2019-2020_195,2019-2020,20,Norwich City,Tottenham Hotspur,Daniel Farke,José Mourinho
+2019-2020_196,2019-2020,20,West Ham United,Leicester City,Manuel Pellegrini,Brendan Rodgers
+2019-2020_197,2019-2020,20,Burnley FC,Manchester United,Sean Dyche,Ole Gunnar Solskjær
+2019-2020_198,2019-2020,20,Arsenal FC,Chelsea FC,Mikel Arteta,Frank Lampard
+2019-2020_199,2019-2020,20,Liverpool FC,Wolverhampton Wanderers,Jürgen Klopp,Nuno Espírito Santo
+2019-2020_200,2019-2020,20,Manchester City,Sheffield United,Pep Guardiola,Chris Wilder
+2019-2020_201,2019-2020,21,Brighton & Hove Albion,Chelsea FC,Graham Potter,Frank Lampard
+2019-2020_202,2019-2020,21,Burnley FC,Aston Villa,Sean Dyche,Dean Smith
+2019-2020_203,2019-2020,21,Newcastle United,Leicester City,Steve Bruce,Brendan Rodgers
+2019-2020_204,2019-2020,21,Southampton FC,Tottenham Hotspur,Ralph Hasenhüttl,José Mourinho
+2019-2020_205,2019-2020,21,Watford FC,Wolverhampton Wanderers,Nigel Pearson,Nuno Espírito Santo
+2019-2020_206,2019-2020,21,Manchester City,Everton FC,Pep Guardiola,Carlo Ancelotti
+2019-2020_207,2019-2020,21,Norwich City,Crystal Palace,Daniel Farke,Roy Hodgson
+2019-2020_208,2019-2020,21,West Ham United,AFC Bournemouth,David Moyes,Eddie Howe
+2019-2020_209,2019-2020,21,Arsenal FC,Manchester United,Mikel Arteta,Ole Gunnar Solskjær
+2019-2020_210,2019-2020,21,Liverpool FC,Sheffield United,Jürgen Klopp,Chris Wilder
+2019-2020_211,2019-2020,22,Sheffield United,West Ham United,Chris Wilder,David Moyes
+2019-2020_212,2019-2020,22,Crystal Palace,Arsenal FC,Roy Hodgson,Mikel Arteta
+2019-2020_213,2019-2020,22,Chelsea FC,Burnley FC,Frank Lampard,Sean Dyche
+2019-2020_214,2019-2020,22,Everton FC,Brighton & Hove Albion,Carlo Ancelotti,Graham Potter
+2019-2020_215,2019-2020,22,Leicester City,Southampton FC,Brendan Rodgers,Ralph Hasenhüttl
+2019-2020_216,2019-2020,22,Manchester United,Norwich City,Ole Gunnar Solskjær,Daniel Farke
+2019-2020_217,2019-2020,22,Wolverhampton Wanderers,Newcastle United,Nuno Espírito Santo,Steve Bruce
+2019-2020_218,2019-2020,22,Tottenham Hotspur,Liverpool FC,José Mourinho,Jürgen Klopp
+2019-2020_219,2019-2020,22,AFC Bournemouth,Watford FC,Eddie Howe,Nigel Pearson
+2019-2020_220,2019-2020,22,Aston Villa,Manchester City,Dean Smith,Pep Guardiola
+2019-2020_221,2019-2020,23,Watford FC,Tottenham Hotspur,Nigel Pearson,José Mourinho
+2019-2020_222,2019-2020,23,Arsenal FC,Sheffield United,Mikel Arteta,Chris Wilder
+2019-2020_223,2019-2020,23,Brighton & Hove Albion,Aston Villa,Graham Potter,Dean Smith
+2019-2020_224,2019-2020,23,Manchester City,Crystal Palace,Pep Guardiola,Roy Hodgson
+2019-2020_225,2019-2020,23,Norwich City,AFC Bournemouth,Daniel Farke,Eddie Howe
+2019-2020_226,2019-2020,23,Southampton FC,Wolverhampton Wanderers,Ralph Hasenhüttl,Nuno Espírito Santo
+2019-2020_227,2019-2020,23,West Ham United,Everton FC,David Moyes,Carlo Ancelotti
+2019-2020_228,2019-2020,23,Newcastle United,Chelsea FC,Steve Bruce,Frank Lampard
+2019-2020_229,2019-2020,23,Burnley FC,Leicester City,Sean Dyche,Brendan Rodgers
+2019-2020_230,2019-2020,23,Liverpool FC,Manchester United,Jürgen Klopp,Ole Gunnar Solskjær
+2019-2020_231,2019-2020,24,AFC Bournemouth,Brighton & Hove Albion,Eddie Howe,Graham Potter
+2019-2020_232,2019-2020,24,Aston Villa,Watford FC,Dean Smith,Nigel Pearson
+2019-2020_233,2019-2020,24,Everton FC,Newcastle United,Carlo Ancelotti,Steve Bruce
+2019-2020_234,2019-2020,24,Sheffield United,Manchester City,Chris Wilder,Pep Guardiola
+2019-2020_235,2019-2020,24,Crystal Palace,Southampton FC,Roy Hodgson,Ralph Hasenhüttl
+2019-2020_236,2019-2020,24,Chelsea FC,Arsenal FC,Frank Lampard,Mikel Arteta
+2019-2020_237,2019-2020,24,Leicester City,West Ham United,Brendan Rodgers,David Moyes
+2019-2020_238,2019-2020,24,Tottenham Hotspur,Norwich City,José Mourinho,Daniel Farke
+2019-2020_239,2019-2020,24,Manchester United,Burnley FC,Ole Gunnar Solskjær,Sean Dyche
+2019-2020_240,2019-2020,24,Wolverhampton Wanderers,Liverpool FC,Nuno Espírito Santo,Jürgen Klopp
+2019-2020_241,2019-2020,25,Leicester City,Chelsea FC,Brendan Rodgers,Frank Lampard
+2019-2020_242,2019-2020,25,AFC Bournemouth,Aston Villa,Eddie Howe,Dean Smith
+2019-2020_243,2019-2020,25,Crystal Palace,Sheffield United,Roy Hodgson,Chris Wilder
+2019-2020_244,2019-2020,25,Liverpool FC,Southampton FC,Jürgen Klopp,Ralph Hasenhüttl
+2019-2020_245,2019-2020,25,Newcastle United,Norwich City,Steve Bruce,Daniel Farke
+2019-2020_246,2019-2020,25,Watford FC,Everton FC,Nigel Pearson,Carlo Ancelotti
+2019-2020_247,2019-2020,25,West Ham United,Brighton & Hove Albion,David Moyes,Graham Potter
+2019-2020_248,2019-2020,25,Manchester United,Wolverhampton Wanderers,Ole Gunnar Solskjær,Nuno Espírito Santo
+2019-2020_249,2019-2020,25,Burnley FC,Arsenal FC,Sean Dyche,Mikel Arteta
+2019-2020_250,2019-2020,25,Tottenham Hotspur,Manchester City,José Mourinho,Pep Guardiola
+2019-2020_251,2019-2020,26,Everton FC,Crystal Palace,Carlo Ancelotti,Roy Hodgson
+2019-2020_252,2019-2020,26,Brighton & Hove Albion,Watford FC,Graham Potter,Nigel Pearson
+2019-2020_253,2019-2020,26,Sheffield United,AFC Bournemouth,Chris Wilder,Eddie Howe
+2019-2020_254,2019-2020,26,Wolverhampton Wanderers,Leicester City,Nuno Espírito Santo,Brendan Rodgers
+2019-2020_255,2019-2020,26,Southampton FC,Burnley FC,Ralph Hasenhüttl,Sean Dyche
+2019-2020_256,2019-2020,26,Norwich City,Liverpool FC,Daniel Farke,Jürgen Klopp
+2019-2020_257,2019-2020,26,Aston Villa,Tottenham Hotspur,Dean Smith,José Mourinho
+2019-2020_258,2019-2020,26,Arsenal FC,Newcastle United,Mikel Arteta,Steve Bruce
+2019-2020_259,2019-2020,26,Chelsea FC,Manchester United,Frank Lampard,Ole Gunnar Solskjær
+2019-2020_260,2019-2020,26,Manchester City,West Ham United,Pep Guardiola,David Moyes
+2019-2020_261,2019-2020,27,Chelsea FC,Tottenham Hotspur,Frank Lampard,José Mourinho
+2019-2020_262,2019-2020,27,Burnley FC,AFC Bournemouth,Sean Dyche,Eddie Howe
+2019-2020_263,2019-2020,27,Crystal Palace,Newcastle United,Roy Hodgson,Steve Bruce
+2019-2020_264,2019-2020,27,Sheffield United,Brighton & Hove Albion,Chris Wilder,Graham Potter
+2019-2020_265,2019-2020,27,Southampton FC,Aston Villa,Ralph Hasenhüttl,Dean Smith
+2019-2020_266,2019-2020,27,Leicester City,Manchester City,Brendan Rodgers,Pep Guardiola
+2019-2020_267,2019-2020,27,Manchester United,Watford FC,Ole Gunnar Solskjær,Nigel Pearson
+2019-2020_268,2019-2020,27,Wolverhampton Wanderers,Norwich City,Nuno Espírito Santo,Daniel Farke
+2019-2020_269,2019-2020,27,Arsenal FC,Everton FC,Mikel Arteta,Carlo Ancelotti
+2019-2020_270,2019-2020,27,Liverpool FC,West Ham United,Jürgen Klopp,David Moyes
+2019-2020_271,2019-2020,28,Norwich City,Leicester City,Daniel Farke,Brendan Rodgers
+2019-2020_272,2019-2020,28,Brighton & Hove Albion,Crystal Palace,Graham Potter,Roy Hodgson
+2019-2020_273,2019-2020,28,AFC Bournemouth,Chelsea FC,Eddie Howe,Frank Lampard
+2019-2020_274,2019-2020,28,Newcastle United,Burnley FC,Steve Bruce,Sean Dyche
+2019-2020_275,2019-2020,28,West Ham United,Southampton FC,David Moyes,Ralph Hasenhüttl
+2019-2020_276,2019-2020,28,Watford FC,Liverpool FC,Nigel Pearson,Jürgen Klopp
+2019-2020_277,2019-2020,28,Everton FC,Manchester United,Carlo Ancelotti,Ole Gunnar Solskjær
+2019-2020_278,2019-2020,28,Tottenham Hotspur,Wolverhampton Wanderers,José Mourinho,Nuno Espírito Santo
+2019-2020_279,2019-2020,28,Aston Villa,Sheffield United,Dean Smith,Chris Wilder
+2019-2020_280,2019-2020,28,Manchester City,Arsenal FC,Pep Guardiola,Mikel Arteta
+2019-2020_281,2019-2020,29,Liverpool FC,AFC Bournemouth,Jürgen Klopp,Eddie Howe
+2019-2020_282,2019-2020,29,Arsenal FC,West Ham United,Mikel Arteta,David Moyes
+2019-2020_283,2019-2020,29,Crystal Palace,Watford FC,Roy Hodgson,Nigel Pearson
+2019-2020_284,2019-2020,29,Sheffield United,Norwich City,Chris Wilder,Daniel Farke
+2019-2020_285,2019-2020,29,Southampton FC,Newcastle United,Ralph Hasenhüttl,Steve Bruce
+2019-2020_286,2019-2020,29,Wolverhampton Wanderers,Brighton & Hove Albion,Nuno Espírito Santo,Graham Potter
+2019-2020_287,2019-2020,29,Burnley FC,Tottenham Hotspur,Sean Dyche,José Mourinho
+2019-2020_288,2019-2020,29,Chelsea FC,Everton FC,Frank Lampard,Carlo Ancelotti
+2019-2020_289,2019-2020,29,Manchester United,Manchester City,Ole Gunnar Solskjær,Pep Guardiola
+2019-2020_290,2019-2020,29,Leicester City,Aston Villa,Brendan Rodgers,Dean Smith
+2019-2020_291,2019-2020,30,Norwich City,Southampton FC,Daniel Farke,Ralph Hasenhüttl
+2019-2020_292,2019-2020,30,Tottenham Hotspur,Manchester United,José Mourinho,Ole Gunnar Solskjær
+2019-2020_293,2019-2020,30,Watford FC,Leicester City,Nigel Pearson,Brendan Rodgers
+2019-2020_294,2019-2020,30,Brighton & Hove Albion,Arsenal FC,Graham Potter,Mikel Arteta
+2019-2020_295,2019-2020,30,West Ham United,Wolverhampton Wanderers,David Moyes,Nuno Espírito Santo
+2019-2020_296,2019-2020,30,AFC Bournemouth,Crystal Palace,Eddie Howe,Roy Hodgson
+2019-2020_297,2019-2020,30,Newcastle United,Sheffield United,Steve Bruce,Chris Wilder
+2019-2020_298,2019-2020,30,Aston Villa,Chelsea FC,Dean Smith,Frank Lampard
+2019-2020_299,2019-2020,30,Everton FC,Liverpool FC,Carlo Ancelotti,Jürgen Klopp
+2019-2020_300,2019-2020,30,Manchester City,Burnley FC,Pep Guardiola,Sean Dyche
+2019-2020_301,2019-2020,31,Leicester City,Brighton & Hove Albion,Brendan Rodgers,Graham Potter
+2019-2020_302,2019-2020,31,Tottenham Hotspur,West Ham United,José Mourinho,David Moyes
+2019-2020_303,2019-2020,31,Manchester United,Sheffield United,Ole Gunnar Solskjær,Chris Wilder
+2019-2020_304,2019-2020,31,Newcastle United,Aston Villa,Steve Bruce,Dean Smith
+2019-2020_305,2019-2020,31,Norwich City,Everton FC,Daniel Farke,Carlo Ancelotti
+2019-2020_306,2019-2020,31,Wolverhampton Wanderers,AFC Bournemouth,Nuno Espírito Santo,Eddie Howe
+2019-2020_307,2019-2020,31,Liverpool FC,Crystal Palace,Jürgen Klopp,Roy Hodgson
+2019-2020_308,2019-2020,31,Burnley FC,Watford FC,Sean Dyche,Nigel Pearson
+2019-2020_309,2019-2020,31,Southampton FC,Arsenal FC,Ralph Hasenhüttl,Mikel Arteta
+2019-2020_310,2019-2020,31,Chelsea FC,Manchester City,Frank Lampard,Pep Guardiola
+2019-2020_311,2019-2020,32,Aston Villa,Wolverhampton Wanderers,Dean Smith,Nuno Espírito Santo
+2019-2020_312,2019-2020,32,Watford FC,Southampton FC,Nigel Pearson,Ralph Hasenhüttl
+2019-2020_313,2019-2020,32,Crystal Palace,Burnley FC,Roy Hodgson,Sean Dyche
+2019-2020_314,2019-2020,32,Brighton & Hove Albion,Manchester United,Graham Potter,Ole Gunnar Solskjær
+2019-2020_315,2019-2020,32,AFC Bournemouth,Newcastle United,Eddie Howe,Steve Bruce
+2019-2020_316,2019-2020,32,Arsenal FC,Norwich City,Mikel Arteta,Daniel Farke
+2019-2020_317,2019-2020,32,Everton FC,Leicester City,Carlo Ancelotti,Brendan Rodgers
+2019-2020_318,2019-2020,32,West Ham United,Chelsea FC,David Moyes,Frank Lampard
+2019-2020_319,2019-2020,32,Sheffield United,Tottenham Hotspur,Chris Wilder,José Mourinho
+2019-2020_320,2019-2020,32,Manchester City,Liverpool FC,Pep Guardiola,Jürgen Klopp
+2019-2020_321,2019-2020,33,Norwich City,Brighton & Hove Albion,Daniel Farke,Graham Potter
+2019-2020_322,2019-2020,33,Leicester City,Crystal Palace,Brendan Rodgers,Roy Hodgson
+2019-2020_323,2019-2020,33,Manchester United,AFC Bournemouth,Ole Gunnar Solskjær,Eddie Howe
+2019-2020_324,2019-2020,33,Wolverhampton Wanderers,Arsenal FC,Nuno Espírito Santo,Mikel Arteta
+2019-2020_325,2019-2020,33,Chelsea FC,Watford FC,Frank Lampard,Nigel Pearson
+2019-2020_326,2019-2020,33,Burnley FC,Sheffield United,Sean Dyche,Chris Wilder
+2019-2020_327,2019-2020,33,Newcastle United,West Ham United,Steve Bruce,David Moyes
+2019-2020_328,2019-2020,33,Liverpool FC,Aston Villa,Jürgen Klopp,Dean Smith
+2019-2020_329,2019-2020,33,Southampton FC,Manchester City,Ralph Hasenhüttl,Pep Guardiola
+2019-2020_330,2019-2020,33,Tottenham Hotspur,Everton FC,José Mourinho,Carlo Ancelotti
+2019-2020_331,2019-2020,34,Crystal Palace,Chelsea FC,Roy Hodgson,Frank Lampard
+2019-2020_332,2019-2020,34,Watford FC,Norwich City,Nigel Pearson,Daniel Farke
+2019-2020_333,2019-2020,34,Arsenal FC,Leicester City,Mikel Arteta,Brendan Rodgers
+2019-2020_334,2019-2020,34,Manchester City,Newcastle United,Pep Guardiola,Steve Bruce
+2019-2020_335,2019-2020,34,Sheffield United,Wolverhampton Wanderers,Chris Wilder,Nuno Espírito Santo
+2019-2020_336,2019-2020,34,West Ham United,Burnley FC,David Moyes,Sean Dyche
+2019-2020_337,2019-2020,34,Brighton & Hove Albion,Liverpool FC,Graham Potter,Jürgen Klopp
+2019-2020_338,2019-2020,34,AFC Bournemouth,Tottenham Hotspur,Eddie Howe,José Mourinho
+2019-2020_339,2019-2020,34,Everton FC,Southampton FC,Carlo Ancelotti,Ralph Hasenhüttl
+2019-2020_340,2019-2020,34,Aston Villa,Manchester United,Dean Smith,Ole Gunnar Solskjær
+2019-2020_341,2019-2020,35,Norwich City,West Ham United,Daniel Farke,David Moyes
+2019-2020_342,2019-2020,35,Watford FC,Newcastle United,Nigel Pearson,Steve Bruce
+2019-2020_343,2019-2020,35,Liverpool FC,Burnley FC,Jürgen Klopp,Sean Dyche
+2019-2020_344,2019-2020,35,Sheffield United,Chelsea FC,Chris Wilder,Frank Lampard
+2019-2020_345,2019-2020,35,Brighton & Hove Albion,Manchester City,Graham Potter,Pep Guardiola
+2019-2020_346,2019-2020,35,Wolverhampton Wanderers,Everton FC,Nuno Espírito Santo,Carlo Ancelotti
+2019-2020_347,2019-2020,35,Aston Villa,Crystal Palace,Dean Smith,Roy Hodgson
+2019-2020_348,2019-2020,35,Tottenham Hotspur,Arsenal FC,José Mourinho,Mikel Arteta
+2019-2020_349,2019-2020,35,AFC Bournemouth,Leicester City,Eddie Howe,Brendan Rodgers
+2019-2020_350,2019-2020,35,Manchester United,Southampton FC,Ole Gunnar Solskjær,Ralph Hasenhüttl
+2019-2020_351,2019-2020,36,Chelsea FC,Norwich City,Frank Lampard,Daniel Farke
+2019-2020_352,2019-2020,36,Burnley FC,Wolverhampton Wanderers,Sean Dyche,Nuno Espírito Santo
+2019-2020_353,2019-2020,36,Manchester City,AFC Bournemouth,Pep Guardiola,Eddie Howe
+2019-2020_354,2019-2020,36,Newcastle United,Tottenham Hotspur,Steve Bruce,José Mourinho
+2019-2020_355,2019-2020,36,Arsenal FC,Liverpool FC,Mikel Arteta,Jürgen Klopp
+2019-2020_356,2019-2020,36,Everton FC,Aston Villa,Carlo Ancelotti,Dean Smith
+2019-2020_357,2019-2020,36,Leicester City,Sheffield United,Brendan Rodgers,Chris Wilder
+2019-2020_358,2019-2020,36,Crystal Palace,Manchester United,Roy Hodgson,Ole Gunnar Solskjær
+2019-2020_359,2019-2020,36,Southampton FC,Brighton & Hove Albion,Ralph Hasenhüttl,Graham Potter
+2019-2020_360,2019-2020,36,West Ham United,Watford FC,David Moyes,Nigel Pearson
+2019-2020_361,2019-2020,37,Norwich City,Burnley FC,Daniel Farke,Sean Dyche
+2019-2020_362,2019-2020,37,AFC Bournemouth,Southampton FC,Eddie Howe,Ralph Hasenhüttl
+2019-2020_363,2019-2020,37,Tottenham Hotspur,Leicester City,José Mourinho,Brendan Rodgers
+2019-2020_364,2019-2020,37,Brighton & Hove Albion,Newcastle United,Graham Potter,Steve Bruce
+2019-2020_365,2019-2020,37,Sheffield United,Everton FC,Chris Wilder,Carlo Ancelotti
+2019-2020_366,2019-2020,37,Wolverhampton Wanderers,Crystal Palace,Nuno Espírito Santo,Roy Hodgson
+2019-2020_367,2019-2020,37,Watford FC,Manchester City,Hayden Mullins,Pep Guardiola
+2019-2020_368,2019-2020,37,Aston Villa,Arsenal FC,Dean Smith,Mikel Arteta
+2019-2020_369,2019-2020,37,Manchester United,West Ham United,Ole Gunnar Solskjær,David Moyes
+2019-2020_370,2019-2020,37,Liverpool FC,Chelsea FC,Jürgen Klopp,Frank Lampard
+2019-2020_371,2019-2020,38,Arsenal FC,Watford FC,Mikel Arteta,Hayden Mullins
+2019-2020_372,2019-2020,38,Burnley FC,Brighton & Hove Albion,Sean Dyche,Graham Potter
+2019-2020_373,2019-2020,38,Chelsea FC,Wolverhampton Wanderers,Frank Lampard,Nuno Espírito Santo
+2019-2020_374,2019-2020,38,Crystal Palace,Tottenham Hotspur,Roy Hodgson,José Mourinho
+2019-2020_375,2019-2020,38,Everton FC,AFC Bournemouth,Carlo Ancelotti,Eddie Howe
+2019-2020_376,2019-2020,38,Leicester City,Manchester United,Brendan Rodgers,Ole Gunnar Solskjær
+2019-2020_377,2019-2020,38,Manchester City,Norwich City,Pep Guardiola,Daniel Farke
+2019-2020_378,2019-2020,38,Newcastle United,Liverpool FC,Steve Bruce,Jürgen Klopp
+2019-2020_379,2019-2020,38,Southampton FC,Sheffield United,Ralph Hasenhüttl,Chris Wilder
+2019-2020_380,2019-2020,38,West Ham United,Aston Villa,David Moyes,Dean Smith
+2020-2021_381,2020-2021,1,Fulham FC,Arsenal FC,Scott Parker,Mikel Arteta
+2020-2021_382,2020-2021,1,Crystal Palace,Southampton FC,Roy Hodgson,Ralph Hasenhüttl
+2020-2021_383,2020-2021,1,Liverpool FC,Leeds United,Jürgen Klopp,Marcelo Bielsa
+2020-2021_384,2020-2021,1,West Ham United,Newcastle United,David Moyes,Steve Bruce
+2020-2021_385,2020-2021,1,West Bromwich Albion,Leicester City,Slaven Bilić,Brendan Rodgers
+2020-2021_386,2020-2021,1,Tottenham Hotspur,Everton FC,José Mourinho,Carlo Ancelotti
+2020-2021_387,2020-2021,1,Sheffield United,Wolverhampton Wanderers,Chris Wilder,Nuno Espírito Santo
+2020-2021_388,2020-2021,1,Brighton & Hove Albion,Chelsea FC,Graham Potter,Frank Lampard
+2020-2021_389,2020-2021,1,Burnley FC,Manchester United,Sean Dyche,Ole Gunnar Solskjær
+2020-2021_390,2020-2021,1,Manchester City,Aston Villa,Pep Guardiola,Dean Smith
+2020-2021_391,2020-2021,2,Everton FC,West Bromwich Albion,Carlo Ancelotti,Slaven Bilić
+2020-2021_392,2020-2021,2,Leeds United,Fulham FC,Marcelo Bielsa,Scott Parker
+2020-2021_393,2020-2021,2,Manchester United,Crystal Palace,Ole Gunnar Solskjær,Roy Hodgson
+2020-2021_394,2020-2021,2,Arsenal FC,West Ham United,Mikel Arteta,David Moyes
+2020-2021_395,2020-2021,2,Southampton FC,Tottenham Hotspur,Ralph Hasenhüttl,José Mourinho
+2020-2021_396,2020-2021,2,Newcastle United,Brighton & Hove Albion,Steve Bruce,Graham Potter
+2020-2021_397,2020-2021,2,Chelsea FC,Liverpool FC,Frank Lampard,Jürgen Klopp
+2020-2021_398,2020-2021,2,Leicester City,Burnley FC,Brendan Rodgers,Sean Dyche
+2020-2021_399,2020-2021,2,Aston Villa,Sheffield United,Dean Smith,Chris Wilder
+2020-2021_400,2020-2021,2,Wolverhampton Wanderers,Manchester City,Nuno Espírito Santo,Pep Guardiola
+2020-2021_401,2020-2021,3,Brighton & Hove Albion,Manchester United,Graham Potter,Ole Gunnar Solskjær
+2020-2021_402,2020-2021,3,Crystal Palace,Everton FC,Roy Hodgson,Carlo Ancelotti
+2020-2021_403,2020-2021,3,West Bromwich Albion,Chelsea FC,Slaven Bilić,Frank Lampard
+2020-2021_404,2020-2021,3,Burnley FC,Southampton FC,Sean Dyche,Ralph Hasenhüttl
+2020-2021_405,2020-2021,3,Sheffield United,Leeds United,Chris Wilder,Marcelo Bielsa
+2020-2021_406,2020-2021,3,Tottenham Hotspur,Newcastle United,José Mourinho,Steve Bruce
+2020-2021_407,2020-2021,3,Manchester City,Leicester City,Pep Guardiola,Brendan Rodgers
+2020-2021_408,2020-2021,3,West Ham United,Wolverhampton Wanderers,David Moyes,Nuno Espírito Santo
+2020-2021_409,2020-2021,3,Fulham FC,Aston Villa,Scott Parker,Dean Smith
+2020-2021_410,2020-2021,3,Liverpool FC,Arsenal FC,Jürgen Klopp,Mikel Arteta
+2020-2021_411,2020-2021,4,Chelsea FC,Crystal Palace,Frank Lampard,Roy Hodgson
+2020-2021_412,2020-2021,4,Everton FC,Brighton & Hove Albion,Carlo Ancelotti,Graham Potter
+2020-2021_413,2020-2021,4,Leeds United,Manchester City,Marcelo Bielsa,Pep Guardiola
+2020-2021_414,2020-2021,4,Newcastle United,Burnley FC,Steve Bruce,Sean Dyche
+2020-2021_415,2020-2021,4,Leicester City,West Ham United,Brendan Rodgers,David Moyes
+2020-2021_416,2020-2021,4,Southampton FC,West Bromwich Albion,Ralph Hasenhüttl,Slaven Bilić
+2020-2021_417,2020-2021,4,Arsenal FC,Sheffield United,Mikel Arteta,Chris Wilder
+2020-2021_418,2020-2021,4,Wolverhampton Wanderers,Fulham FC,Nuno Espírito Santo,Scott Parker
+2020-2021_419,2020-2021,4,Manchester United,Tottenham Hotspur,Ole Gunnar Solskjær,José Mourinho
+2020-2021_420,2020-2021,4,Aston Villa,Liverpool FC,Dean Smith,Jürgen Klopp
+2020-2021_421,2020-2021,5,Everton FC,Liverpool FC,Carlo Ancelotti,Jürgen Klopp
+2020-2021_422,2020-2021,5,Chelsea FC,Southampton FC,Frank Lampard,Ralph Hasenhüttl
+2020-2021_423,2020-2021,5,Manchester City,Arsenal FC,Pep Guardiola,Mikel Arteta
+2020-2021_424,2020-2021,5,Newcastle United,Manchester United,Steve Bruce,Ole Gunnar Solskjær
+2020-2021_425,2020-2021,5,Sheffield United,Fulham FC,Chris Wilder,Scott Parker
+2020-2021_426,2020-2021,5,Crystal Palace,Brighton & Hove Albion,Roy Hodgson,Graham Potter
+2020-2021_427,2020-2021,5,Tottenham Hotspur,West Ham United,José Mourinho,David Moyes
+2020-2021_428,2020-2021,5,Leicester City,Aston Villa,Brendan Rodgers,Dean Smith
+2020-2021_429,2020-2021,5,West Bromwich Albion,Burnley FC,Slaven Bilić,Sean Dyche
+2020-2021_430,2020-2021,5,Leeds United,Wolverhampton Wanderers,Marcelo Bielsa,Nuno Espírito Santo
+2020-2021_431,2020-2021,6,Aston Villa,Leeds United,Dean Smith,Marcelo Bielsa
+2020-2021_432,2020-2021,6,West Ham United,Manchester City,David Moyes,Pep Guardiola
+2020-2021_433,2020-2021,6,Fulham FC,Crystal Palace,Scott Parker,Roy Hodgson
+2020-2021_434,2020-2021,6,Manchester United,Chelsea FC,Ole Gunnar Solskjær,Frank Lampard
+2020-2021_435,2020-2021,6,Liverpool FC,Sheffield United,Jürgen Klopp,Chris Wilder
+2020-2021_436,2020-2021,6,Southampton FC,Everton FC,Ralph Hasenhüttl,Carlo Ancelotti
+2020-2021_437,2020-2021,6,Wolverhampton Wanderers,Newcastle United,Nuno Espírito Santo,Steve Bruce
+2020-2021_438,2020-2021,6,Arsenal FC,Leicester City,Mikel Arteta,Brendan Rodgers
+2020-2021_439,2020-2021,6,Brighton & Hove Albion,West Bromwich Albion,Graham Potter,Slaven Bilić
+2020-2021_440,2020-2021,6,Burnley FC,Tottenham Hotspur,Sean Dyche,José Mourinho
+2020-2021_441,2020-2021,7,Wolverhampton Wanderers,Crystal Palace,Nuno Espírito Santo,Roy Hodgson
+2020-2021_442,2020-2021,7,Sheffield United,Manchester City,Chris Wilder,Pep Guardiola
+2020-2021_443,2020-2021,7,Burnley FC,Chelsea FC,Sean Dyche,Frank Lampard
+2020-2021_444,2020-2021,7,Liverpool FC,West Ham United,Jürgen Klopp,David Moyes
+2020-2021_445,2020-2021,7,Aston Villa,Southampton FC,Dean Smith,Ralph Hasenhüttl
+2020-2021_446,2020-2021,7,Newcastle United,Everton FC,Steve Bruce,Carlo Ancelotti
+2020-2021_447,2020-2021,7,Manchester United,Arsenal FC,Ole Gunnar Solskjær,Mikel Arteta
+2020-2021_448,2020-2021,7,Tottenham Hotspur,Brighton & Hove Albion,José Mourinho,Graham Potter
+2020-2021_449,2020-2021,7,Fulham FC,West Bromwich Albion,Scott Parker,Slaven Bilić
+2020-2021_450,2020-2021,7,Leeds United,Leicester City,Marcelo Bielsa,Brendan Rodgers
+2020-2021_451,2020-2021,8,Brighton & Hove Albion,Burnley FC,Graham Potter,Sean Dyche
+2020-2021_452,2020-2021,8,Southampton FC,Newcastle United,Ralph Hasenhüttl,Steve Bruce
+2020-2021_453,2020-2021,8,Everton FC,Manchester United,Carlo Ancelotti,Ole Gunnar Solskjær
+2020-2021_454,2020-2021,8,Crystal Palace,Leeds United,Roy Hodgson,Marcelo Bielsa
+2020-2021_455,2020-2021,8,Chelsea FC,Sheffield United,Frank Lampard,Chris Wilder
+2020-2021_456,2020-2021,8,West Ham United,Fulham FC,David Moyes,Scott Parker
+2020-2021_457,2020-2021,8,West Bromwich Albion,Tottenham Hotspur,Slaven Bilić,José Mourinho
+2020-2021_458,2020-2021,8,Leicester City,Wolverhampton Wanderers,Brendan Rodgers,Nuno Espírito Santo
+2020-2021_459,2020-2021,8,Manchester City,Liverpool FC,Pep Guardiola,Jürgen Klopp
+2020-2021_460,2020-2021,8,Arsenal FC,Aston Villa,Mikel Arteta,Dean Smith
+2020-2021_461,2020-2021,9,Newcastle United,Chelsea FC,Steve Bruce,Frank Lampard
+2020-2021_462,2020-2021,9,Aston Villa,Brighton & Hove Albion,Dean Smith,Graham Potter
+2020-2021_463,2020-2021,9,Tottenham Hotspur,Manchester City,José Mourinho,Pep Guardiola
+2020-2021_464,2020-2021,9,Manchester United,West Bromwich Albion,Ole Gunnar Solskjær,Slaven Bilić
+2020-2021_465,2020-2021,9,Fulham FC,Everton FC,Scott Parker,Carlo Ancelotti
+2020-2021_466,2020-2021,9,Sheffield United,West Ham United,Chris Wilder,David Moyes
+2020-2021_467,2020-2021,9,Leeds United,Arsenal FC,Marcelo Bielsa,Mikel Arteta
+2020-2021_468,2020-2021,9,Liverpool FC,Leicester City,Jürgen Klopp,Brendan Rodgers
+2020-2021_469,2020-2021,9,Burnley FC,Crystal Palace,Sean Dyche,Roy Hodgson
+2020-2021_470,2020-2021,9,Wolverhampton Wanderers,Southampton FC,Nuno Espírito Santo,Ralph Hasenhüttl
+2020-2021_471,2020-2021,10,Crystal Palace,Newcastle United,Roy Hodgson,Steve Bruce
+2020-2021_472,2020-2021,10,Brighton & Hove Albion,Liverpool FC,Graham Potter,Jürgen Klopp
+2020-2021_473,2020-2021,10,Manchester City,Burnley FC,Pep Guardiola,Sean Dyche
+2020-2021_474,2020-2021,10,Everton FC,Leeds United,Carlo Ancelotti,Marcelo Bielsa
+2020-2021_475,2020-2021,10,West Bromwich Albion,Sheffield United,Slaven Bilić,Chris Wilder
+2020-2021_476,2020-2021,10,Southampton FC,Manchester United,Ralph Hasenhüttl,Ole Gunnar Solskjær
+2020-2021_477,2020-2021,10,Chelsea FC,Tottenham Hotspur,Frank Lampard,José Mourinho
+2020-2021_478,2020-2021,10,Arsenal FC,Wolverhampton Wanderers,Mikel Arteta,Nuno Espírito Santo
+2020-2021_479,2020-2021,10,Leicester City,Fulham FC,Brendan Rodgers,Scott Parker
+2020-2021_480,2020-2021,10,West Ham United,Aston Villa,David Moyes,Dean Smith
+2020-2021_481,2020-2021,11,Burnley FC,Everton FC,Sean Dyche,Carlo Ancelotti
+2020-2021_482,2020-2021,11,Manchester City,Fulham FC,Pep Guardiola,Scott Parker
+2020-2021_483,2020-2021,11,West Ham United,Manchester United,David Moyes,Ole Gunnar Solskjær
+2020-2021_484,2020-2021,11,Chelsea FC,Leeds United,Frank Lampard,Marcelo Bielsa
+2020-2021_485,2020-2021,11,West Bromwich Albion,Crystal Palace,Slaven Bilić,Roy Hodgson
+2020-2021_486,2020-2021,11,Sheffield United,Leicester City,Chris Wilder,Brendan Rodgers
+2020-2021_487,2020-2021,11,Tottenham Hotspur,Arsenal FC,José Mourinho,Mikel Arteta
+2020-2021_488,2020-2021,11,Liverpool FC,Wolverhampton Wanderers,Jürgen Klopp,Nuno Espírito Santo
+2020-2021_489,2020-2021,11,Brighton & Hove Albion,Southampton FC,Graham Potter,Ralph Hasenhüttl
+2020-2021_490,2020-2021,11,Aston Villa,Newcastle United,Dean Smith,Steve Bruce
+2020-2021_491,2020-2021,12,Leeds United,West Ham United,Marcelo Bielsa,David Moyes
+2020-2021_492,2020-2021,12,Wolverhampton Wanderers,Aston Villa,Nuno Espírito Santo,Dean Smith
+2020-2021_493,2020-2021,12,Newcastle United,West Bromwich Albion,Steve Bruce,Slaven Bilić
+2020-2021_494,2020-2021,12,Manchester United,Manchester City,Ole Gunnar Solskjær,Pep Guardiola
+2020-2021_495,2020-2021,12,Everton FC,Chelsea FC,Carlo Ancelotti,Frank Lampard
+2020-2021_496,2020-2021,12,Southampton FC,Sheffield United,Ralph Hasenhüttl,Chris Wilder
+2020-2021_497,2020-2021,12,Crystal Palace,Tottenham Hotspur,Roy Hodgson,José Mourinho
+2020-2021_498,2020-2021,12,Fulham FC,Liverpool FC,Scott Parker,Jürgen Klopp
+2020-2021_499,2020-2021,12,Arsenal FC,Burnley FC,Mikel Arteta,Sean Dyche
+2020-2021_500,2020-2021,12,Leicester City,Brighton & Hove Albion,Brendan Rodgers,Graham Potter
+2020-2021_501,2020-2021,13,Wolverhampton Wanderers,Chelsea FC,Nuno Espírito Santo,Frank Lampard
+2020-2021_502,2020-2021,13,Manchester City,West Bromwich Albion,Pep Guardiola,Slaven Bilić
+2020-2021_503,2020-2021,13,Arsenal FC,Southampton FC,Mikel Arteta,Ralph Hasenhüttl
+2020-2021_504,2020-2021,13,Leeds United,Newcastle United,Marcelo Bielsa,Steve Bruce
+2020-2021_505,2020-2021,13,Leicester City,Everton FC,Brendan Rodgers,Carlo Ancelotti
+2020-2021_506,2020-2021,13,Fulham FC,Brighton & Hove Albion,Scott Parker,Graham Potter
+2020-2021_507,2020-2021,13,West Ham United,Crystal Palace,David Moyes,Roy Hodgson
+2020-2021_508,2020-2021,13,Liverpool FC,Tottenham Hotspur,Jürgen Klopp,José Mourinho
+2020-2021_509,2020-2021,13,Aston Villa,Burnley FC,Dean Smith,Sean Dyche
+2020-2021_510,2020-2021,13,Sheffield United,Manchester United,Chris Wilder,Ole Gunnar Solskjær
+2020-2021_511,2020-2021,14,Crystal Palace,Liverpool FC,Roy Hodgson,Jürgen Klopp
+2020-2021_512,2020-2021,14,Southampton FC,Manchester City,Ralph Hasenhüttl,Pep Guardiola
+2020-2021_513,2020-2021,14,Everton FC,Arsenal FC,Carlo Ancelotti,Mikel Arteta
+2020-2021_514,2020-2021,14,Newcastle United,Fulham FC,Steve Bruce,Scott Parker
+2020-2021_515,2020-2021,14,Brighton & Hove Albion,Sheffield United,Graham Potter,Chris Wilder
+2020-2021_516,2020-2021,14,Tottenham Hotspur,Leicester City,José Mourinho,Brendan Rodgers
+2020-2021_517,2020-2021,14,Manchester United,Leeds United,Ole Gunnar Solskjær,Marcelo Bielsa
+2020-2021_518,2020-2021,14,West Bromwich Albion,Aston Villa,Sam Allardyce,Dean Smith
+2020-2021_519,2020-2021,14,Burnley FC,Wolverhampton Wanderers,Sean Dyche,Nuno Espírito Santo
+2020-2021_520,2020-2021,14,Chelsea FC,West Ham United,Frank Lampard,David Moyes
+2020-2021_521,2020-2021,15,Leicester City,Manchester United,Brendan Rodgers,Ole Gunnar Solskjær
+2020-2021_522,2020-2021,15,Aston Villa,Crystal Palace,Dean Smith,Roy Hodgson
+2020-2021_523,2020-2021,15,Fulham FC,Southampton FC,Scott Parker,Ralph Hasenhüttl
+2020-2021_524,2020-2021,15,Arsenal FC,Chelsea FC,Mikel Arteta,Frank Lampard
+2020-2021_525,2020-2021,15,Manchester City,Newcastle United,Pep Guardiola,Steve Bruce
+2020-2021_526,2020-2021,15,Sheffield United,Everton FC,Chris Wilder,Carlo Ancelotti
+2020-2021_527,2020-2021,15,Leeds United,Burnley FC,Marcelo Bielsa,Sean Dyche
+2020-2021_528,2020-2021,15,West Ham United,Brighton & Hove Albion,David Moyes,Graham Potter
+2020-2021_529,2020-2021,15,Liverpool FC,West Bromwich Albion,Jürgen Klopp,Sam Allardyce
+2020-2021_530,2020-2021,15,Wolverhampton Wanderers,Tottenham Hotspur,Nuno Espírito Santo,José Mourinho
+2020-2021_531,2020-2021,16,Crystal Palace,Leicester City,Roy Hodgson,Brendan Rodgers
+2020-2021_532,2020-2021,16,Chelsea FC,Aston Villa,Frank Lampard,Dean Smith
+2020-2021_533,2020-2021,16,Brighton & Hove Albion,Arsenal FC,Graham Potter,Mikel Arteta
+2020-2021_534,2020-2021,16,Burnley FC,Sheffield United,Sean Dyche,Chris Wilder
+2020-2021_535,2020-2021,16,Southampton FC,West Ham United,Ralph Hasenhüttl,David Moyes
+2020-2021_536,2020-2021,16,West Bromwich Albion,Leeds United,Sam Allardyce,Marcelo Bielsa
+2020-2021_537,2020-2021,16,Manchester United,Wolverhampton Wanderers,Ole Gunnar Solskjær,Nuno Espírito Santo
+2020-2021_538,2020-2021,16,Newcastle United,Liverpool FC,Steve Bruce,Jürgen Klopp
+2020-2021_539,2020-2021,16,Tottenham Hotspur,Fulham FC,José Mourinho,Scott Parker
+2020-2021_540,2020-2021,16,Everton FC,Manchester City,Carlo Ancelotti,Pep Guardiola
+2020-2021_541,2020-2021,17,Everton FC,West Ham United,Carlo Ancelotti,David Moyes
+2020-2021_542,2020-2021,17,Manchester United,Aston Villa,Ole Gunnar Solskjær,Dean Smith
+2020-2021_543,2020-2021,17,Tottenham Hotspur,Leeds United,José Mourinho,Marcelo Bielsa
+2020-2021_544,2020-2021,17,Crystal Palace,Sheffield United,Roy Hodgson,Chris Wilder
+2020-2021_545,2020-2021,17,Brighton & Hove Albion,Wolverhampton Wanderers,Graham Potter,Nuno Espírito Santo
+2020-2021_546,2020-2021,17,West Bromwich Albion,Arsenal FC,Sam Allardyce,Mikel Arteta
+2020-2021_547,2020-2021,17,Newcastle United,Leicester City,Steve Bruce,Brendan Rodgers
+2020-2021_548,2020-2021,17,Chelsea FC,Manchester City,Frank Lampard,Pep Guardiola
+2020-2021_549,2020-2021,17,Southampton FC,Liverpool FC,Ralph Hasenhüttl,Jürgen Klopp
+2020-2021_550,2020-2021,17,Burnley FC,Fulham FC,Sean Dyche,Scott Parker
+2020-2021_551,2020-2021,18,Sheffield United,Newcastle United,Chris Wilder,Steve Bruce
+2020-2021_552,2020-2021,18,Wolverhampton Wanderers,Everton FC,Nuno Espírito Santo,Carlo Ancelotti
+2020-2021_553,2020-2021,18,Manchester City,Brighton & Hove Albion,Pep Guardiola,Graham Potter
+2020-2021_554,2020-2021,18,Arsenal FC,Crystal Palace,Mikel Arteta,Roy Hodgson
+2020-2021_555,2020-2021,18,West Ham United,West Bromwich Albion,David Moyes,Sam Allardyce
+2020-2021_556,2020-2021,18,Leicester City,Chelsea FC,Brendan Rodgers,Frank Lampard
+2020-2021_557,2020-2021,18,Fulham FC,Manchester United,Scott Parker,Ole Gunnar Solskjær
+2020-2021_558,2020-2021,18,Liverpool FC,Burnley FC,Jürgen Klopp,Sean Dyche
+2020-2021_559,2020-2021,18,Leeds United,Southampton FC,Marcelo Bielsa,Ralph Hasenhüttl
+2020-2021_560,2020-2021,18,Aston Villa,Tottenham Hotspur,Dean Smith,José Mourinho
+2020-2021_561,2020-2021,19,Wolverhampton Wanderers,West Bromwich Albion,Nuno Espírito Santo,Sam Allardyce
+2020-2021_562,2020-2021,19,Leeds United,Brighton & Hove Albion,Marcelo Bielsa,Graham Potter
+2020-2021_563,2020-2021,19,West Ham United,Burnley FC,David Moyes,Sean Dyche
+2020-2021_564,2020-2021,19,Fulham FC,Chelsea FC,Scott Parker,Frank Lampard
+2020-2021_565,2020-2021,19,Leicester City,Southampton FC,Brendan Rodgers,Ralph Hasenhüttl
+2020-2021_566,2020-2021,19,Sheffield United,Tottenham Hotspur,Chris Wilder,José Mourinho
+2020-2021_567,2020-2021,19,Liverpool FC,Manchester United,Jürgen Klopp,Ole Gunnar Solskjær
+2020-2021_568,2020-2021,19,Manchester City,Crystal Palace,Pep Guardiola,Roy Hodgson
+2020-2021_569,2020-2021,19,Arsenal FC,Newcastle United,Mikel Arteta,Steve Bruce
+2020-2021_570,2020-2021,19,Aston Villa,Everton FC,Dean Smith,Carlo Ancelotti
+2020-2021_571,2020-2021,20,Newcastle United,Leeds United,Steve Bruce,Marcelo Bielsa
+2020-2021_572,2020-2021,20,Crystal Palace,West Ham United,Roy Hodgson,David Moyes
+2020-2021_573,2020-2021,20,West Bromwich Albion,Manchester City,Sam Allardyce,Pep Guardiola
+2020-2021_574,2020-2021,20,Southampton FC,Arsenal FC,Ralph Hasenhüttl,Mikel Arteta
+2020-2021_575,2020-2021,20,Burnley FC,Aston Villa,Sean Dyche,Dean Smith
+2020-2021_576,2020-2021,20,Chelsea FC,Wolverhampton Wanderers,Thomas Tuchel,Nuno Espírito Santo
+2020-2021_577,2020-2021,20,Brighton & Hove Albion,Fulham FC,Graham Potter,Scott Parker
+2020-2021_578,2020-2021,20,Everton FC,Leicester City,Carlo Ancelotti,Brendan Rodgers
+2020-2021_579,2020-2021,20,Manchester United,Sheffield United,Ole Gunnar Solskjær,Chris Wilder
+2020-2021_580,2020-2021,20,Tottenham Hotspur,Liverpool FC,José Mourinho,Jürgen Klopp
+2020-2021_581,2020-2021,21,Everton FC,Newcastle United,Carlo Ancelotti,Steve Bruce
+2020-2021_582,2020-2021,21,Crystal Palace,Wolverhampton Wanderers,Roy Hodgson,Nuno Espírito Santo
+2020-2021_583,2020-2021,21,Manchester City,Sheffield United,Pep Guardiola,Chris Wilder
+2020-2021_584,2020-2021,21,West Bromwich Albion,Fulham FC,Sam Allardyce,Scott Parker
+2020-2021_585,2020-2021,21,Arsenal FC,Manchester United,Mikel Arteta,Ole Gunnar Solskjær
+2020-2021_586,2020-2021,21,Southampton FC,Aston Villa,Ralph Hasenhüttl,Dean Smith
+2020-2021_587,2020-2021,21,Chelsea FC,Burnley FC,Thomas Tuchel,Sean Dyche
+2020-2021_588,2020-2021,21,Leicester City,Leeds United,Brendan Rodgers,Marcelo Bielsa
+2020-2021_589,2020-2021,21,West Ham United,Liverpool FC,David Moyes,Jürgen Klopp
+2020-2021_590,2020-2021,21,Brighton & Hove Albion,Tottenham Hotspur,Graham Potter,José Mourinho
+2020-2021_591,2020-2021,22,Sheffield United,West Bromwich Albion,Chris Wilder,Sam Allardyce
+2020-2021_592,2020-2021,22,Wolverhampton Wanderers,Arsenal FC,Nuno Espírito Santo,Mikel Arteta
+2020-2021_593,2020-2021,22,Manchester United,Southampton FC,Ole Gunnar Solskjær,Ralph Hasenhüttl
+2020-2021_594,2020-2021,22,Newcastle United,Crystal Palace,Steve Bruce,Roy Hodgson
+2020-2021_595,2020-2021,22,Burnley FC,Manchester City,Sean Dyche,Pep Guardiola
+2020-2021_596,2020-2021,22,Fulham FC,Leicester City,Scott Parker,Brendan Rodgers
+2020-2021_597,2020-2021,22,Leeds United,Everton FC,Marcelo Bielsa,Carlo Ancelotti
+2020-2021_598,2020-2021,22,Aston Villa,West Ham United,Dean Smith,David Moyes
+2020-2021_599,2020-2021,22,Liverpool FC,Brighton & Hove Albion,Jürgen Klopp,Graham Potter
+2020-2021_600,2020-2021,22,Tottenham Hotspur,Chelsea FC,José Mourinho,Thomas Tuchel
+2020-2021_601,2020-2021,23,Aston Villa,Arsenal FC,Dean Smith,Mikel Arteta
+2020-2021_602,2020-2021,23,Burnley FC,Brighton & Hove Albion,Sean Dyche,Graham Potter
+2020-2021_603,2020-2021,23,Newcastle United,Southampton FC,Steve Bruce,Ralph Hasenhüttl
+2020-2021_604,2020-2021,23,Fulham FC,West Ham United,Scott Parker,David Moyes
+2020-2021_605,2020-2021,23,Manchester United,Everton FC,Ole Gunnar Solskjær,Carlo Ancelotti
+2020-2021_606,2020-2021,23,Tottenham Hotspur,West Bromwich Albion,José Mourinho,Sam Allardyce
+2020-2021_607,2020-2021,23,Wolverhampton Wanderers,Leicester City,Nuno Espírito Santo,Brendan Rodgers
+2020-2021_608,2020-2021,23,Liverpool FC,Manchester City,Jürgen Klopp,Pep Guardiola
+2020-2021_609,2020-2021,23,Sheffield United,Chelsea FC,Chris Wilder,Thomas Tuchel
+2020-2021_610,2020-2021,23,Leeds United,Crystal Palace,Marcelo Bielsa,Roy Hodgson
+2020-2021_611,2020-2021,24,Leicester City,Liverpool FC,Brendan Rodgers,Jürgen Klopp
+2020-2021_612,2020-2021,24,Crystal Palace,Burnley FC,Roy Hodgson,Sean Dyche
+2020-2021_613,2020-2021,24,Manchester City,Tottenham Hotspur,Pep Guardiola,José Mourinho
+2020-2021_614,2020-2021,24,Brighton & Hove Albion,Aston Villa,Graham Potter,Dean Smith
+2020-2021_615,2020-2021,24,Southampton FC,Wolverhampton Wanderers,Ralph Hasenhüttl,Nuno Espírito Santo
+2020-2021_616,2020-2021,24,West Bromwich Albion,Manchester United,Sam Allardyce,Ole Gunnar Solskjær
+2020-2021_617,2020-2021,24,Arsenal FC,Leeds United,Mikel Arteta,Marcelo Bielsa
+2020-2021_618,2020-2021,24,Everton FC,Fulham FC,Carlo Ancelotti,Scott Parker
+2020-2021_619,2020-2021,24,West Ham United,Sheffield United,David Moyes,Chris Wilder
+2020-2021_620,2020-2021,24,Chelsea FC,Newcastle United,Thomas Tuchel,Steve Bruce
+2020-2021_621,2020-2021,25,Wolverhampton Wanderers,Leeds United,Nuno Espírito Santo,Marcelo Bielsa
+2020-2021_622,2020-2021,25,Southampton FC,Chelsea FC,Ralph Hasenhüttl,Thomas Tuchel
+2020-2021_623,2020-2021,25,Burnley FC,West Bromwich Albion,Sean Dyche,Sam Allardyce
+2020-2021_624,2020-2021,25,Liverpool FC,Everton FC,Jürgen Klopp,Carlo Ancelotti
+2020-2021_625,2020-2021,25,Fulham FC,Sheffield United,Scott Parker,Chris Wilder
+2020-2021_626,2020-2021,25,West Ham United,Tottenham Hotspur,David Moyes,José Mourinho
+2020-2021_627,2020-2021,25,Aston Villa,Leicester City,Dean Smith,Brendan Rodgers
+2020-2021_628,2020-2021,25,Arsenal FC,Manchester City,Mikel Arteta,Pep Guardiola
+2020-2021_629,2020-2021,25,Manchester United,Newcastle United,Ole Gunnar Solskjær,Steve Bruce
+2020-2021_630,2020-2021,25,Brighton & Hove Albion,Crystal Palace,Graham Potter,Roy Hodgson
+2020-2021_631,2020-2021,26,Manchester City,West Ham United,Pep Guardiola,David Moyes
+2020-2021_632,2020-2021,26,West Bromwich Albion,Brighton & Hove Albion,Sam Allardyce,Graham Potter
+2020-2021_633,2020-2021,26,Leeds United,Aston Villa,Marcelo Bielsa,Dean Smith
+2020-2021_634,2020-2021,26,Newcastle United,Wolverhampton Wanderers,Steve Bruce,Nuno Espírito Santo
+2020-2021_635,2020-2021,26,Crystal Palace,Fulham FC,Roy Hodgson,Scott Parker
+2020-2021_636,2020-2021,26,Leicester City,Arsenal FC,Brendan Rodgers,Mikel Arteta
+2020-2021_637,2020-2021,26,Tottenham Hotspur,Burnley FC,José Mourinho,Sean Dyche
+2020-2021_638,2020-2021,26,Chelsea FC,Manchester United,Thomas Tuchel,Ole Gunnar Solskjær
+2020-2021_639,2020-2021,26,Sheffield United,Liverpool FC,Chris Wilder,Jürgen Klopp
+2020-2021_640,2020-2021,26,Everton FC,Southampton FC,Carlo Ancelotti,Ralph Hasenhüttl
+2020-2021_641,2020-2021,27,Burnley FC,Arsenal FC,Sean Dyche,Mikel Arteta
+2020-2021_642,2020-2021,27,Sheffield United,Southampton FC,Chris Wilder,Ralph Hasenhüttl
+2020-2021_643,2020-2021,27,Aston Villa,Wolverhampton Wanderers,Dean Smith,Nuno Espírito Santo
+2020-2021_644,2020-2021,27,Brighton & Hove Albion,Leicester City,Graham Potter,Brendan Rodgers
+2020-2021_645,2020-2021,27,West Bromwich Albion,Newcastle United,Sam Allardyce,Steve Bruce
+2020-2021_646,2020-2021,27,Liverpool FC,Fulham FC,Jürgen Klopp,Scott Parker
+2020-2021_647,2020-2021,27,Manchester City,Manchester United,Pep Guardiola,Ole Gunnar Solskjær
+2020-2021_648,2020-2021,27,Tottenham Hotspur,Crystal Palace,José Mourinho,Roy Hodgson
+2020-2021_649,2020-2021,27,Chelsea FC,Everton FC,Thomas Tuchel,Carlo Ancelotti
+2020-2021_650,2020-2021,27,West Ham United,Leeds United,David Moyes,Marcelo Bielsa
+2020-2021_651,2020-2021,28,Newcastle United,Aston Villa,Steve Bruce,Dean Smith
+2020-2021_652,2020-2021,28,Leeds United,Chelsea FC,Marcelo Bielsa,Thomas Tuchel
+2020-2021_653,2020-2021,28,Crystal Palace,West Bromwich Albion,Roy Hodgson,Sam Allardyce
+2020-2021_654,2020-2021,28,Everton FC,Burnley FC,Carlo Ancelotti,Sean Dyche
+2020-2021_655,2020-2021,28,Fulham FC,Manchester City,Scott Parker,Pep Guardiola
+2020-2021_656,2020-2021,28,Southampton FC,Brighton & Hove Albion,Ralph Hasenhüttl,Graham Potter
+2020-2021_657,2020-2021,28,Leicester City,Sheffield United,Brendan Rodgers,Paul Heckingbottom
+2020-2021_658,2020-2021,28,Arsenal FC,Tottenham Hotspur,Mikel Arteta,José Mourinho
+2020-2021_659,2020-2021,28,Manchester United,West Ham United,Ole Gunnar Solskjær,David Moyes
+2020-2021_660,2020-2021,28,Wolverhampton Wanderers,Liverpool FC,Nuno Espírito Santo,Jürgen Klopp
+2020-2021_661,2020-2021,29,Manchester City,Wolverhampton Wanderers,Pep Guardiola,Nuno Espírito Santo
+2020-2021_662,2020-2021,29,Burnley FC,Leicester City,Sean Dyche,Brendan Rodgers
+2020-2021_663,2020-2021,29,Sheffield United,Aston Villa,Chris Wilder,Dean Smith
+2020-2021_664,2020-2021,29,Crystal Palace,Manchester United,Roy Hodgson,Ole Gunnar Solskjær
+2020-2021_665,2020-2021,29,West Bromwich Albion,Everton FC,Sam Allardyce,Carlo Ancelotti
+2020-2021_666,2020-2021,29,Liverpool FC,Chelsea FC,Jürgen Klopp,Thomas Tuchel
+2020-2021_667,2020-2021,29,Fulham FC,Leeds United,Scott Parker,Marcelo Bielsa
+2020-2021_668,2020-2021,29,Brighton & Hove Albion,Newcastle United,Graham Potter,Steve Bruce
+2020-2021_669,2020-2021,29,West Ham United,Arsenal FC,David Moyes,Mikel Arteta
+2020-2021_670,2020-2021,29,Tottenham Hotspur,Southampton FC,Ryan Mason,Ralph Hasenhüttl
+2020-2021_671,2020-2021,30,Chelsea FC,West Bromwich Albion,Thomas Tuchel,Sam Allardyce
+2020-2021_672,2020-2021,30,Leeds United,Sheffield United,Marcelo Bielsa,Paul Heckingbottom
+2020-2021_673,2020-2021,30,Leicester City,Manchester City,Brendan Rodgers,Pep Guardiola
+2020-2021_674,2020-2021,30,Arsenal FC,Liverpool FC,Mikel Arteta,Jürgen Klopp
+2020-2021_675,2020-2021,30,Southampton FC,Burnley FC,Ralph Hasenhüttl,Sean Dyche
+2020-2021_676,2020-2021,30,Newcastle United,Tottenham Hotspur,Steve Bruce,José Mourinho
+2020-2021_677,2020-2021,30,Aston Villa,Fulham FC,Dean Smith,Scott Parker
+2020-2021_678,2020-2021,30,Manchester United,Brighton & Hove Albion,Ole Gunnar Solskjær,Graham Potter
+2020-2021_679,2020-2021,30,Everton FC,Crystal Palace,Carlo Ancelotti,Roy Hodgson
+2020-2021_680,2020-2021,30,Wolverhampton Wanderers,West Ham United,Nuno Espírito Santo,David Moyes
+2020-2021_681,2020-2021,31,Fulham FC,Wolverhampton Wanderers,Scott Parker,Nuno Espírito Santo
+2020-2021_682,2020-2021,31,Manchester City,Leeds United,Pep Guardiola,Marcelo Bielsa
+2020-2021_683,2020-2021,31,Liverpool FC,Aston Villa,Jürgen Klopp,Dean Smith
+2020-2021_684,2020-2021,31,Crystal Palace,Chelsea FC,Roy Hodgson,Thomas Tuchel
+2020-2021_685,2020-2021,31,Burnley FC,Newcastle United,Sean Dyche,Steve Bruce
+2020-2021_686,2020-2021,31,West Ham United,Leicester City,David Moyes,Brendan Rodgers
+2020-2021_687,2020-2021,31,Tottenham Hotspur,Manchester United,José Mourinho,Ole Gunnar Solskjær
+2020-2021_688,2020-2021,31,Sheffield United,Arsenal FC,Paul Heckingbottom,Mikel Arteta
+2020-2021_689,2020-2021,31,West Bromwich Albion,Southampton FC,Sam Allardyce,Ralph Hasenhüttl
+2020-2021_690,2020-2021,31,Brighton & Hove Albion,Everton FC,Graham Potter,Carlo Ancelotti
+2020-2021_691,2020-2021,32,Everton FC,Tottenham Hotspur,Carlo Ancelotti,José Mourinho
+2020-2021_692,2020-2021,32,Newcastle United,West Ham United,Steve Bruce,David Moyes
+2020-2021_693,2020-2021,32,Wolverhampton Wanderers,Sheffield United,Nuno Espírito Santo,Paul Heckingbottom
+2020-2021_694,2020-2021,32,Arsenal FC,Fulham FC,Mikel Arteta,Scott Parker
+2020-2021_695,2020-2021,32,Manchester United,Burnley FC,Ole Gunnar Solskjær,Sean Dyche
+2020-2021_696,2020-2021,32,Leeds United,Liverpool FC,Marcelo Bielsa,Jürgen Klopp
+2020-2021_697,2020-2021,32,Chelsea FC,Brighton & Hove Albion,Thomas Tuchel,Graham Potter
+2020-2021_698,2020-2021,32,Aston Villa,Manchester City,Dean Smith,Pep Guardiola
+2020-2021_699,2020-2021,32,Leicester City,West Bromwich Albion,Brendan Rodgers,Sam Allardyce
+2020-2021_700,2020-2021,32,Southampton FC,Crystal Palace,Ralph Hasenhüttl,Roy Hodgson
+2020-2021_701,2020-2021,33,Fulham FC,Tottenham Hotspur,Scott Parker,José Mourinho
+2020-2021_702,2020-2021,33,Manchester City,Southampton FC,Pep Guardiola,Ralph Hasenhüttl
+2020-2021_703,2020-2021,33,Arsenal FC,Everton FC,Mikel Arteta,Carlo Ancelotti
+2020-2021_704,2020-2021,33,Liverpool FC,Newcastle United,Jürgen Klopp,Steve Bruce
+2020-2021_705,2020-2021,33,West Ham United,Chelsea FC,David Moyes,Thomas Tuchel
+2020-2021_706,2020-2021,33,Sheffield United,Brighton & Hove Albion,Paul Heckingbottom,Graham Potter
+2020-2021_707,2020-2021,33,Wolverhampton Wanderers,Burnley FC,Nuno Espírito Santo,Sean Dyche
+2020-2021_708,2020-2021,33,Leeds United,Manchester United,Marcelo Bielsa,Ole Gunnar Solskjær
+2020-2021_709,2020-2021,33,Aston Villa,West Bromwich Albion,Dean Smith,Sam Allardyce
+2020-2021_710,2020-2021,33,Leicester City,Crystal Palace,Brendan Rodgers,Roy Hodgson
+2020-2021_711,2020-2021,34,Southampton FC,Leicester City,Ralph Hasenhüttl,Brendan Rodgers
+2020-2021_712,2020-2021,34,Crystal Palace,Manchester City,Roy Hodgson,Pep Guardiola
+2020-2021_713,2020-2021,34,Brighton & Hove Albion,Leeds United,Graham Potter,Marcelo Bielsa
+2020-2021_714,2020-2021,34,Chelsea FC,Fulham FC,Thomas Tuchel,Scott Parker
+2020-2021_715,2020-2021,34,Everton FC,Aston Villa,Carlo Ancelotti,Dean Smith
+2020-2021_716,2020-2021,34,Newcastle United,Arsenal FC,Steve Bruce,Mikel Arteta
+2020-2021_717,2020-2021,34,Tottenham Hotspur,Sheffield United,Ryan Mason,Paul Heckingbottom
+2020-2021_718,2020-2021,34,West Bromwich Albion,Wolverhampton Wanderers,Sam Allardyce,Nuno Espírito Santo
+2020-2021_719,2020-2021,34,Burnley FC,West Ham United,Sean Dyche,David Moyes
+2020-2021_720,2020-2021,34,Manchester United,Liverpool FC,Ole Gunnar Solskjær,Jürgen Klopp
+2020-2021_721,2020-2021,35,Leicester City,Newcastle United,Brendan Rodgers,Steve Bruce
+2020-2021_722,2020-2021,35,Leeds United,Tottenham Hotspur,Marcelo Bielsa,Ryan Mason
+2020-2021_723,2020-2021,35,Sheffield United,Crystal Palace,Paul Heckingbottom,Roy Hodgson
+2020-2021_724,2020-2021,35,Manchester City,Chelsea FC,Pep Guardiola,Thomas Tuchel
+2020-2021_725,2020-2021,35,Liverpool FC,Southampton FC,Jürgen Klopp,Ralph Hasenhüttl
+2020-2021_726,2020-2021,35,Wolverhampton Wanderers,Brighton & Hove Albion,Nuno Espírito Santo,Graham Potter
+2020-2021_727,2020-2021,35,Aston Villa,Manchester United,Dean Smith,Ole Gunnar Solskjær
+2020-2021_728,2020-2021,35,West Ham United,Everton FC,David Moyes,Carlo Ancelotti
+2020-2021_729,2020-2021,35,Arsenal FC,West Bromwich Albion,Mikel Arteta,Sam Allardyce
+2020-2021_730,2020-2021,35,Fulham FC,Burnley FC,Scott Parker,Sean Dyche
+2020-2021_731,2020-2021,36,Manchester United,Leicester City,Ole Gunnar Solskjær,Brendan Rodgers
+2020-2021_732,2020-2021,36,Chelsea FC,Arsenal FC,Thomas Tuchel,Mikel Arteta
+2020-2021_733,2020-2021,36,Newcastle United,Manchester City,Steve Bruce,Pep Guardiola
+2020-2021_734,2020-2021,36,Burnley FC,Leeds United,Sean Dyche,Marcelo Bielsa
+2020-2021_735,2020-2021,36,Southampton FC,Fulham FC,Ralph Hasenhüttl,Scott Parker
+2020-2021_736,2020-2021,36,Brighton & Hove Albion,West Ham United,Graham Potter,David Moyes
+2020-2021_737,2020-2021,36,Crystal Palace,Aston Villa,Roy Hodgson,Dean Smith
+2020-2021_738,2020-2021,36,Tottenham Hotspur,Wolverhampton Wanderers,Ryan Mason,Nuno Espírito Santo
+2020-2021_739,2020-2021,36,West Bromwich Albion,Liverpool FC,Sam Allardyce,Jürgen Klopp
+2020-2021_740,2020-2021,36,Everton FC,Sheffield United,Carlo Ancelotti,Paul Heckingbottom
+2020-2021_741,2020-2021,37,Manchester United,Fulham FC,Ole Gunnar Solskjær,Scott Parker
+2020-2021_742,2020-2021,37,Southampton FC,Leeds United,Ralph Hasenhüttl,Marcelo Bielsa
+2020-2021_743,2020-2021,37,Brighton & Hove Albion,Manchester City,Graham Potter,Pep Guardiola
+2020-2021_744,2020-2021,37,Chelsea FC,Leicester City,Thomas Tuchel,Brendan Rodgers
+2020-2021_745,2020-2021,37,Everton FC,Wolverhampton Wanderers,Carlo Ancelotti,Nuno Espírito Santo
+2020-2021_746,2020-2021,37,Newcastle United,Sheffield United,Steve Bruce,Paul Heckingbottom
+2020-2021_747,2020-2021,37,Tottenham Hotspur,Aston Villa,Ryan Mason,Dean Smith
+2020-2021_748,2020-2021,37,Crystal Palace,Arsenal FC,Roy Hodgson,Mikel Arteta
+2020-2021_749,2020-2021,37,Burnley FC,Liverpool FC,Sean Dyche,Jürgen Klopp
+2020-2021_750,2020-2021,37,West Bromwich Albion,West Ham United,Sam Allardyce,David Moyes
+2020-2021_751,2020-2021,38,Arsenal FC,Brighton & Hove Albion,Mikel Arteta,Graham Potter
+2020-2021_752,2020-2021,38,Aston Villa,Chelsea FC,Dean Smith,Thomas Tuchel
+2020-2021_753,2020-2021,38,Fulham FC,Newcastle United,Scott Parker,Steve Bruce
+2020-2021_754,2020-2021,38,Leeds United,West Bromwich Albion,Marcelo Bielsa,Sam Allardyce
+2020-2021_755,2020-2021,38,Leicester City,Tottenham Hotspur,Brendan Rodgers,Ryan Mason
+2020-2021_756,2020-2021,38,Liverpool FC,Crystal Palace,Jürgen Klopp,Roy Hodgson
+2020-2021_757,2020-2021,38,Manchester City,Everton FC,Pep Guardiola,Carlo Ancelotti
+2020-2021_758,2020-2021,38,Sheffield United,Burnley FC,Paul Heckingbottom,Sean Dyche
+2020-2021_759,2020-2021,38,West Ham United,Southampton FC,David Moyes,Ralph Hasenhüttl
+2020-2021_760,2020-2021,38,Wolverhampton Wanderers,Manchester United,Nuno Espírito Santo,Ole Gunnar Solskjær
+2021-2022_761,2021-2022,1,Brentford FC,Arsenal FC,Thomas Frank,Mikel Arteta
+2021-2022_762,2021-2022,1,Manchester United,Leeds United,Ole Gunnar Solskjær,Marcelo Bielsa
+2021-2022_763,2021-2022,1,Burnley FC,Brighton & Hove Albion,Sean Dyche,Graham Potter
+2021-2022_764,2021-2022,1,Chelsea FC,Crystal Palace,Thomas Tuchel,Patrick Vieira
+2021-2022_765,2021-2022,1,Everton FC,Southampton FC,Rafa Benítez,Ralph Hasenhüttl
+2021-2022_766,2021-2022,1,Leicester City,Wolverhampton Wanderers,Brendan Rodgers,Bruno Lage
+2021-2022_767,2021-2022,1,Watford FC,Aston Villa,Xisco Muñoz,Dean Smith
+2021-2022_768,2021-2022,1,Norwich City,Liverpool FC,Daniel Farke,Jürgen Klopp
+2021-2022_769,2021-2022,1,Newcastle United,West Ham United,Steve Bruce,David Moyes
+2021-2022_770,2021-2022,1,Tottenham Hotspur,Manchester City,Nuno Espírito Santo,Pep Guardiola
+2021-2022_771,2021-2022,2,Liverpool FC,Burnley FC,Jürgen Klopp,Sean Dyche
+2021-2022_772,2021-2022,2,Aston Villa,Newcastle United,Dean Smith,Steve Bruce
+2021-2022_773,2021-2022,2,Crystal Palace,Brentford FC,Patrick Vieira,Thomas Frank
+2021-2022_774,2021-2022,2,Leeds United,Everton FC,Marcelo Bielsa,Rafa Benítez
+2021-2022_775,2021-2022,2,Manchester City,Norwich City,Pep Guardiola,Daniel Farke
+2021-2022_776,2021-2022,2,Brighton & Hove Albion,Watford FC,Graham Potter,Xisco Muñoz
+2021-2022_777,2021-2022,2,Southampton FC,Manchester United,Ralph Hasenhüttl,Ole Gunnar Solskjær
+2021-2022_778,2021-2022,2,Wolverhampton Wanderers,Tottenham Hotspur,Bruno Lage,Nuno Espírito Santo
+2021-2022_779,2021-2022,2,Arsenal FC,Chelsea FC,Mikel Arteta,Thomas Tuchel
+2021-2022_780,2021-2022,2,West Ham United,Leicester City,David Moyes,Brendan Rodgers
+2021-2022_781,2021-2022,3,Manchester City,Arsenal FC,Pep Guardiola,Mikel Arteta
+2021-2022_782,2021-2022,3,Aston Villa,Brentford FC,Dean Smith,Thomas Frank
+2021-2022_783,2021-2022,3,Brighton & Hove Albion,Everton FC,Graham Potter,Rafa Benítez
+2021-2022_784,2021-2022,3,Newcastle United,Southampton FC,Steve Bruce,Ralph Hasenhüttl
+2021-2022_785,2021-2022,3,Norwich City,Leicester City,Daniel Farke,Brendan Rodgers
+2021-2022_786,2021-2022,3,West Ham United,Crystal Palace,David Moyes,Patrick Vieira
+2021-2022_787,2021-2022,3,Liverpool FC,Chelsea FC,Jürgen Klopp,Thomas Tuchel
+2021-2022_788,2021-2022,3,Burnley FC,Leeds United,Sean Dyche,Marcelo Bielsa
+2021-2022_789,2021-2022,3,Tottenham Hotspur,Watford FC,Nuno Espírito Santo,Xisco Muñoz
+2021-2022_790,2021-2022,3,Wolverhampton Wanderers,Manchester United,Bruno Lage,Ole Gunnar Solskjær
+2021-2022_791,2021-2022,4,Crystal Palace,Tottenham Hotspur,Patrick Vieira,Nuno Espírito Santo
+2021-2022_792,2021-2022,4,Arsenal FC,Norwich City,Mikel Arteta,Daniel Farke
+2021-2022_793,2021-2022,4,Brentford FC,Brighton & Hove Albion,Thomas Frank,Graham Potter
+2021-2022_794,2021-2022,4,Leicester City,Manchester City,Brendan Rodgers,Pep Guardiola
+2021-2022_795,2021-2022,4,Manchester United,Newcastle United,Ole Gunnar Solskjær,Steve Bruce
+2021-2022_796,2021-2022,4,Southampton FC,West Ham United,Ralph Hasenhüttl,David Moyes
+2021-2022_797,2021-2022,4,Watford FC,Wolverhampton Wanderers,Xisco Muñoz,Bruno Lage
+2021-2022_798,2021-2022,4,Chelsea FC,Aston Villa,Thomas Tuchel,Dean Smith
+2021-2022_799,2021-2022,4,Leeds United,Liverpool FC,Marcelo Bielsa,Jürgen Klopp
+2021-2022_800,2021-2022,4,Everton FC,Burnley FC,Rafa Benítez,Sean Dyche
+2021-2022_801,2021-2022,5,Newcastle United,Leeds United,Steve Bruce,Marcelo Bielsa
+2021-2022_802,2021-2022,5,Wolverhampton Wanderers,Brentford FC,Bruno Lage,Thomas Frank
+2021-2022_803,2021-2022,5,Burnley FC,Arsenal FC,Sean Dyche,Mikel Arteta
+2021-2022_804,2021-2022,5,Liverpool FC,Crystal Palace,Jürgen Klopp,Patrick Vieira
+2021-2022_805,2021-2022,5,Manchester City,Southampton FC,Pep Guardiola,Ralph Hasenhüttl
+2021-2022_806,2021-2022,5,Norwich City,Watford FC,Daniel Farke,Xisco Muñoz
+2021-2022_807,2021-2022,5,Aston Villa,Everton FC,Dean Smith,Rafa Benítez
+2021-2022_808,2021-2022,5,Brighton & Hove Albion,Leicester City,Graham Potter,Brendan Rodgers
+2021-2022_809,2021-2022,5,West Ham United,Manchester United,David Moyes,Ole Gunnar Solskjær
+2021-2022_810,2021-2022,5,Tottenham Hotspur,Chelsea FC,Nuno Espírito Santo,Thomas Tuchel
+2021-2022_811,2021-2022,6,Chelsea FC,Manchester City,Thomas Tuchel,Pep Guardiola
+2021-2022_812,2021-2022,6,Manchester United,Aston Villa,Ole Gunnar Solskjær,Dean Smith
+2021-2022_813,2021-2022,6,Everton FC,Norwich City,Rafa Benítez,Daniel Farke
+2021-2022_814,2021-2022,6,Leeds United,West Ham United,Marcelo Bielsa,David Moyes
+2021-2022_815,2021-2022,6,Leicester City,Burnley FC,Brendan Rodgers,Sean Dyche
+2021-2022_816,2021-2022,6,Watford FC,Newcastle United,Xisco Muñoz,Steve Bruce
+2021-2022_817,2021-2022,6,Brentford FC,Liverpool FC,Thomas Frank,Jürgen Klopp
+2021-2022_818,2021-2022,6,Southampton FC,Wolverhampton Wanderers,Ralph Hasenhüttl,Bruno Lage
+2021-2022_819,2021-2022,6,Arsenal FC,Tottenham Hotspur,Mikel Arteta,Nuno Espírito Santo
+2021-2022_820,2021-2022,6,Crystal Palace,Brighton & Hove Albion,Patrick Vieira,Graham Potter
+2021-2022_821,2021-2022,7,Manchester United,Everton FC,Ole Gunnar Solskjær,Rafa Benítez
+2021-2022_822,2021-2022,7,Burnley FC,Norwich City,Sean Dyche,Daniel Farke
+2021-2022_823,2021-2022,7,Chelsea FC,Southampton FC,Thomas Tuchel,Ralph Hasenhüttl
+2021-2022_824,2021-2022,7,Leeds United,Watford FC,Marcelo Bielsa,Xisco Muñoz
+2021-2022_825,2021-2022,7,Wolverhampton Wanderers,Newcastle United,Bruno Lage,Steve Bruce
+2021-2022_826,2021-2022,7,Brighton & Hove Albion,Arsenal FC,Graham Potter,Mikel Arteta
+2021-2022_827,2021-2022,7,Crystal Palace,Leicester City,Patrick Vieira,Brendan Rodgers
+2021-2022_828,2021-2022,7,Tottenham Hotspur,Aston Villa,Nuno Espírito Santo,Dean Smith
+2021-2022_829,2021-2022,7,West Ham United,Brentford FC,David Moyes,Thomas Frank
+2021-2022_830,2021-2022,7,Liverpool FC,Manchester City,Jürgen Klopp,Pep Guardiola
+2021-2022_831,2021-2022,8,Watford FC,Liverpool FC,Claudio Ranieri,Jürgen Klopp
+2021-2022_832,2021-2022,8,Aston Villa,Wolverhampton Wanderers,Dean Smith,Bruno Lage
+2021-2022_833,2021-2022,8,Leicester City,Manchester United,Brendan Rodgers,Ole Gunnar Solskjær
+2021-2022_834,2021-2022,8,Manchester City,Burnley FC,Pep Guardiola,Sean Dyche
+2021-2022_835,2021-2022,8,Norwich City,Brighton & Hove Albion,Daniel Farke,Graham Potter
+2021-2022_836,2021-2022,8,Southampton FC,Leeds United,Ralph Hasenhüttl,Marcelo Bielsa
+2021-2022_837,2021-2022,8,Brentford FC,Chelsea FC,Thomas Frank,Thomas Tuchel
+2021-2022_838,2021-2022,8,Everton FC,West Ham United,Rafa Benítez,David Moyes
+2021-2022_839,2021-2022,8,Newcastle United,Tottenham Hotspur,Steve Bruce,Nuno Espírito Santo
+2021-2022_840,2021-2022,8,Arsenal FC,Crystal Palace,Mikel Arteta,Patrick Vieira
+2021-2022_841,2021-2022,9,Arsenal FC,Aston Villa,Mikel Arteta,Dean Smith
+2021-2022_842,2021-2022,9,Chelsea FC,Norwich City,Thomas Tuchel,Daniel Farke
+2021-2022_843,2021-2022,9,Crystal Palace,Newcastle United,Patrick Vieira,Graeme Jones
+2021-2022_844,2021-2022,9,Everton FC,Watford FC,Rafa Benítez,Claudio Ranieri
+2021-2022_845,2021-2022,9,Leeds United,Wolverhampton Wanderers,Marcelo Bielsa,Bruno Lage
+2021-2022_846,2021-2022,9,Southampton FC,Burnley FC,Ralph Hasenhüttl,Sean Dyche
+2021-2022_847,2021-2022,9,Brighton & Hove Albion,Manchester City,Graham Potter,Pep Guardiola
+2021-2022_848,2021-2022,9,Brentford FC,Leicester City,Thomas Frank,Brendan Rodgers
+2021-2022_849,2021-2022,9,West Ham United,Tottenham Hotspur,David Moyes,Nuno Espírito Santo
+2021-2022_850,2021-2022,9,Manchester United,Liverpool FC,Ole Gunnar Solskjær,Jürgen Klopp
+2021-2022_851,2021-2022,10,Leicester City,Arsenal FC,Brendan Rodgers,Mikel Arteta
+2021-2022_852,2021-2022,10,Burnley FC,Brentford FC,Sean Dyche,Thomas Frank
+2021-2022_853,2021-2022,10,Liverpool FC,Brighton & Hove Albion,Jürgen Klopp,Graham Potter
+2021-2022_854,2021-2022,10,Manchester City,Crystal Palace,Pep Guardiola,Patrick Vieira
+2021-2022_855,2021-2022,10,Newcastle United,Chelsea FC,Graeme Jones,Thomas Tuchel
+2021-2022_856,2021-2022,10,Watford FC,Southampton FC,Claudio Ranieri,Ralph Hasenhüttl
+2021-2022_857,2021-2022,10,Tottenham Hotspur,Manchester United,Nuno Espírito Santo,Ole Gunnar Solskjær
+2021-2022_858,2021-2022,10,Norwich City,Leeds United,Daniel Farke,Marcelo Bielsa
+2021-2022_859,2021-2022,10,Aston Villa,West Ham United,Dean Smith,David Moyes
+2021-2022_860,2021-2022,10,Wolverhampton Wanderers,Everton FC,Bruno Lage,Rafa Benítez
+2021-2022_861,2021-2022,11,Southampton FC,Aston Villa,Ralph Hasenhüttl,Dean Smith
+2021-2022_862,2021-2022,11,Manchester United,Manchester City,Ole Gunnar Solskjær,Pep Guardiola
+2021-2022_863,2021-2022,11,Crystal Palace,Wolverhampton Wanderers,Patrick Vieira,Bruno Lage
+2021-2022_864,2021-2022,11,Brentford FC,Norwich City,Thomas Frank,Daniel Farke
+2021-2022_865,2021-2022,11,Chelsea FC,Burnley FC,Thomas Tuchel,Sean Dyche
+2021-2022_866,2021-2022,11,Brighton & Hove Albion,Newcastle United,Graham Potter,Graeme Jones
+2021-2022_867,2021-2022,11,Arsenal FC,Watford FC,Mikel Arteta,Claudio Ranieri
+2021-2022_868,2021-2022,11,Everton FC,Tottenham Hotspur,Rafa Benítez,Antonio Conte
+2021-2022_869,2021-2022,11,Leeds United,Leicester City,Marcelo Bielsa,Brendan Rodgers
+2021-2022_870,2021-2022,11,West Ham United,Liverpool FC,David Moyes,Jürgen Klopp
+2021-2022_871,2021-2022,12,Leicester City,Chelsea FC,Brendan Rodgers,Thomas Tuchel
+2021-2022_872,2021-2022,12,Aston Villa,Brighton & Hove Albion,Steven Gerrard,Graham Potter
+2021-2022_873,2021-2022,12,Burnley FC,Crystal Palace,Sean Dyche,Patrick Vieira
+2021-2022_874,2021-2022,12,Newcastle United,Brentford FC,Eddie Howe,Thomas Frank
+2021-2022_875,2021-2022,12,Norwich City,Southampton FC,Dean Smith,Ralph Hasenhüttl
+2021-2022_876,2021-2022,12,Watford FC,Manchester United,Claudio Ranieri,Ole Gunnar Solskjær
+2021-2022_877,2021-2022,12,Wolverhampton Wanderers,West Ham United,Bruno Lage,David Moyes
+2021-2022_878,2021-2022,12,Liverpool FC,Arsenal FC,Jürgen Klopp,Mikel Arteta
+2021-2022_879,2021-2022,12,Manchester City,Everton FC,Pep Guardiola,Rafa Benítez
+2021-2022_880,2021-2022,12,Tottenham Hotspur,Leeds United,Antonio Conte,Marcelo Bielsa
+2021-2022_881,2021-2022,13,Arsenal FC,Newcastle United,Mikel Arteta,Eddie Howe
+2021-2022_882,2021-2022,13,Crystal Palace,Aston Villa,Patrick Vieira,Steven Gerrard
+2021-2022_883,2021-2022,13,Liverpool FC,Southampton FC,Jürgen Klopp,Ralph Hasenhüttl
+2021-2022_884,2021-2022,13,Norwich City,Wolverhampton Wanderers,Dean Smith,Bruno Lage
+2021-2022_885,2021-2022,13,Brighton & Hove Albion,Leeds United,Graham Potter,Marcelo Bielsa
+2021-2022_886,2021-2022,13,Brentford FC,Everton FC,Thomas Frank,Rafa Benítez
+2021-2022_887,2021-2022,13,Leicester City,Watford FC,Brendan Rodgers,Claudio Ranieri
+2021-2022_888,2021-2022,13,Manchester City,West Ham United,Pep Guardiola,David Moyes
+2021-2022_889,2021-2022,13,Chelsea FC,Manchester United,Thomas Tuchel,Michael Carrick
+2021-2022_890,2021-2022,13,Burnley FC,Tottenham Hotspur,Sean Dyche,Antonio Conte
+2021-2022_891,2021-2022,14,Newcastle United,Norwich City,Eddie Howe,Dean Smith
+2021-2022_892,2021-2022,14,Leeds United,Crystal Palace,Marcelo Bielsa,Patrick Vieira
+2021-2022_893,2021-2022,14,Watford FC,Chelsea FC,Claudio Ranieri,Thomas Tuchel
+2021-2022_894,2021-2022,14,West Ham United,Brighton & Hove Albion,David Moyes,Graham Potter
+2021-2022_895,2021-2022,14,Wolverhampton Wanderers,Burnley FC,Bruno Lage,Sean Dyche
+2021-2022_896,2021-2022,14,Southampton FC,Leicester City,Ralph Hasenhüttl,Brendan Rodgers
+2021-2022_897,2021-2022,14,Aston Villa,Manchester City,Steven Gerrard,Pep Guardiola
+2021-2022_898,2021-2022,14,Everton FC,Liverpool FC,Rafa Benítez,Jürgen Klopp
+2021-2022_899,2021-2022,14,Tottenham Hotspur,Brentford FC,Antonio Conte,Thomas Frank
+2021-2022_900,2021-2022,14,Manchester United,Arsenal FC,Michael Carrick,Mikel Arteta
+2021-2022_901,2021-2022,15,West Ham United,Chelsea FC,David Moyes,Thomas Tuchel
+2021-2022_902,2021-2022,15,Southampton FC,Brighton & Hove Albion,Ralph Hasenhüttl,Graham Potter
+2021-2022_903,2021-2022,15,Newcastle United,Burnley FC,Eddie Howe,Sean Dyche
+2021-2022_904,2021-2022,15,Wolverhampton Wanderers,Liverpool FC,Bruno Lage,Jürgen Klopp
+2021-2022_905,2021-2022,15,Watford FC,Manchester City,Claudio Ranieri,Pep Guardiola
+2021-2022_906,2021-2022,15,Leeds United,Brentford FC,Marcelo Bielsa,Thomas Frank
+2021-2022_907,2021-2022,15,Manchester United,Crystal Palace,Ralf Rangnick,Patrick Vieira
+2021-2022_908,2021-2022,15,Tottenham Hotspur,Norwich City,Antonio Conte,Dean Smith
+2021-2022_909,2021-2022,15,Aston Villa,Leicester City,Steven Gerrard,Brendan Rodgers
+2021-2022_910,2021-2022,15,Everton FC,Arsenal FC,Rafa Benítez,Mikel Arteta
+2021-2022_911,2021-2022,16,Brentford FC,Watford FC,Thomas Frank,Claudio Ranieri
+2021-2022_912,2021-2022,16,Manchester City,Wolverhampton Wanderers,Pep Guardiola,Bruno Lage
+2021-2022_913,2021-2022,16,Arsenal FC,Southampton FC,Mikel Arteta,Ralph Hasenhüttl
+2021-2022_914,2021-2022,16,Chelsea FC,Leeds United,Thomas Tuchel,Marcelo Bielsa
+2021-2022_915,2021-2022,16,Liverpool FC,Aston Villa,Jürgen Klopp,Steven Gerrard
+2021-2022_916,2021-2022,16,Norwich City,Manchester United,Dean Smith,Ralf Rangnick
+2021-2022_917,2021-2022,16,Burnley FC,West Ham United,Sean Dyche,David Moyes
+2021-2022_918,2021-2022,16,Leicester City,Newcastle United,Brendan Rodgers,Eddie Howe
+2021-2022_919,2021-2022,16,Crystal Palace,Everton FC,Patrick Vieira,Rafa Benítez
+2021-2022_920,2021-2022,16,Brighton & Hove Albion,Tottenham Hotspur,Graham Potter,Antonio Conte
+2021-2022_921,2021-2022,17,Norwich City,Aston Villa,Dean Smith,Steven Gerrard
+2021-2022_922,2021-2022,17,Manchester City,Leeds United,Pep Guardiola,Marcelo Bielsa
+2021-2022_923,2021-2022,17,Brighton & Hove Albion,Wolverhampton Wanderers,Graham Potter,Bruno Lage
+2021-2022_924,2021-2022,17,Crystal Palace,Southampton FC,Patrick Vieira,Ralph Hasenhüttl
+2021-2022_925,2021-2022,17,Arsenal FC,West Ham United,Mikel Arteta,David Moyes
+2021-2022_926,2021-2022,17,Chelsea FC,Everton FC,Thomas Tuchel,Rafa Benítez
+2021-2022_927,2021-2022,17,Liverpool FC,Newcastle United,Jürgen Klopp,Eddie Howe
+2021-2022_928,2021-2022,17,Leicester City,Tottenham Hotspur,Brendan Rodgers,Antonio Conte
+2021-2022_929,2021-2022,17,Brentford FC,Manchester United,Thomas Frank,Ralf Rangnick
+2021-2022_930,2021-2022,17,Burnley FC,Watford FC,Sean Dyche,Roy Hodgson
+2021-2022_931,2021-2022,18,Leeds United,Arsenal FC,Marcelo Bielsa,Mikel Arteta
+2021-2022_932,2021-2022,18,Newcastle United,Manchester City,Eddie Howe,Pep Guardiola
+2021-2022_933,2021-2022,18,Wolverhampton Wanderers,Chelsea FC,Bruno Lage,Thomas Tuchel
+2021-2022_934,2021-2022,18,Tottenham Hotspur,Liverpool FC,Antonio Conte,Jürgen Klopp
+2021-2022_935,2021-2022,18,Southampton FC,Brentford FC,Ralph Hasenhüttl,Thomas Frank
+2021-2022_936,2021-2022,18,West Ham United,Norwich City,David Moyes,Dean Smith
+2021-2022_937,2021-2022,18,Manchester United,Brighton & Hove Albion,Ralf Rangnick,Graham Potter
+2021-2022_938,2021-2022,18,Watford FC,Crystal Palace,Roy Hodgson,Patrick Vieira
+2021-2022_939,2021-2022,18,Everton FC,Leicester City,Frank Lampard,Brendan Rodgers
+2021-2022_940,2021-2022,18,Aston Villa,Burnley FC,Steven Gerrard,Michael Jackson
+2021-2022_941,2021-2022,19,Manchester City,Leicester City,Pep Guardiola,Brendan Rodgers
+2021-2022_942,2021-2022,19,Norwich City,Arsenal FC,Dean Smith,Mikel Arteta
+2021-2022_943,2021-2022,19,Tottenham Hotspur,Crystal Palace,Antonio Conte,Patrick Vieira
+2021-2022_944,2021-2022,19,West Ham United,Southampton FC,David Moyes,Ralph Hasenhüttl
+2021-2022_945,2021-2022,19,Aston Villa,Chelsea FC,Steven Gerrard,Thomas Tuchel
+2021-2022_946,2021-2022,19,Brighton & Hove Albion,Brentford FC,Graham Potter,Thomas Frank
+2021-2022_947,2021-2022,19,Newcastle United,Manchester United,Eddie Howe,Ralf Rangnick
+2021-2022_948,2021-2022,19,Liverpool FC,Leeds United,Jürgen Klopp,Marcelo Bielsa
+2021-2022_949,2021-2022,19,Wolverhampton Wanderers,Watford FC,Bruno Lage,Roy Hodgson
+2021-2022_950,2021-2022,19,Burnley FC,Everton FC,Sean Dyche,Frank Lampard
+2021-2022_951,2021-2022,20,Crystal Palace,Norwich City,Patrick Vieira,Dean Smith
+2021-2022_952,2021-2022,20,Southampton FC,Tottenham Hotspur,Ralph Hasenhüttl,Antonio Conte
+2021-2022_953,2021-2022,20,Watford FC,West Ham United,Claudio Ranieri,David Moyes
+2021-2022_954,2021-2022,20,Leicester City,Liverpool FC,Brendan Rodgers,Jürgen Klopp
+2021-2022_955,2021-2022,20,Chelsea FC,Brighton & Hove Albion,Thomas Tuchel,Graham Potter
+2021-2022_956,2021-2022,20,Brentford FC,Manchester City,Thomas Frank,Pep Guardiola
+2021-2022_957,2021-2022,20,Manchester United,Burnley FC,Ralf Rangnick,Sean Dyche
+2021-2022_958,2021-2022,20,Arsenal FC,Wolverhampton Wanderers,Mikel Arteta,Bruno Lage
+2021-2022_959,2021-2022,20,Leeds United,Aston Villa,Jesse Marsch,Steven Gerrard
+2021-2022_960,2021-2022,20,Everton FC,Newcastle United,Frank Lampard,Eddie Howe
+2021-2022_961,2021-2022,21,Arsenal FC,Manchester City,Mikel Arteta,Pep Guardiola
+2021-2022_962,2021-2022,21,Watford FC,Tottenham Hotspur,Claudio Ranieri,Antonio Conte
+2021-2022_963,2021-2022,21,Crystal Palace,West Ham United,Patrick Vieira,David Moyes
+2021-2022_964,2021-2022,21,Brentford FC,Aston Villa,Thomas Frank,Steven Gerrard
+2021-2022_965,2021-2022,21,Everton FC,Brighton & Hove Albion,Rafa Benítez,Graham Potter
+2021-2022_966,2021-2022,21,Leeds United,Burnley FC,Marcelo Bielsa,Sean Dyche
+2021-2022_967,2021-2022,21,Chelsea FC,Liverpool FC,Thomas Tuchel,Jürgen Klopp
+2021-2022_968,2021-2022,21,Manchester United,Wolverhampton Wanderers,Ralf Rangnick,Bruno Lage
+2021-2022_969,2021-2022,21,Southampton FC,Newcastle United,Ralph Hasenhüttl,Eddie Howe
+2021-2022_970,2021-2022,21,Leicester City,Norwich City,Brendan Rodgers,Dean Smith
+2021-2022_971,2021-2022,22,Brighton & Hove Albion,Crystal Palace,Graham Potter,Patrick Vieira
+2021-2022_972,2021-2022,22,Manchester City,Chelsea FC,Pep Guardiola,Thomas Tuchel
+2021-2022_973,2021-2022,22,Norwich City,Everton FC,Dean Smith,Rafa Benítez
+2021-2022_974,2021-2022,22,Wolverhampton Wanderers,Southampton FC,Bruno Lage,Ralph Hasenhüttl
+2021-2022_975,2021-2022,22,Newcastle United,Watford FC,Eddie Howe,Claudio Ranieri
+2021-2022_976,2021-2022,22,Aston Villa,Manchester United,Steven Gerrard,Ralf Rangnick
+2021-2022_977,2021-2022,22,Liverpool FC,Brentford FC,Jürgen Klopp,Thomas Frank
+2021-2022_978,2021-2022,22,West Ham United,Leeds United,David Moyes,Marcelo Bielsa
+2021-2022_979,2021-2022,22,Burnley FC,Leicester City,Sean Dyche,Brendan Rodgers
+2021-2022_980,2021-2022,22,Tottenham Hotspur,Arsenal FC,Antonio Conte,Mikel Arteta
+2021-2022_981,2021-2022,23,Watford FC,Norwich City,Claudio Ranieri,Dean Smith
+2021-2022_982,2021-2022,23,Everton FC,Aston Villa,Duncan Ferguson,Steven Gerrard
+2021-2022_983,2021-2022,23,Brentford FC,Wolverhampton Wanderers,Thomas Frank,Bruno Lage
+2021-2022_984,2021-2022,23,Leeds United,Newcastle United,Marcelo Bielsa,Eddie Howe
+2021-2022_985,2021-2022,23,Manchester United,West Ham United,Ralf Rangnick,David Moyes
+2021-2022_986,2021-2022,23,Southampton FC,Manchester City,Ralph Hasenhüttl,Pep Guardiola
+2021-2022_987,2021-2022,23,Crystal Palace,Liverpool FC,Patrick Vieira,Jürgen Klopp
+2021-2022_988,2021-2022,23,Arsenal FC,Burnley FC,Mikel Arteta,Sean Dyche
+2021-2022_989,2021-2022,23,Leicester City,Brighton & Hove Albion,Brendan Rodgers,Graham Potter
+2021-2022_990,2021-2022,23,Chelsea FC,Tottenham Hotspur,Thomas Tuchel,Antonio Conte
+2021-2022_991,2021-2022,24,Brighton & Hove Albion,Chelsea FC,Graham Potter,Thomas Tuchel
+2021-2022_992,2021-2022,24,Newcastle United,Everton FC,Eddie Howe,Frank Lampard
+2021-2022_993,2021-2022,24,West Ham United,Watford FC,David Moyes,Roy Hodgson
+2021-2022_994,2021-2022,24,Burnley FC,Manchester United,Sean Dyche,Ralf Rangnick
+2021-2022_995,2021-2022,24,Manchester City,Brentford FC,Pep Guardiola,Thomas Frank
+2021-2022_996,2021-2022,24,Norwich City,Crystal Palace,Dean Smith,Patrick Vieira
+2021-2022_997,2021-2022,24,Tottenham Hotspur,Southampton FC,Antonio Conte,Ralph Hasenhüttl
+2021-2022_998,2021-2022,24,Aston Villa,Leeds United,Steven Gerrard,Marcelo Bielsa
+2021-2022_999,2021-2022,24,Wolverhampton Wanderers,Arsenal FC,Bruno Lage,Mikel Arteta
+2021-2022_1000,2021-2022,24,Liverpool FC,Leicester City,Jürgen Klopp,Brendan Rodgers
+2021-2022_1001,2021-2022,25,Manchester United,Southampton FC,Ralf Rangnick,Ralph Hasenhüttl
+2021-2022_1002,2021-2022,25,Brentford FC,Crystal Palace,Thomas Frank,Patrick Vieira
+2021-2022_1003,2021-2022,25,Everton FC,Leeds United,Frank Lampard,Marcelo Bielsa
+2021-2022_1004,2021-2022,25,Watford FC,Brighton & Hove Albion,Roy Hodgson,Graham Potter
+2021-2022_1005,2021-2022,25,Norwich City,Manchester City,Dean Smith,Pep Guardiola
+2021-2022_1006,2021-2022,25,Burnley FC,Liverpool FC,Sean Dyche,Jürgen Klopp
+2021-2022_1007,2021-2022,25,Newcastle United,Aston Villa,Eddie Howe,Steven Gerrard
+2021-2022_1008,2021-2022,25,Tottenham Hotspur,Wolverhampton Wanderers,Antonio Conte,Bruno Lage
+2021-2022_1009,2021-2022,25,Leicester City,West Ham United,Brendan Rodgers,David Moyes
+2021-2022_1010,2021-2022,25,Chelsea FC,Arsenal FC,Thomas Tuchel,Mikel Arteta
+2021-2022_1011,2021-2022,26,West Ham United,Newcastle United,David Moyes,Eddie Howe
+2021-2022_1012,2021-2022,26,Arsenal FC,Brentford FC,Mikel Arteta,Thomas Frank
+2021-2022_1013,2021-2022,26,Brighton & Hove Albion,Burnley FC,Graham Potter,Sean Dyche
+2021-2022_1014,2021-2022,26,Crystal Palace,Chelsea FC,Patrick Vieira,Thomas Tuchel
+2021-2022_1015,2021-2022,26,Southampton FC,Everton FC,Ralph Hasenhüttl,Frank Lampard
+2021-2022_1016,2021-2022,26,Liverpool FC,Norwich City,Jürgen Klopp,Dean Smith
+2021-2022_1017,2021-2022,26,Aston Villa,Watford FC,Steven Gerrard,Roy Hodgson
+2021-2022_1018,2021-2022,26,Manchester City,Tottenham Hotspur,Pep Guardiola,Antonio Conte
+2021-2022_1019,2021-2022,26,Leeds United,Manchester United,Marcelo Bielsa,Ralf Rangnick
+2021-2022_1020,2021-2022,26,Wolverhampton Wanderers,Leicester City,Bruno Lage,Brendan Rodgers
+2021-2022_1021,2021-2022,27,Southampton FC,Norwich City,Ralph Hasenhüttl,Dean Smith
+2021-2022_1022,2021-2022,27,Leeds United,Tottenham Hotspur,Marcelo Bielsa,Antonio Conte
+2021-2022_1023,2021-2022,27,Crystal Palace,Burnley FC,Patrick Vieira,Sean Dyche
+2021-2022_1024,2021-2022,27,Brentford FC,Newcastle United,Thomas Frank,Eddie Howe
+2021-2022_1025,2021-2022,27,Manchester United,Watford FC,Ralf Rangnick,Roy Hodgson
+2021-2022_1026,2021-2022,27,Brighton & Hove Albion,Aston Villa,Graham Potter,Steven Gerrard
+2021-2022_1027,2021-2022,27,Everton FC,Manchester City,Frank Lampard,Pep Guardiola
+2021-2022_1028,2021-2022,27,West Ham United,Wolverhampton Wanderers,David Moyes,Bruno Lage
+2021-2022_1029,2021-2022,27,Arsenal FC,Liverpool FC,Mikel Arteta,Jürgen Klopp
+2021-2022_1030,2021-2022,27,Chelsea FC,Leicester City,Thomas Tuchel,Brendan Rodgers
+2021-2022_1031,2021-2022,28,Leicester City,Leeds United,Brendan Rodgers,Jesse Marsch
+2021-2022_1032,2021-2022,28,Newcastle United,Brighton & Hove Albion,Eddie Howe,Graham Potter
+2021-2022_1033,2021-2022,28,Wolverhampton Wanderers,Crystal Palace,Bruno Lage,Patrick Vieira
+2021-2022_1034,2021-2022,28,Norwich City,Brentford FC,Dean Smith,Thomas Frank
+2021-2022_1035,2021-2022,28,Burnley FC,Chelsea FC,Sean Dyche,Thomas Tuchel
+2021-2022_1036,2021-2022,28,Aston Villa,Southampton FC,Steven Gerrard,Ralph Hasenhüttl
+2021-2022_1037,2021-2022,28,Liverpool FC,West Ham United,Jürgen Klopp,David Moyes
+2021-2022_1038,2021-2022,28,Watford FC,Arsenal FC,Roy Hodgson,Mikel Arteta
+2021-2022_1039,2021-2022,28,Manchester City,Manchester United,Pep Guardiola,Ralf Rangnick
+2021-2022_1040,2021-2022,28,Tottenham Hotspur,Everton FC,Antonio Conte,Frank Lampard
+2021-2022_1041,2021-2022,29,Brighton & Hove Albion,Liverpool FC,Graham Potter,Jürgen Klopp
+2021-2022_1042,2021-2022,29,Brentford FC,Burnley FC,Thomas Frank,Sean Dyche
+2021-2022_1043,2021-2022,29,Manchester United,Tottenham Hotspur,Ralf Rangnick,Antonio Conte
+2021-2022_1044,2021-2022,29,Chelsea FC,Newcastle United,Thomas Tuchel,Eddie Howe
+2021-2022_1045,2021-2022,29,Everton FC,Wolverhampton Wanderers,Frank Lampard,Bruno Lage
+2021-2022_1046,2021-2022,29,Southampton FC,Watford FC,Ralph Hasenhüttl,Roy Hodgson
+2021-2022_1047,2021-2022,29,Leeds United,Norwich City,Jesse Marsch,Dean Smith
+2021-2022_1048,2021-2022,29,West Ham United,Aston Villa,David Moyes,Steven Gerrard
+2021-2022_1049,2021-2022,29,Arsenal FC,Leicester City,Mikel Arteta,Brendan Rodgers
+2021-2022_1050,2021-2022,29,Crystal Palace,Manchester City,Patrick Vieira,Pep Guardiola
+2021-2022_1051,2021-2022,30,Norwich City,Chelsea FC,Dean Smith,Thomas Tuchel
+2021-2022_1052,2021-2022,30,Wolverhampton Wanderers,Leeds United,Bruno Lage,Jesse Marsch
+2021-2022_1053,2021-2022,30,Aston Villa,Arsenal FC,Steven Gerrard,Mikel Arteta
+2021-2022_1054,2021-2022,30,Leicester City,Brentford FC,Brendan Rodgers,Thomas Frank
+2021-2022_1055,2021-2022,30,Tottenham Hotspur,West Ham United,Antonio Conte,David Moyes
+2021-2022_1056,2021-2022,30,Liverpool FC,Manchester United,Jürgen Klopp,Ralf Rangnick
+2021-2022_1057,2021-2022,30,Newcastle United,Crystal Palace,Eddie Howe,Patrick Vieira
+2021-2022_1058,2021-2022,30,Manchester City,Brighton & Hove Albion,Pep Guardiola,Graham Potter
+2021-2022_1059,2021-2022,30,Burnley FC,Southampton FC,Michael Jackson,Ralph Hasenhüttl
+2021-2022_1060,2021-2022,30,Watford FC,Everton FC,Roy Hodgson,Frank Lampard
+2021-2022_1061,2021-2022,31,Liverpool FC,Watford FC,Jürgen Klopp,Roy Hodgson
+2021-2022_1062,2021-2022,31,Brighton & Hove Albion,Norwich City,Graham Potter,Dean Smith
+2021-2022_1063,2021-2022,31,Burnley FC,Manchester City,Sean Dyche,Pep Guardiola
+2021-2022_1064,2021-2022,31,Chelsea FC,Brentford FC,Thomas Tuchel,Thomas Frank
+2021-2022_1065,2021-2022,31,Leeds United,Southampton FC,Jesse Marsch,Ralph Hasenhüttl
+2021-2022_1066,2021-2022,31,Wolverhampton Wanderers,Aston Villa,Bruno Lage,Steven Gerrard
+2021-2022_1067,2021-2022,31,Manchester United,Leicester City,Ralf Rangnick,Brendan Rodgers
+2021-2022_1068,2021-2022,31,West Ham United,Everton FC,David Moyes,Frank Lampard
+2021-2022_1069,2021-2022,31,Tottenham Hotspur,Newcastle United,Antonio Conte,Eddie Howe
+2021-2022_1070,2021-2022,31,Crystal Palace,Arsenal FC,Patrick Vieira,Mikel Arteta
+2021-2022_1071,2021-2022,32,Newcastle United,Wolverhampton Wanderers,Eddie Howe,Bruno Lage
+2021-2022_1072,2021-2022,32,Everton FC,Manchester United,Frank Lampard,Ralf Rangnick
+2021-2022_1073,2021-2022,32,Arsenal FC,Brighton & Hove Albion,Mikel Arteta,Graham Potter
+2021-2022_1074,2021-2022,32,Southampton FC,Chelsea FC,Ralph Hasenhüttl,Thomas Tuchel
+2021-2022_1075,2021-2022,32,Watford FC,Leeds United,Roy Hodgson,Jesse Marsch
+2021-2022_1076,2021-2022,32,Aston Villa,Tottenham Hotspur,Steven Gerrard,Antonio Conte
+2021-2022_1077,2021-2022,32,Norwich City,Burnley FC,Dean Smith,Sean Dyche
+2021-2022_1078,2021-2022,32,Leicester City,Crystal Palace,Brendan Rodgers,Patrick Vieira
+2021-2022_1079,2021-2022,32,Brentford FC,West Ham United,Thomas Frank,David Moyes
+2021-2022_1080,2021-2022,32,Manchester City,Liverpool FC,Pep Guardiola,Jürgen Klopp
+2021-2022_1081,2021-2022,33,Tottenham Hotspur,Brighton & Hove Albion,Antonio Conte,Graham Potter
+2021-2022_1082,2021-2022,33,Southampton FC,Arsenal FC,Ralph Hasenhüttl,Mikel Arteta
+2021-2022_1083,2021-2022,33,Watford FC,Brentford FC,Roy Hodgson,Thomas Frank
+2021-2022_1084,2021-2022,33,Manchester United,Norwich City,Ralf Rangnick,Dean Smith
+2021-2022_1085,2021-2022,33,Newcastle United,Leicester City,Eddie Howe,Brendan Rodgers
+2021-2022_1086,2021-2022,33,West Ham United,Burnley FC,David Moyes,Michael Jackson
+2021-2022_1087,2021-2022,33,Aston Villa,Liverpool FC,Steven Gerrard,Jürgen Klopp
+2021-2022_1088,2021-2022,33,Leeds United,Chelsea FC,Jesse Marsch,Thomas Tuchel
+2021-2022_1089,2021-2022,33,Wolverhampton Wanderers,Manchester City,Bruno Lage,Pep Guardiola
+2021-2022_1090,2021-2022,33,Everton FC,Crystal Palace,Frank Lampard,Patrick Vieira
+2021-2022_1091,2021-2022,34,Arsenal FC,Manchester United,Mikel Arteta,Ralf Rangnick
+2021-2022_1092,2021-2022,34,Leicester City,Aston Villa,Brendan Rodgers,Steven Gerrard
+2021-2022_1093,2021-2022,34,Manchester City,Watford FC,Pep Guardiola,Roy Hodgson
+2021-2022_1094,2021-2022,34,Norwich City,Newcastle United,Dean Smith,Eddie Howe
+2021-2022_1095,2021-2022,34,Brentford FC,Tottenham Hotspur,Thomas Frank,Antonio Conte
+2021-2022_1096,2021-2022,34,Brighton & Hove Albion,Southampton FC,Graham Potter,Ralph Hasenhüttl
+2021-2022_1097,2021-2022,34,Burnley FC,Wolverhampton Wanderers,Michael Jackson,Bruno Lage
+2021-2022_1098,2021-2022,34,Chelsea FC,West Ham United,Thomas Tuchel,David Moyes
+2021-2022_1099,2021-2022,34,Liverpool FC,Everton FC,Jürgen Klopp,Frank Lampard
+2021-2022_1100,2021-2022,34,Crystal Palace,Leeds United,Patrick Vieira,Jesse Marsch
+2021-2022_1101,2021-2022,35,Newcastle United,Liverpool FC,Eddie Howe,Jürgen Klopp
+2021-2022_1102,2021-2022,35,Aston Villa,Norwich City,Steven Gerrard,Dean Smith
+2021-2022_1103,2021-2022,35,Southampton FC,Crystal Palace,Ralph Hasenhüttl,Patrick Vieira
+2021-2022_1104,2021-2022,35,Watford FC,Burnley FC,Roy Hodgson,Michael Jackson
+2021-2022_1105,2021-2022,35,Wolverhampton Wanderers,Brighton & Hove Albion,Bruno Lage,Graham Potter
+2021-2022_1106,2021-2022,35,Leeds United,Manchester City,Jesse Marsch,Pep Guardiola
+2021-2022_1107,2021-2022,35,Everton FC,Chelsea FC,Frank Lampard,Thomas Tuchel
+2021-2022_1108,2021-2022,35,Tottenham Hotspur,Leicester City,Antonio Conte,Brendan Rodgers
+2021-2022_1109,2021-2022,35,West Ham United,Arsenal FC,David Moyes,Mikel Arteta
+2021-2022_1110,2021-2022,35,Manchester United,Brentford FC,Ralf Rangnick,Thomas Frank
+2021-2022_1111,2021-2022,36,Burnley FC,Aston Villa,Michael Jackson,Steven Gerrard
+2021-2022_1112,2021-2022,36,Brentford FC,Southampton FC,Thomas Frank,Ralph Hasenhüttl
+2021-2022_1113,2021-2022,36,Crystal Palace,Watford FC,Patrick Vieira,Roy Hodgson
+2021-2022_1114,2021-2022,36,Chelsea FC,Wolverhampton Wanderers,Thomas Tuchel,Bruno Lage
+2021-2022_1115,2021-2022,36,Brighton & Hove Albion,Manchester United,Graham Potter,Ralf Rangnick
+2021-2022_1116,2021-2022,36,Liverpool FC,Tottenham Hotspur,Jürgen Klopp,Antonio Conte
+2021-2022_1117,2021-2022,36,Leicester City,Everton FC,Brendan Rodgers,Frank Lampard
+2021-2022_1118,2021-2022,36,Arsenal FC,Leeds United,Mikel Arteta,Jesse Marsch
+2021-2022_1119,2021-2022,36,Norwich City,West Ham United,Dean Smith,David Moyes
+2021-2022_1120,2021-2022,36,Manchester City,Newcastle United,Pep Guardiola,Eddie Howe
+2021-2022_1121,2021-2022,37,Manchester United,Chelsea FC,Ralf Rangnick,Thomas Tuchel
+2021-2022_1122,2021-2022,37,Tottenham Hotspur,Burnley FC,Antonio Conte,Michael Jackson
+2021-2022_1123,2021-2022,37,Aston Villa,Crystal Palace,Steven Gerrard,Patrick Vieira
+2021-2022_1124,2021-2022,37,Watford FC,Leicester City,Roy Hodgson,Brendan Rodgers
+2021-2022_1125,2021-2022,37,Leeds United,Brighton & Hove Albion,Jesse Marsch,Graham Potter
+2021-2022_1126,2021-2022,37,West Ham United,Manchester City,David Moyes,Pep Guardiola
+2021-2022_1127,2021-2022,37,Wolverhampton Wanderers,Norwich City,Bruno Lage,Dean Smith
+2021-2022_1128,2021-2022,37,Everton FC,Brentford FC,Frank Lampard,Thomas Frank
+2021-2022_1129,2021-2022,37,Newcastle United,Arsenal FC,Eddie Howe,Mikel Arteta
+2021-2022_1130,2021-2022,37,Southampton FC,Liverpool FC,Ralph Hasenhüttl,Jürgen Klopp
+2021-2022_1131,2021-2022,38,Arsenal FC,Everton FC,Mikel Arteta,Frank Lampard
+2021-2022_1132,2021-2022,38,Brentford FC,Leeds United,Thomas Frank,Jesse Marsch
+2021-2022_1133,2021-2022,38,Brighton & Hove Albion,West Ham United,Graham Potter,David Moyes
+2021-2022_1134,2021-2022,38,Burnley FC,Newcastle United,Michael Jackson,Eddie Howe
+2021-2022_1135,2021-2022,38,Chelsea FC,Watford FC,Thomas Tuchel,Roy Hodgson
+2021-2022_1136,2021-2022,38,Crystal Palace,Manchester United,Patrick Vieira,Ralf Rangnick
+2021-2022_1137,2021-2022,38,Leicester City,Southampton FC,Brendan Rodgers,Ralph Hasenhüttl
+2021-2022_1138,2021-2022,38,Liverpool FC,Wolverhampton Wanderers,Jürgen Klopp,Bruno Lage
+2021-2022_1139,2021-2022,38,Manchester City,Aston Villa,Pep Guardiola,Steven Gerrard
+2021-2022_1140,2021-2022,38,Norwich City,Tottenham Hotspur,Dean Smith,Antonio Conte
+2022-2023_1141,2022-2023,1,Crystal Palace,Arsenal FC,Patrick Vieira,Mikel Arteta
+2022-2023_1142,2022-2023,1,Fulham FC,Liverpool FC,Marco Silva,Jürgen Klopp
+2022-2023_1143,2022-2023,1,AFC Bournemouth,Aston Villa,Scott Parker,Steven Gerrard
+2022-2023_1144,2022-2023,1,Leeds United,Wolverhampton Wanderers,Jesse Marsch,Bruno Lage
+2022-2023_1145,2022-2023,1,Newcastle United,Nottingham Forest,Eddie Howe,Steve Cooper
+2022-2023_1146,2022-2023,1,Tottenham Hotspur,Southampton FC,Antonio Conte,Ralph Hasenhüttl
+2022-2023_1147,2022-2023,1,Everton FC,Chelsea FC,Frank Lampard,Thomas Tuchel
+2022-2023_1148,2022-2023,1,Leicester City,Brentford FC,Brendan Rodgers,Thomas Frank
+2022-2023_1149,2022-2023,1,Manchester United,Brighton & Hove Albion,Erik ten Hag,Graham Potter
+2022-2023_1150,2022-2023,1,West Ham United,Manchester City,David Moyes,Pep Guardiola
+2022-2023_1151,2022-2023,2,Aston Villa,Everton FC,Steven Gerrard,Frank Lampard
+2022-2023_1152,2022-2023,2,Brighton & Hove Albion,Newcastle United,Graham Potter,Eddie Howe
+2022-2023_1153,2022-2023,2,Arsenal FC,Leicester City,Mikel Arteta,Brendan Rodgers
+2022-2023_1154,2022-2023,2,Southampton FC,Leeds United,Ralph Hasenhüttl,Jesse Marsch
+2022-2023_1155,2022-2023,2,Manchester City,AFC Bournemouth,Pep Guardiola,Scott Parker
+2022-2023_1156,2022-2023,2,Wolverhampton Wanderers,Fulham FC,Bruno Lage,Marco Silva
+2022-2023_1157,2022-2023,2,Brentford FC,Manchester United,Thomas Frank,Erik ten Hag
+2022-2023_1158,2022-2023,2,Nottingham Forest,West Ham United,Steve Cooper,David Moyes
+2022-2023_1159,2022-2023,2,Chelsea FC,Tottenham Hotspur,Thomas Tuchel,Antonio Conte
+2022-2023_1160,2022-2023,2,Liverpool FC,Crystal Palace,Jürgen Klopp,Patrick Vieira
+2022-2023_1161,2022-2023,3,Tottenham Hotspur,Wolverhampton Wanderers,Antonio Conte,Bruno Lage
+2022-2023_1162,2022-2023,3,Crystal Palace,Aston Villa,Patrick Vieira,Steven Gerrard
+2022-2023_1163,2022-2023,3,Everton FC,Nottingham Forest,Frank Lampard,Steve Cooper
+2022-2023_1164,2022-2023,3,Fulham FC,Brentford FC,Marco Silva,Thomas Frank
+2022-2023_1165,2022-2023,3,Leicester City,Southampton FC,Brendan Rodgers,Ralph Hasenhüttl
+2022-2023_1166,2022-2023,3,AFC Bournemouth,Arsenal FC,Scott Parker,Mikel Arteta
+2022-2023_1167,2022-2023,3,Leeds United,Chelsea FC,Jesse Marsch,Thomas Tuchel
+2022-2023_1168,2022-2023,3,West Ham United,Brighton & Hove Albion,David Moyes,Graham Potter
+2022-2023_1169,2022-2023,3,Newcastle United,Manchester City,Eddie Howe,Pep Guardiola
+2022-2023_1170,2022-2023,3,Manchester United,Liverpool FC,Erik ten Hag,Jürgen Klopp
+2022-2023_1171,2022-2023,4,Southampton FC,Manchester United,Ralph Hasenhüttl,Erik ten Hag
+2022-2023_1172,2022-2023,4,Brighton & Hove Albion,Leeds United,Graham Potter,Jesse Marsch
+2022-2023_1173,2022-2023,4,Brentford FC,Everton FC,Thomas Frank,Frank Lampard
+2022-2023_1174,2022-2023,4,Chelsea FC,Leicester City,Thomas Tuchel,Brendan Rodgers
+2022-2023_1175,2022-2023,4,Liverpool FC,AFC Bournemouth,Jürgen Klopp,Scott Parker
+2022-2023_1176,2022-2023,4,Manchester City,Crystal Palace,Pep Guardiola,Patrick Vieira
+2022-2023_1177,2022-2023,4,Arsenal FC,Fulham FC,Mikel Arteta,Marco Silva
+2022-2023_1178,2022-2023,4,Aston Villa,West Ham United,Steven Gerrard,David Moyes
+2022-2023_1179,2022-2023,4,Wolverhampton Wanderers,Newcastle United,Bruno Lage,Eddie Howe
+2022-2023_1180,2022-2023,4,Nottingham Forest,Tottenham Hotspur,Steve Cooper,Antonio Conte
+2022-2023_1181,2022-2023,5,Fulham FC,Brighton & Hove Albion,Marco Silva,Graham Potter
+2022-2023_1182,2022-2023,5,Crystal Palace,Brentford FC,Patrick Vieira,Thomas Frank
+2022-2023_1183,2022-2023,5,Southampton FC,Chelsea FC,Ralph Hasenhüttl,Thomas Tuchel
+2022-2023_1184,2022-2023,5,Leeds United,Everton FC,Jesse Marsch,Frank Lampard
+2022-2023_1185,2022-2023,5,AFC Bournemouth,Wolverhampton Wanderers,Gary O'Neil,Bruno Lage
+2022-2023_1186,2022-2023,5,Arsenal FC,Aston Villa,Mikel Arteta,Steven Gerrard
+2022-2023_1187,2022-2023,5,Manchester City,Nottingham Forest,Pep Guardiola,Steve Cooper
+2022-2023_1188,2022-2023,5,West Ham United,Tottenham Hotspur,David Moyes,Antonio Conte
+2022-2023_1189,2022-2023,5,Liverpool FC,Newcastle United,Jürgen Klopp,Eddie Howe
+2022-2023_1190,2022-2023,5,Leicester City,Manchester United,Brendan Rodgers,Erik ten Hag
+2022-2023_1191,2022-2023,6,Everton FC,Liverpool FC,Frank Lampard,Jürgen Klopp
+2022-2023_1192,2022-2023,6,Brentford FC,Leeds United,Thomas Frank,Jesse Marsch
+2022-2023_1193,2022-2023,6,Chelsea FC,West Ham United,Thomas Tuchel,David Moyes
+2022-2023_1194,2022-2023,6,Newcastle United,Crystal Palace,Eddie Howe,Patrick Vieira
+2022-2023_1195,2022-2023,6,Nottingham Forest,AFC Bournemouth,Steve Cooper,Gary O'Neil
+2022-2023_1196,2022-2023,6,Tottenham Hotspur,Fulham FC,Antonio Conte,Marco Silva
+2022-2023_1197,2022-2023,6,Wolverhampton Wanderers,Southampton FC,Bruno Lage,Ralph Hasenhüttl
+2022-2023_1198,2022-2023,6,Aston Villa,Manchester City,Steven Gerrard,Pep Guardiola
+2022-2023_1199,2022-2023,6,Brighton & Hove Albion,Leicester City,Graham Potter,Brendan Rodgers
+2022-2023_1200,2022-2023,6,Manchester United,Arsenal FC,Erik ten Hag,Mikel Arteta
+2022-2023_1201,2022-2023,7,Fulham FC,Chelsea FC,Marco Silva,Graham Potter
+2022-2023_1202,2022-2023,7,Crystal Palace,Manchester United,Patrick Vieira,Erik ten Hag
+2022-2023_1203,2022-2023,7,Manchester City,Tottenham Hotspur,Pep Guardiola,Antonio Conte
+2022-2023_1204,2022-2023,7,Arsenal FC,Everton FC,Mikel Arteta,Sean Dyche
+2022-2023_1205,2022-2023,7,Liverpool FC,Wolverhampton Wanderers,Jürgen Klopp,Julen Lopetegui
+2022-2023_1206,2022-2023,7,Southampton FC,Brentford FC,Rubén Sellés,Thomas Frank
+2022-2023_1207,2022-2023,7,AFC Bournemouth,Brighton & Hove Albion,Gary O'Neil,Roberto De Zerbi
+2022-2023_1208,2022-2023,7,Leeds United,Nottingham Forest,Gracia,Steve Cooper
+2022-2023_1209,2022-2023,7,Leicester City,Aston Villa,Adam Sadler,Unai Emery
+2022-2023_1210,2022-2023,7,West Ham United,Newcastle United,David Moyes,Eddie Howe
+2022-2023_1211,2022-2023,8,Aston Villa,Southampton FC,Steven Gerrard,Ralph Hasenhüttl
+2022-2023_1212,2022-2023,8,Nottingham Forest,Fulham FC,Steve Cooper,Marco Silva
+2022-2023_1213,2022-2023,8,Wolverhampton Wanderers,Manchester City,Bruno Lage,Pep Guardiola
+2022-2023_1214,2022-2023,8,Newcastle United,AFC Bournemouth,Eddie Howe,Gary O'Neil
+2022-2023_1215,2022-2023,8,Tottenham Hotspur,Leicester City,Antonio Conte,Brendan Rodgers
+2022-2023_1216,2022-2023,8,Brentford FC,Arsenal FC,Thomas Frank,Mikel Arteta
+2022-2023_1217,2022-2023,8,Everton FC,West Ham United,Frank Lampard,David Moyes
+2022-2023_1218,2022-2023,8,Manchester United,Leeds United,Erik ten Hag,Michael Skubala
+2022-2023_1219,2022-2023,8,Brighton & Hove Albion,Crystal Palace,Roberto De Zerbi,Patrick Vieira
+2022-2023_1220,2022-2023,8,Chelsea FC,Liverpool FC,Bruno Saltor,Jürgen Klopp
+2022-2023_1221,2022-2023,9,Arsenal FC,Tottenham Hotspur,Mikel Arteta,Antonio Conte
+2022-2023_1222,2022-2023,9,AFC Bournemouth,Brentford FC,Gary O'Neil,Thomas Frank
+2022-2023_1223,2022-2023,9,Crystal Palace,Chelsea FC,Patrick Vieira,Graham Potter
+2022-2023_1224,2022-2023,9,Fulham FC,Newcastle United,Marco Silva,Eddie Howe
+2022-2023_1225,2022-2023,9,Liverpool FC,Brighton & Hove Albion,Jürgen Klopp,Roberto De Zerbi
+2022-2023_1226,2022-2023,9,Southampton FC,Everton FC,Ralph Hasenhüttl,Frank Lampard
+2022-2023_1227,2022-2023,9,West Ham United,Wolverhampton Wanderers,David Moyes,Bruno Lage
+2022-2023_1228,2022-2023,9,Manchester City,Manchester United,Pep Guardiola,Erik ten Hag
+2022-2023_1229,2022-2023,9,Leeds United,Aston Villa,Jesse Marsch,Steven Gerrard
+2022-2023_1230,2022-2023,9,Leicester City,Nottingham Forest,Brendan Rodgers,Steve Cooper
+2022-2023_1231,2022-2023,10,AFC Bournemouth,Leicester City,Gary O'Neil,Brendan Rodgers
+2022-2023_1232,2022-2023,10,Chelsea FC,Wolverhampton Wanderers,Graham Potter,Steve Davis
+2022-2023_1233,2022-2023,10,Manchester City,Southampton FC,Pep Guardiola,Ralph Hasenhüttl
+2022-2023_1234,2022-2023,10,Newcastle United,Brentford FC,Eddie Howe,Thomas Frank
+2022-2023_1235,2022-2023,10,Brighton & Hove Albion,Tottenham Hotspur,Roberto De Zerbi,Antonio Conte
+2022-2023_1236,2022-2023,10,Crystal Palace,Leeds United,Patrick Vieira,Jesse Marsch
+2022-2023_1237,2022-2023,10,West Ham United,Fulham FC,David Moyes,Marco Silva
+2022-2023_1238,2022-2023,10,Arsenal FC,Liverpool FC,Mikel Arteta,Jürgen Klopp
+2022-2023_1239,2022-2023,10,Everton FC,Manchester United,Frank Lampard,Erik ten Hag
+2022-2023_1240,2022-2023,10,Nottingham Forest,Aston Villa,Steve Cooper,Steven Gerrard
+2022-2023_1241,2022-2023,11,Brentford FC,Brighton & Hove Albion,Thomas Frank,Roberto De Zerbi
+2022-2023_1242,2022-2023,11,Leicester City,Crystal Palace,Brendan Rodgers,Patrick Vieira
+2022-2023_1243,2022-2023,11,Fulham FC,AFC Bournemouth,Marco Silva,Gary O'Neil
+2022-2023_1244,2022-2023,11,Wolverhampton Wanderers,Nottingham Forest,Steve Davis,Steve Cooper
+2022-2023_1245,2022-2023,11,Tottenham Hotspur,Everton FC,Antonio Conte,Frank Lampard
+2022-2023_1246,2022-2023,11,Aston Villa,Chelsea FC,Steven Gerrard,Graham Potter
+2022-2023_1247,2022-2023,11,Southampton FC,West Ham United,Ralph Hasenhüttl,David Moyes
+2022-2023_1248,2022-2023,11,Leeds United,Arsenal FC,Jesse Marsch,Mikel Arteta
+2022-2023_1249,2022-2023,11,Manchester United,Newcastle United,Erik ten Hag,Eddie Howe
+2022-2023_1250,2022-2023,11,Liverpool FC,Manchester City,Jürgen Klopp,Pep Guardiola
+2022-2023_1251,2022-2023,12,Brighton & Hove Albion,Nottingham Forest,Roberto De Zerbi,Steve Cooper
+2022-2023_1252,2022-2023,12,Crystal Palace,Wolverhampton Wanderers,Patrick Vieira,Steve Davis
+2022-2023_1253,2022-2023,12,AFC Bournemouth,Southampton FC,Gary O'Neil,Ralph Hasenhüttl
+2022-2023_1254,2022-2023,12,Brentford FC,Chelsea FC,Thomas Frank,Graham Potter
+2022-2023_1255,2022-2023,12,Newcastle United,Everton FC,Eddie Howe,Frank Lampard
+2022-2023_1256,2022-2023,12,Liverpool FC,West Ham United,Jürgen Klopp,David Moyes
+2022-2023_1257,2022-2023,12,Manchester United,Tottenham Hotspur,Erik ten Hag,Antonio Conte
+2022-2023_1258,2022-2023,12,Fulham FC,Aston Villa,Marco Silva,Steven Gerrard
+2022-2023_1259,2022-2023,12,Leicester City,Leeds United,Brendan Rodgers,Jesse Marsch
+2022-2023_1260,2022-2023,12,Arsenal FC,Manchester City,Mikel Arteta,Pep Guardiola
+2022-2023_1261,2022-2023,13,Nottingham Forest,Liverpool FC,Steve Cooper,Jürgen Klopp
+2022-2023_1262,2022-2023,13,Everton FC,Crystal Palace,Frank Lampard,Patrick Vieira
+2022-2023_1263,2022-2023,13,Manchester City,Brighton & Hove Albion,Pep Guardiola,Roberto De Zerbi
+2022-2023_1264,2022-2023,13,Chelsea FC,Manchester United,Graham Potter,Erik ten Hag
+2022-2023_1265,2022-2023,13,Aston Villa,Brentford FC,Aaron Danks,Thomas Frank
+2022-2023_1266,2022-2023,13,Southampton FC,Arsenal FC,Ralph Hasenhüttl,Mikel Arteta
+2022-2023_1267,2022-2023,13,Leeds United,Fulham FC,Jesse Marsch,Marco Silva
+2022-2023_1268,2022-2023,13,Wolverhampton Wanderers,Leicester City,Steve Davis,Brendan Rodgers
+2022-2023_1269,2022-2023,13,Tottenham Hotspur,Newcastle United,Antonio Conte,Eddie Howe
+2022-2023_1270,2022-2023,13,West Ham United,AFC Bournemouth,David Moyes,Gary O'Neil
+2022-2023_1271,2022-2023,14,Leicester City,Manchester City,Brendan Rodgers,Pep Guardiola
+2022-2023_1272,2022-2023,14,AFC Bournemouth,Tottenham Hotspur,Gary O'Neil,Antonio Conte
+2022-2023_1273,2022-2023,14,Brighton & Hove Albion,Chelsea FC,Roberto De Zerbi,Graham Potter
+2022-2023_1274,2022-2023,14,Crystal Palace,Southampton FC,Patrick Vieira,Ralph Hasenhüttl
+2022-2023_1275,2022-2023,14,Brentford FC,Wolverhampton Wanderers,Thomas Frank,Steve Davis
+2022-2023_1276,2022-2023,14,Newcastle United,Aston Villa,Eddie Howe,Aaron Danks
+2022-2023_1277,2022-2023,14,Fulham FC,Everton FC,Marco Silva,Frank Lampard
+2022-2023_1278,2022-2023,14,Liverpool FC,Leeds United,Jürgen Klopp,Jesse Marsch
+2022-2023_1279,2022-2023,14,Arsenal FC,Nottingham Forest,Mikel Arteta,Steve Cooper
+2022-2023_1280,2022-2023,14,Manchester United,West Ham United,Erik ten Hag,David Moyes
+2022-2023_1281,2022-2023,15,Leeds United,AFC Bournemouth,Jesse Marsch,Gary O'Neil
+2022-2023_1282,2022-2023,15,Manchester City,Fulham FC,Pep Guardiola,Marco Silva
+2022-2023_1283,2022-2023,15,Nottingham Forest,Brentford FC,Steve Cooper,Thomas Frank
+2022-2023_1284,2022-2023,15,Wolverhampton Wanderers,Brighton & Hove Albion,Steve Davis,Roberto De Zerbi
+2022-2023_1285,2022-2023,15,Everton FC,Leicester City,Frank Lampard,Brendan Rodgers
+2022-2023_1286,2022-2023,15,Chelsea FC,Arsenal FC,Graham Potter,Mikel Arteta
+2022-2023_1287,2022-2023,15,Aston Villa,Manchester United,Unai Emery,Erik ten Hag
+2022-2023_1288,2022-2023,15,Southampton FC,Newcastle United,Ralph Hasenhüttl,Eddie Howe
+2022-2023_1289,2022-2023,15,West Ham United,Crystal Palace,David Moyes,Patrick Vieira
+2022-2023_1290,2022-2023,15,Tottenham Hotspur,Liverpool FC,Antonio Conte,Jürgen Klopp
+2022-2023_1291,2022-2023,16,Manchester City,Brentford FC,Pep Guardiola,Thomas Frank
+2022-2023_1292,2022-2023,16,AFC Bournemouth,Everton FC,Gary O'Neil,Frank Lampard
+2022-2023_1293,2022-2023,16,Liverpool FC,Southampton FC,Jürgen Klopp,Nathan Jones
+2022-2023_1294,2022-2023,16,Nottingham Forest,Crystal Palace,Steve Cooper,Patrick Vieira
+2022-2023_1295,2022-2023,16,Tottenham Hotspur,Leeds United,Antonio Conte,Jesse Marsch
+2022-2023_1296,2022-2023,16,West Ham United,Leicester City,David Moyes,Brendan Rodgers
+2022-2023_1297,2022-2023,16,Newcastle United,Chelsea FC,Eddie Howe,Graham Potter
+2022-2023_1298,2022-2023,16,Wolverhampton Wanderers,Arsenal FC,Steve Davis,Mikel Arteta
+2022-2023_1299,2022-2023,16,Brighton & Hove Albion,Aston Villa,Roberto De Zerbi,Unai Emery
+2022-2023_1300,2022-2023,16,Fulham FC,Manchester United,Marco Silva,Erik ten Hag
+2022-2023_1301,2022-2023,17,Brentford FC,Tottenham Hotspur,Thomas Frank,Antonio Conte
+2022-2023_1302,2022-2023,17,Crystal Palace,Fulham FC,Patrick Vieira,Marco Silva
+2022-2023_1303,2022-2023,17,Everton FC,Wolverhampton Wanderers,Frank Lampard,Julen Lopetegui
+2022-2023_1304,2022-2023,17,Southampton FC,Brighton & Hove Albion,Nathan Jones,Roberto De Zerbi
+2022-2023_1305,2022-2023,17,Leicester City,Newcastle United,Brendan Rodgers,Eddie Howe
+2022-2023_1306,2022-2023,17,Aston Villa,Liverpool FC,Unai Emery,Jürgen Klopp
+2022-2023_1307,2022-2023,17,Arsenal FC,West Ham United,Mikel Arteta,David Moyes
+2022-2023_1308,2022-2023,17,Chelsea FC,AFC Bournemouth,Graham Potter,Gary O'Neil
+2022-2023_1309,2022-2023,17,Manchester United,Nottingham Forest,Erik ten Hag,Steve Cooper
+2022-2023_1310,2022-2023,17,Leeds United,Manchester City,Jesse Marsch,Pep Guardiola
+2022-2023_1311,2022-2023,18,West Ham United,Brentford FC,David Moyes,Thomas Frank
+2022-2023_1312,2022-2023,18,Liverpool FC,Leicester City,Jürgen Klopp,Brendan Rodgers
+2022-2023_1313,2022-2023,18,Wolverhampton Wanderers,Manchester United,Julen Lopetegui,Erik ten Hag
+2022-2023_1314,2022-2023,18,AFC Bournemouth,Crystal Palace,Gary O'Neil,Patrick Vieira
+2022-2023_1315,2022-2023,18,Fulham FC,Southampton FC,Marco Silva,Nathan Jones
+2022-2023_1316,2022-2023,18,Manchester City,Everton FC,Pep Guardiola,Frank Lampard
+2022-2023_1317,2022-2023,18,Newcastle United,Leeds United,Eddie Howe,Jesse Marsch
+2022-2023_1318,2022-2023,18,Brighton & Hove Albion,Arsenal FC,Roberto De Zerbi,Mikel Arteta
+2022-2023_1319,2022-2023,18,Tottenham Hotspur,Aston Villa,Antonio Conte,Unai Emery
+2022-2023_1320,2022-2023,18,Nottingham Forest,Chelsea FC,Steve Cooper,Graham Potter
+2022-2023_1321,2022-2023,19,Brentford FC,Liverpool FC,Thomas Frank,Jürgen Klopp
+2022-2023_1322,2022-2023,19,Arsenal FC,Newcastle United,Mikel Arteta,Eddie Howe
+2022-2023_1323,2022-2023,19,Everton FC,Brighton & Hove Albion,Frank Lampard,Roberto De Zerbi
+2022-2023_1324,2022-2023,19,Leicester City,Fulham FC,Brendan Rodgers,Marco Silva
+2022-2023_1325,2022-2023,19,Manchester United,AFC Bournemouth,Erik ten Hag,Gary O'Neil
+2022-2023_1326,2022-2023,19,Southampton FC,Nottingham Forest,Nathan Jones,Steve Cooper
+2022-2023_1327,2022-2023,19,Leeds United,West Ham United,Jesse Marsch,David Moyes
+2022-2023_1328,2022-2023,19,Aston Villa,Wolverhampton Wanderers,Unai Emery,Julen Lopetegui
+2022-2023_1329,2022-2023,19,Crystal Palace,Tottenham Hotspur,Patrick Vieira,Antonio Conte
+2022-2023_1330,2022-2023,19,Chelsea FC,Manchester City,Graham Potter,Pep Guardiola
+2022-2023_1331,2022-2023,20,Aston Villa,Leeds United,Unai Emery,Jesse Marsch
+2022-2023_1332,2022-2023,20,Manchester United,Manchester City,Erik ten Hag,Pep Guardiola
+2022-2023_1333,2022-2023,20,Brighton & Hove Albion,Liverpool FC,Roberto De Zerbi,Jürgen Klopp
+2022-2023_1334,2022-2023,20,Everton FC,Southampton FC,Frank Lampard,Nathan Jones
+2022-2023_1335,2022-2023,20,Nottingham Forest,Leicester City,Steve Cooper,Brendan Rodgers
+2022-2023_1336,2022-2023,20,Wolverhampton Wanderers,West Ham United,Julen Lopetegui,David Moyes
+2022-2023_1337,2022-2023,20,Brentford FC,AFC Bournemouth,Thomas Frank,Gary O'Neil
+2022-2023_1338,2022-2023,20,Chelsea FC,Crystal Palace,Graham Potter,Patrick Vieira
+2022-2023_1339,2022-2023,20,Newcastle United,Fulham FC,Eddie Howe,Marco Silva
+2022-2023_1340,2022-2023,20,Tottenham Hotspur,Arsenal FC,Antonio Conte,Mikel Arteta
+2022-2023_1341,2022-2023,21,Liverpool FC,Chelsea FC,Jürgen Klopp,Graham Potter
+2022-2023_1342,2022-2023,21,AFC Bournemouth,Nottingham Forest,Gary O'Neil,Steve Cooper
+2022-2023_1343,2022-2023,21,Southampton FC,Aston Villa,Nathan Jones,Unai Emery
+2022-2023_1344,2022-2023,21,Leicester City,Brighton & Hove Albion,Brendan Rodgers,Roberto De Zerbi
+2022-2023_1345,2022-2023,21,West Ham United,Everton FC,David Moyes,Frank Lampard
+2022-2023_1346,2022-2023,21,Crystal Palace,Newcastle United,Patrick Vieira,Eddie Howe
+2022-2023_1347,2022-2023,21,Leeds United,Brentford FC,Jesse Marsch,Thomas Frank
+2022-2023_1348,2022-2023,21,Manchester City,Wolverhampton Wanderers,Pep Guardiola,Julen Lopetegui
+2022-2023_1349,2022-2023,21,Arsenal FC,Manchester United,Mikel Arteta,Erik ten Hag
+2022-2023_1350,2022-2023,21,Fulham FC,Tottenham Hotspur,Marco Silva,Antonio Conte
+2022-2023_1351,2022-2023,22,Chelsea FC,Fulham FC,Graham Potter,Marco Silva
+2022-2023_1352,2022-2023,22,Everton FC,Arsenal FC,Sean Dyche,Mikel Arteta
+2022-2023_1353,2022-2023,22,Aston Villa,Leicester City,Unai Emery,Brendan Rodgers
+2022-2023_1354,2022-2023,22,Brighton & Hove Albion,AFC Bournemouth,Roberto De Zerbi,Gary O'Neil
+2022-2023_1355,2022-2023,22,Brentford FC,Southampton FC,Thomas Frank,Nathan Jones
+2022-2023_1356,2022-2023,22,Manchester United,Crystal Palace,Erik ten Hag,Patrick Vieira
+2022-2023_1357,2022-2023,22,Wolverhampton Wanderers,Liverpool FC,Julen Lopetegui,Jürgen Klopp
+2022-2023_1358,2022-2023,22,Newcastle United,West Ham United,Eddie Howe,David Moyes
+2022-2023_1359,2022-2023,22,Nottingham Forest,Leeds United,Steve Cooper,Jesse Marsch
+2022-2023_1360,2022-2023,22,Tottenham Hotspur,Manchester City,Antonio Conte,Pep Guardiola
+2022-2023_1361,2022-2023,23,West Ham United,Chelsea FC,David Moyes,Graham Potter
+2022-2023_1362,2022-2023,23,Crystal Palace,Brighton & Hove Albion,Patrick Vieira,Roberto De Zerbi
+2022-2023_1363,2022-2023,23,Arsenal FC,Brentford FC,Mikel Arteta,Thomas Frank
+2022-2023_1364,2022-2023,23,Fulham FC,Nottingham Forest,Marco Silva,Steve Cooper
+2022-2023_1365,2022-2023,23,Southampton FC,Wolverhampton Wanderers,Nathan Jones,Julen Lopetegui
+2022-2023_1366,2022-2023,23,Leicester City,Tottenham Hotspur,Brendan Rodgers,Antonio Conte
+2022-2023_1367,2022-2023,23,AFC Bournemouth,Newcastle United,Gary O'Neil,Eddie Howe
+2022-2023_1368,2022-2023,23,Leeds United,Manchester United,Michael Skubala,Erik ten Hag
+2022-2023_1369,2022-2023,23,Manchester City,Aston Villa,Pep Guardiola,Unai Emery
+2022-2023_1370,2022-2023,23,Liverpool FC,Everton FC,Jürgen Klopp,Sean Dyche
+2022-2023_1371,2022-2023,24,Aston Villa,Arsenal FC,Unai Emery,Mikel Arteta
+2022-2023_1372,2022-2023,24,Brighton & Hove Albion,Fulham FC,Roberto De Zerbi,Marco Silva
+2022-2023_1373,2022-2023,24,Brentford FC,Crystal Palace,Thomas Frank,Patrick Vieira
+2022-2023_1374,2022-2023,24,Chelsea FC,Southampton FC,Graham Potter,Rubén Sellés
+2022-2023_1375,2022-2023,24,Everton FC,Leeds United,Sean Dyche,Michael Skubala
+2022-2023_1376,2022-2023,24,Nottingham Forest,Manchester City,Steve Cooper,Pep Guardiola
+2022-2023_1377,2022-2023,24,Wolverhampton Wanderers,AFC Bournemouth,Julen Lopetegui,Gary O'Neil
+2022-2023_1378,2022-2023,24,Newcastle United,Liverpool FC,Eddie Howe,Jürgen Klopp
+2022-2023_1379,2022-2023,24,Manchester United,Leicester City,Erik ten Hag,Brendan Rodgers
+2022-2023_1380,2022-2023,24,Tottenham Hotspur,West Ham United,Antonio Conte,David Moyes
+2022-2023_1381,2022-2023,25,Fulham FC,Wolverhampton Wanderers,Marco Silva,Julen Lopetegui
+2022-2023_1382,2022-2023,25,Everton FC,Aston Villa,Sean Dyche,Unai Emery
+2022-2023_1383,2022-2023,25,Leeds United,Southampton FC,Gracia,Rubén Sellés
+2022-2023_1384,2022-2023,25,Leicester City,Arsenal FC,Brendan Rodgers,Mikel Arteta
+2022-2023_1385,2022-2023,25,West Ham United,Nottingham Forest,David Moyes,Steve Cooper
+2022-2023_1386,2022-2023,25,AFC Bournemouth,Manchester City,Gary O'Neil,Pep Guardiola
+2022-2023_1387,2022-2023,25,Crystal Palace,Liverpool FC,Patrick Vieira,Jürgen Klopp
+2022-2023_1388,2022-2023,25,Tottenham Hotspur,Chelsea FC,Antonio Conte,Graham Potter
+2022-2023_1389,2022-2023,25,Manchester United,Brentford FC,Erik ten Hag,Thomas Frank
+2022-2023_1390,2022-2023,25,Newcastle United,Brighton & Hove Albion,Eddie Howe,Roberto De Zerbi
+2022-2023_1391,2022-2023,26,Manchester City,Newcastle United,Pep Guardiola,Eddie Howe
+2022-2023_1392,2022-2023,26,Aston Villa,Crystal Palace,Unai Emery,Patrick Vieira
+2022-2023_1393,2022-2023,26,Brighton & Hove Albion,West Ham United,Roberto De Zerbi,David Moyes
+2022-2023_1394,2022-2023,26,Arsenal FC,AFC Bournemouth,Mikel Arteta,Gary O'Neil
+2022-2023_1395,2022-2023,26,Chelsea FC,Leeds United,Graham Potter,Gracia
+2022-2023_1396,2022-2023,26,Wolverhampton Wanderers,Tottenham Hotspur,Julen Lopetegui,Antonio Conte
+2022-2023_1397,2022-2023,26,Southampton FC,Leicester City,Rubén Sellés,Brendan Rodgers
+2022-2023_1398,2022-2023,26,Nottingham Forest,Everton FC,Steve Cooper,Sean Dyche
+2022-2023_1399,2022-2023,26,Liverpool FC,Manchester United,Jürgen Klopp,Erik ten Hag
+2022-2023_1400,2022-2023,26,Brentford FC,Fulham FC,Thomas Frank,Marco Silva
+2022-2023_1401,2022-2023,27,AFC Bournemouth,Liverpool FC,Gary O'Neil,Jürgen Klopp
+2022-2023_1402,2022-2023,27,Everton FC,Brentford FC,Sean Dyche,Thomas Frank
+2022-2023_1403,2022-2023,27,Leeds United,Brighton & Hove Albion,Gracia,Roberto De Zerbi
+2022-2023_1404,2022-2023,27,Leicester City,Chelsea FC,Brendan Rodgers,Graham Potter
+2022-2023_1405,2022-2023,27,Tottenham Hotspur,Nottingham Forest,Antonio Conte,Steve Cooper
+2022-2023_1406,2022-2023,27,Crystal Palace,Manchester City,Patrick Vieira,Pep Guardiola
+2022-2023_1407,2022-2023,27,Fulham FC,Arsenal FC,Marco Silva,Mikel Arteta
+2022-2023_1408,2022-2023,27,Manchester United,Southampton FC,Erik ten Hag,Rubén Sellés
+2022-2023_1409,2022-2023,27,West Ham United,Aston Villa,David Moyes,Unai Emery
+2022-2023_1410,2022-2023,27,Newcastle United,Wolverhampton Wanderers,Eddie Howe,Julen Lopetegui
+2022-2023_1411,2022-2023,28,Nottingham Forest,Newcastle United,Steve Cooper,Eddie Howe
+2022-2023_1412,2022-2023,28,Aston Villa,AFC Bournemouth,Unai Emery,Gary O'Neil
+2022-2023_1413,2022-2023,28,Brentford FC,Leicester City,Thomas Frank,Brendan Rodgers
+2022-2023_1414,2022-2023,28,Southampton FC,Tottenham Hotspur,Rubén Sellés,Antonio Conte
+2022-2023_1415,2022-2023,28,Wolverhampton Wanderers,Leeds United,Julen Lopetegui,Gracia
+2022-2023_1416,2022-2023,28,Chelsea FC,Everton FC,Graham Potter,Sean Dyche
+2022-2023_1417,2022-2023,28,Arsenal FC,Crystal Palace,Mikel Arteta,Paddy McCarthy
+2022-2023_1418,2022-2023,28,Liverpool FC,Fulham FC,Jürgen Klopp,Marco Silva
+2022-2023_1419,2022-2023,28,Manchester City,West Ham United,Pep Guardiola,David Moyes
+2022-2023_1420,2022-2023,28,Brighton & Hove Albion,Manchester United,Roberto De Zerbi,Erik ten Hag
+2022-2023_1421,2022-2023,29,Manchester City,Liverpool FC,Pep Guardiola,Jürgen Klopp
+2022-2023_1422,2022-2023,29,AFC Bournemouth,Fulham FC,Gary O'Neil,Marco Silva
+2022-2023_1423,2022-2023,29,Brighton & Hove Albion,Brentford FC,Roberto De Zerbi,Thomas Frank
+2022-2023_1424,2022-2023,29,Crystal Palace,Leicester City,Roy Hodgson,Brendan Rodgers
+2022-2023_1425,2022-2023,29,Arsenal FC,Leeds United,Mikel Arteta,Gracia
+2022-2023_1426,2022-2023,29,Nottingham Forest,Wolverhampton Wanderers,Steve Cooper,Julen Lopetegui
+2022-2023_1427,2022-2023,29,Chelsea FC,Aston Villa,Graham Potter,Unai Emery
+2022-2023_1428,2022-2023,29,West Ham United,Southampton FC,David Moyes,Rubén Sellés
+2022-2023_1429,2022-2023,29,Newcastle United,Manchester United,Eddie Howe,Erik ten Hag
+2022-2023_1430,2022-2023,29,Everton FC,Tottenham Hotspur,Sean Dyche,Cristian Stellini
+2022-2023_1431,2022-2023,30,Manchester United,Everton FC,Erik ten Hag,Sean Dyche
+2022-2023_1432,2022-2023,30,Aston Villa,Nottingham Forest,Unai Emery,Steve Cooper
+2022-2023_1433,2022-2023,30,Brentford FC,Newcastle United,Thomas Frank,Eddie Howe
+2022-2023_1434,2022-2023,30,Fulham FC,West Ham United,Marco Silva,David Moyes
+2022-2023_1435,2022-2023,30,Leicester City,AFC Bournemouth,Adam Sadler,Gary O'Neil
+2022-2023_1436,2022-2023,30,Tottenham Hotspur,Brighton & Hove Albion,Cristian Stellini,Roberto De Zerbi
+2022-2023_1437,2022-2023,30,Wolverhampton Wanderers,Chelsea FC,Julen Lopetegui,Frank Lampard
+2022-2023_1438,2022-2023,30,Southampton FC,Manchester City,Rubén Sellés,Pep Guardiola
+2022-2023_1439,2022-2023,30,Leeds United,Crystal Palace,Gracia,Roy Hodgson
+2022-2023_1440,2022-2023,30,Liverpool FC,Arsenal FC,Jürgen Klopp,Mikel Arteta
+2022-2023_1441,2022-2023,31,Aston Villa,Newcastle United,Unai Emery,Eddie Howe
+2022-2023_1442,2022-2023,31,Chelsea FC,Brighton & Hove Albion,Frank Lampard,Roberto De Zerbi
+2022-2023_1443,2022-2023,31,Everton FC,Fulham FC,Sean Dyche,Marco Silva
+2022-2023_1444,2022-2023,31,Southampton FC,Crystal Palace,Rubén Sellés,Roy Hodgson
+2022-2023_1445,2022-2023,31,Wolverhampton Wanderers,Brentford FC,Julen Lopetegui,Thomas Frank
+2022-2023_1446,2022-2023,31,Tottenham Hotspur,AFC Bournemouth,Cristian Stellini,Gary O'Neil
+2022-2023_1447,2022-2023,31,Manchester City,Leicester City,Pep Guardiola,Dean Smith
+2022-2023_1448,2022-2023,31,West Ham United,Arsenal FC,David Moyes,Mikel Arteta
+2022-2023_1449,2022-2023,31,Nottingham Forest,Manchester United,Steve Cooper,Erik ten Hag
+2022-2023_1450,2022-2023,31,Leeds United,Liverpool FC,Gracia,Jürgen Klopp
+2022-2023_1451,2022-2023,32,Arsenal FC,Southampton FC,Mikel Arteta,Rubén Sellés
+2022-2023_1452,2022-2023,32,Fulham FC,Leeds United,Marco Silva,Gracia
+2022-2023_1453,2022-2023,32,Crystal Palace,Everton FC,Roy Hodgson,Sean Dyche
+2022-2023_1454,2022-2023,32,Brentford FC,Aston Villa,Thomas Frank,Unai Emery
+2022-2023_1455,2022-2023,32,Liverpool FC,Nottingham Forest,Jürgen Klopp,Steve Cooper
+2022-2023_1456,2022-2023,32,Leicester City,Wolverhampton Wanderers,Dean Smith,Julen Lopetegui
+2022-2023_1457,2022-2023,32,AFC Bournemouth,West Ham United,Gary O'Neil,David Moyes
+2022-2023_1458,2022-2023,32,Newcastle United,Tottenham Hotspur,Eddie Howe,Cristian Stellini
+2022-2023_1459,2022-2023,32,Brighton & Hove Albion,Manchester City,Roberto De Zerbi,Pep Guardiola
+2022-2023_1460,2022-2023,32,Manchester United,Chelsea FC,Erik ten Hag,Frank Lampard
+2022-2023_1461,2022-2023,33,Wolverhampton Wanderers,Crystal Palace,Julen Lopetegui,Roy Hodgson
+2022-2023_1462,2022-2023,33,Aston Villa,Fulham FC,Unai Emery,Marco Silva
+2022-2023_1463,2022-2023,33,Leeds United,Leicester City,Gracia,Dean Smith
+2022-2023_1464,2022-2023,33,Nottingham Forest,Brighton & Hove Albion,Steve Cooper,Roberto De Zerbi
+2022-2023_1465,2022-2023,33,West Ham United,Liverpool FC,David Moyes,Jürgen Klopp
+2022-2023_1466,2022-2023,33,Chelsea FC,Brentford FC,Frank Lampard,Thomas Frank
+2022-2023_1467,2022-2023,33,Manchester City,Arsenal FC,Pep Guardiola,Mikel Arteta
+2022-2023_1468,2022-2023,33,Everton FC,Newcastle United,Sean Dyche,Eddie Howe
+2022-2023_1469,2022-2023,33,Southampton FC,AFC Bournemouth,Rubén Sellés,Gary O'Neil
+2022-2023_1470,2022-2023,33,Tottenham Hotspur,Manchester United,Ryan Mason,Erik ten Hag
+2022-2023_1471,2022-2023,34,Crystal Palace,West Ham United,Roy Hodgson,David Moyes
+2022-2023_1472,2022-2023,34,Brighton & Hove Albion,Wolverhampton Wanderers,Roberto De Zerbi,Julen Lopetegui
+2022-2023_1473,2022-2023,34,Brentford FC,Nottingham Forest,Thomas Frank,Steve Cooper
+2022-2023_1474,2022-2023,34,AFC Bournemouth,Leeds United,Gary O'Neil,Gracia
+2022-2023_1475,2022-2023,34,Fulham FC,Manchester City,Marco Silva,Pep Guardiola
+2022-2023_1476,2022-2023,34,Manchester United,Aston Villa,Erik ten Hag,Unai Emery
+2022-2023_1477,2022-2023,34,Newcastle United,Southampton FC,Eddie Howe,Rubén Sellés
+2022-2023_1478,2022-2023,34,Liverpool FC,Tottenham Hotspur,Jürgen Klopp,Ryan Mason
+2022-2023_1479,2022-2023,34,Leicester City,Everton FC,Dean Smith,Sean Dyche
+2022-2023_1480,2022-2023,34,Arsenal FC,Chelsea FC,Mikel Arteta,Frank Lampard
+2022-2023_1481,2022-2023,35,AFC Bournemouth,Chelsea FC,Gary O'Neil,Frank Lampard
+2022-2023_1482,2022-2023,35,Manchester City,Leeds United,Pep Guardiola,Sam Allardyce
+2022-2023_1483,2022-2023,35,Tottenham Hotspur,Crystal Palace,Ryan Mason,Roy Hodgson
+2022-2023_1484,2022-2023,35,Wolverhampton Wanderers,Aston Villa,Julen Lopetegui,Unai Emery
+2022-2023_1485,2022-2023,35,Liverpool FC,Brentford FC,Jürgen Klopp,Thomas Frank
+2022-2023_1486,2022-2023,35,Newcastle United,Arsenal FC,Eddie Howe,Mikel Arteta
+2022-2023_1487,2022-2023,35,West Ham United,Manchester United,David Moyes,Erik ten Hag
+2022-2023_1488,2022-2023,35,Fulham FC,Leicester City,Marco Silva,Dean Smith
+2022-2023_1489,2022-2023,35,Brighton & Hove Albion,Everton FC,Roberto De Zerbi,Sean Dyche
+2022-2023_1490,2022-2023,35,Nottingham Forest,Southampton FC,Steve Cooper,Rubén Sellés
+2022-2023_1491,2022-2023,36,Leeds United,Newcastle United,Sam Allardyce,Eddie Howe
+2022-2023_1492,2022-2023,36,Aston Villa,Tottenham Hotspur,Unai Emery,Ryan Mason
+2022-2023_1493,2022-2023,36,Crystal Palace,AFC Bournemouth,Roy Hodgson,Gary O'Neil
+2022-2023_1494,2022-2023,36,Chelsea FC,Nottingham Forest,Frank Lampard,Steve Cooper
+2022-2023_1495,2022-2023,36,Southampton FC,Fulham FC,Rubén Sellés,Marco Silva
+2022-2023_1496,2022-2023,36,Manchester United,Wolverhampton Wanderers,Erik ten Hag,Julen Lopetegui
+2022-2023_1497,2022-2023,36,Brentford FC,West Ham United,Thomas Frank,David Moyes
+2022-2023_1498,2022-2023,36,Everton FC,Manchester City,Sean Dyche,Pep Guardiola
+2022-2023_1499,2022-2023,36,Arsenal FC,Brighton & Hove Albion,Mikel Arteta,Roberto De Zerbi
+2022-2023_1500,2022-2023,36,Leicester City,Liverpool FC,Dean Smith,Jürgen Klopp
+2022-2023_1501,2022-2023,37,Tottenham Hotspur,Brentford FC,Ryan Mason,Thomas Frank
+2022-2023_1502,2022-2023,37,AFC Bournemouth,Manchester United,Gary O'Neil,Erik ten Hag
+2022-2023_1503,2022-2023,37,Fulham FC,Crystal Palace,Marco Silva,Roy Hodgson
+2022-2023_1504,2022-2023,37,Liverpool FC,Aston Villa,Jürgen Klopp,Unai Emery
+2022-2023_1505,2022-2023,37,Wolverhampton Wanderers,Everton FC,Julen Lopetegui,Sean Dyche
+2022-2023_1506,2022-2023,37,Nottingham Forest,Arsenal FC,Steve Cooper,Mikel Arteta
+2022-2023_1507,2022-2023,37,West Ham United,Leeds United,David Moyes,Sam Allardyce
+2022-2023_1508,2022-2023,37,Brighton & Hove Albion,Southampton FC,Roberto De Zerbi,Rubén Sellés
+2022-2023_1509,2022-2023,37,Manchester City,Chelsea FC,Pep Guardiola,Frank Lampard
+2022-2023_1510,2022-2023,37,Newcastle United,Leicester City,Eddie Howe,Dean Smith
+2022-2023_1511,2022-2023,38,Aston Villa,Brighton & Hove Albion,Unai Emery,Roberto De Zerbi
+2022-2023_1512,2022-2023,38,Crystal Palace,Nottingham Forest,Roy Hodgson,Steve Cooper
+2022-2023_1513,2022-2023,38,Arsenal FC,Wolverhampton Wanderers,Mikel Arteta,Julen Lopetegui
+2022-2023_1514,2022-2023,38,Brentford FC,Manchester City,Thomas Frank,Pep Guardiola
+2022-2023_1515,2022-2023,38,Chelsea FC,Newcastle United,Frank Lampard,Eddie Howe
+2022-2023_1516,2022-2023,38,Everton FC,AFC Bournemouth,Sean Dyche,Gary O'Neil
+2022-2023_1517,2022-2023,38,Southampton FC,Liverpool FC,Rubén Sellés,Jürgen Klopp
+2022-2023_1518,2022-2023,38,Leeds United,Tottenham Hotspur,Sam Allardyce,Ryan Mason
+2022-2023_1519,2022-2023,38,Leicester City,West Ham United,Dean Smith,David Moyes
+2022-2023_1520,2022-2023,38,Manchester United,Fulham FC,Erik ten Hag,Marco Silva
+2023-2024_1521,2023-2024,1,Burnley FC,Manchester City,Vincent Kompany,Pep Guardiola
+2023-2024_1522,2023-2024,1,Arsenal FC,Nottingham Forest,Mikel Arteta,Steve Cooper
+2023-2024_1523,2023-2024,1,AFC Bournemouth,West Ham United,Andoni Iraola,David Moyes
+2023-2024_1524,2023-2024,1,Brighton & Hove Albion,Luton Town,Roberto De Zerbi,Rob Edwards
+2023-2024_1525,2023-2024,1,Everton FC,Fulham FC,Sean Dyche,Marco Silva
+2023-2024_1526,2023-2024,1,Sheffield United,Crystal Palace,Paul Heckingbottom,Roy Hodgson
+2023-2024_1527,2023-2024,1,Newcastle United,Aston Villa,Eddie Howe,Unai Emery
+2023-2024_1528,2023-2024,1,Brentford FC,Tottenham Hotspur,Thomas Frank,Ange Postecoglou
+2023-2024_1529,2023-2024,1,Chelsea FC,Liverpool FC,Mauricio Pochettino,Jürgen Klopp
+2023-2024_1530,2023-2024,1,Manchester United,Wolverhampton Wanderers,Erik ten Hag,Gary O'Neil
+2023-2024_1531,2023-2024,2,Nottingham Forest,Sheffield United,Steve Cooper,Paul Heckingbottom
+2023-2024_1532,2023-2024,2,Fulham FC,Brentford FC,Marco Silva,Thomas Frank
+2023-2024_1533,2023-2024,2,Liverpool FC,AFC Bournemouth,Jürgen Klopp,Andoni Iraola
+2023-2024_1534,2023-2024,2,Wolverhampton Wanderers,Brighton & Hove Albion,Gary O'Neil,Roberto De Zerbi
+2023-2024_1535,2023-2024,2,Tottenham Hotspur,Manchester United,Ange Postecoglou,Erik ten Hag
+2023-2024_1536,2023-2024,2,Manchester City,Newcastle United,Pep Guardiola,Eddie Howe
+2023-2024_1537,2023-2024,2,Aston Villa,Everton FC,Unai Emery,Sean Dyche
+2023-2024_1538,2023-2024,2,West Ham United,Chelsea FC,David Moyes,Mauricio Pochettino
+2023-2024_1539,2023-2024,2,Crystal Palace,Arsenal FC,Roy Hodgson,Mikel Arteta
+2023-2024_1540,2023-2024,2,Luton Town,Burnley FC,Rob Edwards,Vincent Kompany
+2023-2024_1541,2023-2024,3,Chelsea FC,Luton Town,Mauricio Pochettino,Rob Edwards
+2023-2024_1542,2023-2024,3,AFC Bournemouth,Tottenham Hotspur,Andoni Iraola,Ange Postecoglou
+2023-2024_1543,2023-2024,3,Arsenal FC,Fulham FC,Mikel Arteta,Marco Silva
+2023-2024_1544,2023-2024,3,Brentford FC,Crystal Palace,Thomas Frank,Roy Hodgson
+2023-2024_1545,2023-2024,3,Everton FC,Wolverhampton Wanderers,Sean Dyche,Gary O'Neil
+2023-2024_1546,2023-2024,3,Manchester United,Nottingham Forest,Erik ten Hag,Steve Cooper
+2023-2024_1547,2023-2024,3,Brighton & Hove Albion,West Ham United,Roberto De Zerbi,David Moyes
+2023-2024_1548,2023-2024,3,Burnley FC,Aston Villa,Vincent Kompany,Unai Emery
+2023-2024_1549,2023-2024,3,Sheffield United,Manchester City,Paul Heckingbottom,Pep Guardiola
+2023-2024_1550,2023-2024,3,Newcastle United,Liverpool FC,Eddie Howe,Jürgen Klopp
+2023-2024_1551,2023-2024,4,Luton Town,West Ham United,Rob Edwards,David Moyes
+2023-2024_1552,2023-2024,4,Sheffield United,Everton FC,Paul Heckingbottom,Sean Dyche
+2023-2024_1553,2023-2024,4,Brentford FC,AFC Bournemouth,Thomas Frank,Andoni Iraola
+2023-2024_1554,2023-2024,4,Burnley FC,Tottenham Hotspur,Vincent Kompany,Ange Postecoglou
+2023-2024_1555,2023-2024,4,Chelsea FC,Nottingham Forest,Mauricio Pochettino,Steve Cooper
+2023-2024_1556,2023-2024,4,Manchester City,Fulham FC,Pep Guardiola,Marco Silva
+2023-2024_1557,2023-2024,4,Brighton & Hove Albion,Newcastle United,Roberto De Zerbi,Eddie Howe
+2023-2024_1558,2023-2024,4,Crystal Palace,Wolverhampton Wanderers,Roy Hodgson,Gary O'Neil
+2023-2024_1559,2023-2024,4,Liverpool FC,Aston Villa,Jürgen Klopp,Unai Emery
+2023-2024_1560,2023-2024,4,Arsenal FC,Manchester United,Mikel Arteta,Erik ten Hag
+2023-2024_1561,2023-2024,5,Wolverhampton Wanderers,Liverpool FC,Gary O'Neil,Jürgen Klopp
+2023-2024_1562,2023-2024,5,Aston Villa,Crystal Palace,Unai Emery,Roy Hodgson
+2023-2024_1563,2023-2024,5,Fulham FC,Luton Town,Marco Silva,Rob Edwards
+2023-2024_1564,2023-2024,5,Manchester United,Brighton & Hove Albion,Erik ten Hag,Roberto De Zerbi
+2023-2024_1565,2023-2024,5,Tottenham Hotspur,Sheffield United,Ange Postecoglou,Paul Heckingbottom
+2023-2024_1566,2023-2024,5,West Ham United,Manchester City,David Moyes,Pep Guardiola
+2023-2024_1567,2023-2024,5,Newcastle United,Brentford FC,Eddie Howe,Thomas Frank
+2023-2024_1568,2023-2024,5,AFC Bournemouth,Chelsea FC,Andoni Iraola,Mauricio Pochettino
+2023-2024_1569,2023-2024,5,Everton FC,Arsenal FC,Sean Dyche,Mikel Arteta
+2023-2024_1570,2023-2024,5,Nottingham Forest,Burnley FC,Steve Cooper,Vincent Kompany
+2023-2024_1571,2023-2024,6,Crystal Palace,Fulham FC,Roy Hodgson,Marco Silva
+2023-2024_1572,2023-2024,6,Luton Town,Wolverhampton Wanderers,Rob Edwards,Gary O'Neil
+2023-2024_1573,2023-2024,6,Manchester City,Nottingham Forest,Pep Guardiola,Steve Cooper
+2023-2024_1574,2023-2024,6,Brentford FC,Everton FC,Thomas Frank,Sean Dyche
+2023-2024_1575,2023-2024,6,Burnley FC,Manchester United,Vincent Kompany,Erik ten Hag
+2023-2024_1576,2023-2024,6,Arsenal FC,Tottenham Hotspur,Mikel Arteta,Ange Postecoglou
+2023-2024_1577,2023-2024,6,Brighton & Hove Albion,AFC Bournemouth,Roberto De Zerbi,Andoni Iraola
+2023-2024_1578,2023-2024,6,Chelsea FC,Aston Villa,Mauricio Pochettino,Unai Emery
+2023-2024_1579,2023-2024,6,Liverpool FC,West Ham United,Jürgen Klopp,David Moyes
+2023-2024_1580,2023-2024,6,Sheffield United,Newcastle United,Paul Heckingbottom,Eddie Howe
+2023-2024_1581,2023-2024,7,Aston Villa,Brighton & Hove Albion,Unai Emery,Roberto De Zerbi
+2023-2024_1582,2023-2024,7,AFC Bournemouth,Arsenal FC,Andoni Iraola,Mikel Arteta
+2023-2024_1583,2023-2024,7,Everton FC,Luton Town,Sean Dyche,Rob Edwards
+2023-2024_1584,2023-2024,7,Manchester United,Crystal Palace,Erik ten Hag,Roy Hodgson
+2023-2024_1585,2023-2024,7,Newcastle United,Burnley FC,Eddie Howe,Vincent Kompany
+2023-2024_1586,2023-2024,7,West Ham United,Sheffield United,David Moyes,Paul Heckingbottom
+2023-2024_1587,2023-2024,7,Wolverhampton Wanderers,Manchester City,Gary O'Neil,Pep Guardiola
+2023-2024_1588,2023-2024,7,Tottenham Hotspur,Liverpool FC,Ange Postecoglou,Jürgen Klopp
+2023-2024_1589,2023-2024,7,Nottingham Forest,Brentford FC,Steve Cooper,Thomas Frank
+2023-2024_1590,2023-2024,7,Fulham FC,Chelsea FC,Marco Silva,Mauricio Pochettino
+2023-2024_1591,2023-2024,8,Luton Town,Tottenham Hotspur,Rob Edwards,Ange Postecoglou
+2023-2024_1592,2023-2024,8,Burnley FC,Chelsea FC,Vincent Kompany,Mauricio Pochettino
+2023-2024_1593,2023-2024,8,Everton FC,AFC Bournemouth,Sean Dyche,Andoni Iraola
+2023-2024_1594,2023-2024,8,Fulham FC,Sheffield United,Marco Silva,Paul Heckingbottom
+2023-2024_1595,2023-2024,8,Manchester United,Brentford FC,Erik ten Hag,Thomas Frank
+2023-2024_1596,2023-2024,8,Crystal Palace,Nottingham Forest,Roy Hodgson,Steve Cooper
+2023-2024_1597,2023-2024,8,Brighton & Hove Albion,Liverpool FC,Roberto De Zerbi,Jürgen Klopp
+2023-2024_1598,2023-2024,8,West Ham United,Newcastle United,David Moyes,Eddie Howe
+2023-2024_1599,2023-2024,8,Wolverhampton Wanderers,Aston Villa,Gary O'Neil,Unai Emery
+2023-2024_1600,2023-2024,8,Arsenal FC,Manchester City,Mikel Arteta,Pep Guardiola
+2023-2024_1601,2023-2024,9,Liverpool FC,Everton FC,Jürgen Klopp,Sean Dyche
+2023-2024_1602,2023-2024,9,AFC Bournemouth,Wolverhampton Wanderers,Andoni Iraola,Gary O'Neil
+2023-2024_1603,2023-2024,9,Brentford FC,Burnley FC,Thomas Frank,Vincent Kompany
+2023-2024_1604,2023-2024,9,Manchester City,Brighton & Hove Albion,Pep Guardiola,Roberto De Zerbi
+2023-2024_1605,2023-2024,9,Newcastle United,Crystal Palace,Eddie Howe,Roy Hodgson
+2023-2024_1606,2023-2024,9,Nottingham Forest,Luton Town,Steve Cooper,Rob Edwards
+2023-2024_1607,2023-2024,9,Chelsea FC,Arsenal FC,Mauricio Pochettino,Mikel Arteta
+2023-2024_1608,2023-2024,9,Sheffield United,Manchester United,Paul Heckingbottom,Erik ten Hag
+2023-2024_1609,2023-2024,9,Aston Villa,West Ham United,Unai Emery,David Moyes
+2023-2024_1610,2023-2024,9,Tottenham Hotspur,Fulham FC,Ange Postecoglou,Marco Silva
+2023-2024_1611,2023-2024,10,Crystal Palace,Tottenham Hotspur,Roy Hodgson,Ange Postecoglou
+2023-2024_1612,2023-2024,10,Chelsea FC,Brentford FC,Mauricio Pochettino,Thomas Frank
+2023-2024_1613,2023-2024,10,AFC Bournemouth,Burnley FC,Andoni Iraola,Vincent Kompany
+2023-2024_1614,2023-2024,10,Arsenal FC,Sheffield United,Mikel Arteta,Paul Heckingbottom
+2023-2024_1615,2023-2024,10,Wolverhampton Wanderers,Newcastle United,Gary O'Neil,Eddie Howe
+2023-2024_1616,2023-2024,10,West Ham United,Everton FC,David Moyes,Sean Dyche
+2023-2024_1617,2023-2024,10,Aston Villa,Luton Town,Unai Emery,Rob Edwards
+2023-2024_1618,2023-2024,10,Brighton & Hove Albion,Fulham FC,Roberto De Zerbi,Marco Silva
+2023-2024_1619,2023-2024,10,Liverpool FC,Nottingham Forest,Jürgen Klopp,Steve Cooper
+2023-2024_1620,2023-2024,10,Manchester United,Manchester City,Erik ten Hag,Pep Guardiola
+2023-2024_1621,2023-2024,11,Fulham FC,Manchester United,Marco Silva,Erik ten Hag
+2023-2024_1622,2023-2024,11,Brentford FC,West Ham United,Thomas Frank,David Moyes
+2023-2024_1623,2023-2024,11,Burnley FC,Crystal Palace,Vincent Kompany,Roy Hodgson
+2023-2024_1624,2023-2024,11,Everton FC,Brighton & Hove Albion,Sean Dyche,Roberto De Zerbi
+2023-2024_1625,2023-2024,11,Manchester City,AFC Bournemouth,Pep Guardiola,Andoni Iraola
+2023-2024_1626,2023-2024,11,Sheffield United,Wolverhampton Wanderers,Paul Heckingbottom,Gary O'Neil
+2023-2024_1627,2023-2024,11,Newcastle United,Arsenal FC,Eddie Howe,Mikel Arteta
+2023-2024_1628,2023-2024,11,Nottingham Forest,Aston Villa,Steve Cooper,Unai Emery
+2023-2024_1629,2023-2024,11,Luton Town,Liverpool FC,Rob Edwards,Jürgen Klopp
+2023-2024_1630,2023-2024,11,Tottenham Hotspur,Chelsea FC,Ange Postecoglou,Mauricio Pochettino
+2023-2024_1631,2023-2024,12,Wolverhampton Wanderers,Tottenham Hotspur,Gary O'Neil,Ange Postecoglou
+2023-2024_1632,2023-2024,12,Arsenal FC,Burnley FC,Mikel Arteta,Vincent Kompany
+2023-2024_1633,2023-2024,12,Crystal Palace,Everton FC,Roy Hodgson,Sean Dyche
+2023-2024_1634,2023-2024,12,Manchester United,Luton Town,Erik ten Hag,Rob Edwards
+2023-2024_1635,2023-2024,12,AFC Bournemouth,Newcastle United,Andoni Iraola,Eddie Howe
+2023-2024_1636,2023-2024,12,Aston Villa,Fulham FC,Unai Emery,Marco Silva
+2023-2024_1637,2023-2024,12,Brighton & Hove Albion,Sheffield United,Roberto De Zerbi,Paul Heckingbottom
+2023-2024_1638,2023-2024,12,Liverpool FC,Brentford FC,Jürgen Klopp,Thomas Frank
+2023-2024_1639,2023-2024,12,West Ham United,Nottingham Forest,David Moyes,Steve Cooper
+2023-2024_1640,2023-2024,12,Chelsea FC,Manchester City,Mauricio Pochettino,Pep Guardiola
+2023-2024_1641,2023-2024,13,Manchester City,Liverpool FC,Pep Guardiola,Jürgen Klopp
+2023-2024_1642,2023-2024,13,Burnley FC,West Ham United,Vincent Kompany,David Moyes
+2023-2024_1643,2023-2024,13,Luton Town,Crystal Palace,Rob Edwards,Roy Hodgson
+2023-2024_1644,2023-2024,13,Newcastle United,Chelsea FC,Eddie Howe,Mauricio Pochettino
+2023-2024_1645,2023-2024,13,Nottingham Forest,Brighton & Hove Albion,Steve Cooper,Roberto De Zerbi
+2023-2024_1646,2023-2024,13,Sheffield United,AFC Bournemouth,Paul Heckingbottom,Andoni Iraola
+2023-2024_1647,2023-2024,13,Brentford FC,Arsenal FC,Thomas Frank,Mikel Arteta
+2023-2024_1648,2023-2024,13,Tottenham Hotspur,Aston Villa,Ange Postecoglou,Unai Emery
+2023-2024_1649,2023-2024,13,Everton FC,Manchester United,Sean Dyche,Erik ten Hag
+2023-2024_1650,2023-2024,13,Fulham FC,Wolverhampton Wanderers,Marco Silva,Gary O'Neil
+2023-2024_1651,2023-2024,14,Arsenal FC,Wolverhampton Wanderers,Mikel Arteta,Gary O'Neil
+2023-2024_1652,2023-2024,14,Brentford FC,Luton Town,Thomas Frank,Rob Edwards
+2023-2024_1653,2023-2024,14,Burnley FC,Sheffield United,Vincent Kompany,Paul Heckingbottom
+2023-2024_1654,2023-2024,14,Nottingham Forest,Everton FC,Steve Cooper,Sean Dyche
+2023-2024_1655,2023-2024,14,Newcastle United,Manchester United,Eddie Howe,Erik ten Hag
+2023-2024_1656,2023-2024,14,AFC Bournemouth,Aston Villa,Andoni Iraola,Unai Emery
+2023-2024_1657,2023-2024,14,Chelsea FC,Brighton & Hove Albion,Mauricio Pochettino,Roberto De Zerbi
+2023-2024_1658,2023-2024,14,Liverpool FC,Fulham FC,Jürgen Klopp,Marco Silva
+2023-2024_1659,2023-2024,14,West Ham United,Crystal Palace,David Moyes,Roy Hodgson
+2023-2024_1660,2023-2024,14,Manchester City,Tottenham Hotspur,Pep Guardiola,Ange Postecoglou
+2023-2024_1661,2023-2024,15,Wolverhampton Wanderers,Burnley FC,Gary O'Neil,Vincent Kompany
+2023-2024_1662,2023-2024,15,Luton Town,Arsenal FC,Rob Edwards,Mikel Arteta
+2023-2024_1663,2023-2024,15,Brighton & Hove Albion,Brentford FC,Roberto De Zerbi,Thomas Frank
+2023-2024_1664,2023-2024,15,Fulham FC,Nottingham Forest,Marco Silva,Steve Cooper
+2023-2024_1665,2023-2024,15,Sheffield United,Liverpool FC,Chris Wilder,Jürgen Klopp
+2023-2024_1666,2023-2024,15,Crystal Palace,AFC Bournemouth,Roy Hodgson,Andoni Iraola
+2023-2024_1667,2023-2024,15,Aston Villa,Manchester City,Unai Emery,Pep Guardiola
+2023-2024_1668,2023-2024,15,Manchester United,Chelsea FC,Erik ten Hag,Mauricio Pochettino
+2023-2024_1669,2023-2024,15,Everton FC,Newcastle United,Sean Dyche,Eddie Howe
+2023-2024_1670,2023-2024,15,Tottenham Hotspur,West Ham United,Ange Postecoglou,David Moyes
+2023-2024_1671,2023-2024,16,Crystal Palace,Liverpool FC,Roy Hodgson,Jürgen Klopp
+2023-2024_1672,2023-2024,16,Brighton & Hove Albion,Burnley FC,Roberto De Zerbi,Vincent Kompany
+2023-2024_1673,2023-2024,16,Manchester United,AFC Bournemouth,Erik ten Hag,Andoni Iraola
+2023-2024_1674,2023-2024,16,Sheffield United,Brentford FC,Chris Wilder,Thomas Frank
+2023-2024_1675,2023-2024,16,Wolverhampton Wanderers,Nottingham Forest,Gary O'Neil,Steve Cooper
+2023-2024_1676,2023-2024,16,Aston Villa,Arsenal FC,Unai Emery,Mikel Arteta
+2023-2024_1677,2023-2024,16,Everton FC,Chelsea FC,Sean Dyche,Mauricio Pochettino
+2023-2024_1678,2023-2024,16,Fulham FC,West Ham United,Marco Silva,David Moyes
+2023-2024_1679,2023-2024,16,Luton Town,Manchester City,Rob Edwards,Pep Guardiola
+2023-2024_1680,2023-2024,16,Tottenham Hotspur,Newcastle United,Ange Postecoglou,Eddie Howe
+2023-2024_1681,2023-2024,17,Nottingham Forest,Tottenham Hotspur,Steve Cooper,Ange Postecoglou
+2023-2024_1682,2023-2024,17,Chelsea FC,Sheffield United,Mauricio Pochettino,Chris Wilder
+2023-2024_1683,2023-2024,17,Manchester City,Crystal Palace,Pep Guardiola,Roy Hodgson
+2023-2024_1684,2023-2024,17,Newcastle United,Fulham FC,Eddie Howe,Marco Silva
+2023-2024_1685,2023-2024,17,Burnley FC,Everton FC,Vincent Kompany,Sean Dyche
+2023-2024_1686,2023-2024,17,Arsenal FC,Brighton & Hove Albion,Mikel Arteta,Roberto De Zerbi
+2023-2024_1687,2023-2024,17,Brentford FC,Aston Villa,Thomas Frank,Unai Emery
+2023-2024_1688,2023-2024,17,West Ham United,Wolverhampton Wanderers,David Moyes,Gary O'Neil
+2023-2024_1689,2023-2024,17,Liverpool FC,Manchester United,Jürgen Klopp,Erik ten Hag
+2023-2024_1690,2023-2024,17,AFC Bournemouth,Luton Town,Andoni Iraola,Rob Edwards
+2023-2024_1691,2023-2024,18,Crystal Palace,Brighton & Hove Albion,Roy Hodgson,Roberto De Zerbi
+2023-2024_1692,2023-2024,18,Aston Villa,Sheffield United,Unai Emery,Chris Wilder
+2023-2024_1693,2023-2024,18,West Ham United,Manchester United,David Moyes,Erik ten Hag
+2023-2024_1694,2023-2024,18,Fulham FC,Burnley FC,Marco Silva,Vincent Kompany
+2023-2024_1695,2023-2024,18,Luton Town,Newcastle United,Rob Edwards,Eddie Howe
+2023-2024_1696,2023-2024,18,Nottingham Forest,AFC Bournemouth,Nuno Espírito Santo,Andoni Iraola
+2023-2024_1697,2023-2024,18,Tottenham Hotspur,Everton FC,Ange Postecoglou,Sean Dyche
+2023-2024_1698,2023-2024,18,Liverpool FC,Arsenal FC,Jürgen Klopp,Mikel Arteta
+2023-2024_1699,2023-2024,18,Wolverhampton Wanderers,Chelsea FC,Gary O'Neil,Mauricio Pochettino
+2023-2024_1700,2023-2024,18,Manchester City,Brentford FC,Pep Guardiola,Thomas Frank
+2023-2024_1701,2023-2024,19,Newcastle United,Nottingham Forest,Eddie Howe,Nuno Espírito Santo
+2023-2024_1702,2023-2024,19,AFC Bournemouth,Fulham FC,Andoni Iraola,Marco Silva
+2023-2024_1703,2023-2024,19,Sheffield United,Luton Town,Chris Wilder,Rob Edwards
+2023-2024_1704,2023-2024,19,Burnley FC,Liverpool FC,Vincent Kompany,Jürgen Klopp
+2023-2024_1705,2023-2024,19,Manchester United,Aston Villa,Erik ten Hag,Unai Emery
+2023-2024_1706,2023-2024,19,Brentford FC,Wolverhampton Wanderers,Thomas Frank,Gary O'Neil
+2023-2024_1707,2023-2024,19,Chelsea FC,Crystal Palace,Mauricio Pochettino,Roy Hodgson
+2023-2024_1708,2023-2024,19,Everton FC,Manchester City,Sean Dyche,Pep Guardiola
+2023-2024_1709,2023-2024,19,Brighton & Hove Albion,Tottenham Hotspur,Roberto De Zerbi,Ange Postecoglou
+2023-2024_1710,2023-2024,19,Arsenal FC,West Ham United,Mikel Arteta,David Moyes
+2023-2024_1711,2023-2024,20,Luton Town,Chelsea FC,Rob Edwards,Mauricio Pochettino
+2023-2024_1712,2023-2024,20,Aston Villa,Burnley FC,Unai Emery,Vincent Kompany
+2023-2024_1713,2023-2024,20,Crystal Palace,Brentford FC,Roy Hodgson,Thomas Frank
+2023-2024_1714,2023-2024,20,Manchester City,Sheffield United,Pep Guardiola,Chris Wilder
+2023-2024_1715,2023-2024,20,Wolverhampton Wanderers,Everton FC,Gary O'Neil,Sean Dyche
+2023-2024_1716,2023-2024,20,Nottingham Forest,Manchester United,Nuno Espírito Santo,Erik ten Hag
+2023-2024_1717,2023-2024,20,Fulham FC,Arsenal FC,Marco Silva,Mikel Arteta
+2023-2024_1718,2023-2024,20,Tottenham Hotspur,AFC Bournemouth,Ange Postecoglou,Andoni Iraola
+2023-2024_1719,2023-2024,20,Liverpool FC,Newcastle United,Jürgen Klopp,Eddie Howe
+2023-2024_1720,2023-2024,20,West Ham United,Brighton & Hove Albion,David Moyes,Roberto De Zerbi
+2023-2024_1721,2023-2024,21,Burnley FC,Luton Town,Vincent Kompany,Rob Edwards
+2023-2024_1722,2023-2024,21,Chelsea FC,Fulham FC,Mauricio Pochettino,Marco Silva
+2023-2024_1723,2023-2024,21,Newcastle United,Manchester City,Eddie Howe,Pep Guardiola
+2023-2024_1724,2023-2024,21,Everton FC,Aston Villa,Sean Dyche,Unai Emery
+2023-2024_1725,2023-2024,21,Manchester United,Tottenham Hotspur,Erik ten Hag,Ange Postecoglou
+2023-2024_1726,2023-2024,21,Arsenal FC,Crystal Palace,Mikel Arteta,Roy Hodgson
+2023-2024_1727,2023-2024,21,Brentford FC,Nottingham Forest,Thomas Frank,Nuno Espírito Santo
+2023-2024_1728,2023-2024,21,Sheffield United,West Ham United,Chris Wilder,David Moyes
+2023-2024_1729,2023-2024,21,AFC Bournemouth,Liverpool FC,Andoni Iraola,Jürgen Klopp
+2023-2024_1730,2023-2024,21,Brighton & Hove Albion,Wolverhampton Wanderers,Roberto De Zerbi,Gary O'Neil
+2023-2024_1731,2023-2024,22,Nottingham Forest,Arsenal FC,Nuno Espírito Santo,Mikel Arteta
+2023-2024_1732,2023-2024,22,Luton Town,Brighton & Hove Albion,Rob Edwards,Roberto De Zerbi
+2023-2024_1733,2023-2024,22,Fulham FC,Everton FC,Marco Silva,Sean Dyche
+2023-2024_1734,2023-2024,22,Crystal Palace,Sheffield United,Roy Hodgson,Chris Wilder
+2023-2024_1735,2023-2024,22,Aston Villa,Newcastle United,Unai Emery,Eddie Howe
+2023-2024_1736,2023-2024,22,Manchester City,Burnley FC,Pep Guardiola,Vincent Kompany
+2023-2024_1737,2023-2024,22,Tottenham Hotspur,Brentford FC,Ange Postecoglou,Thomas Frank
+2023-2024_1738,2023-2024,22,Liverpool FC,Chelsea FC,Jürgen Klopp,Mauricio Pochettino
+2023-2024_1739,2023-2024,22,West Ham United,AFC Bournemouth,David Moyes,Andoni Iraola
+2023-2024_1740,2023-2024,22,Wolverhampton Wanderers,Manchester United,Gary O'Neil,Erik ten Hag
+2023-2024_1741,2023-2024,23,Everton FC,Tottenham Hotspur,Sean Dyche,Ange Postecoglou
+2023-2024_1742,2023-2024,23,Brighton & Hove Albion,Crystal Palace,Roberto De Zerbi,Roy Hodgson
+2023-2024_1743,2023-2024,23,Burnley FC,Fulham FC,Vincent Kompany,Marco Silva
+2023-2024_1744,2023-2024,23,Newcastle United,Luton Town,Eddie Howe,Rob Edwards
+2023-2024_1745,2023-2024,23,Sheffield United,Aston Villa,Chris Wilder,Unai Emery
+2023-2024_1746,2023-2024,23,AFC Bournemouth,Nottingham Forest,Andoni Iraola,Nuno Espírito Santo
+2023-2024_1747,2023-2024,23,Chelsea FC,Wolverhampton Wanderers,Mauricio Pochettino,Gary O'Neil
+2023-2024_1748,2023-2024,23,Manchester United,West Ham United,Erik ten Hag,David Moyes
+2023-2024_1749,2023-2024,23,Arsenal FC,Liverpool FC,Mikel Arteta,Jürgen Klopp
+2023-2024_1750,2023-2024,23,Brentford FC,Manchester City,Thomas Frank,Pep Guardiola
+2023-2024_1751,2023-2024,24,Manchester City,Everton FC,Pep Guardiola,Sean Dyche
+2023-2024_1752,2023-2024,24,Fulham FC,AFC Bournemouth,Marco Silva,Andoni Iraola
+2023-2024_1753,2023-2024,24,Liverpool FC,Burnley FC,Jürgen Klopp,Vincent Kompany
+2023-2024_1754,2023-2024,24,Luton Town,Sheffield United,Rob Edwards,Chris Wilder
+2023-2024_1755,2023-2024,24,Tottenham Hotspur,Brighton & Hove Albion,Ange Postecoglou,Roberto De Zerbi
+2023-2024_1756,2023-2024,24,Wolverhampton Wanderers,Brentford FC,Gary O'Neil,Thomas Frank
+2023-2024_1757,2023-2024,24,Nottingham Forest,Newcastle United,Nuno Espírito Santo,Eddie Howe
+2023-2024_1758,2023-2024,24,West Ham United,Arsenal FC,David Moyes,Mikel Arteta
+2023-2024_1759,2023-2024,24,Aston Villa,Manchester United,Unai Emery,Erik ten Hag
+2023-2024_1760,2023-2024,24,Crystal Palace,Chelsea FC,Roy Hodgson,Mauricio Pochettino
+2023-2024_1761,2023-2024,25,Brentford FC,Liverpool FC,Thomas Frank,Jürgen Klopp
+2023-2024_1762,2023-2024,25,Burnley FC,Arsenal FC,Vincent Kompany,Mikel Arteta
+2023-2024_1763,2023-2024,25,Fulham FC,Aston Villa,Marco Silva,Unai Emery
+2023-2024_1764,2023-2024,25,Newcastle United,AFC Bournemouth,Eddie Howe,Andoni Iraola
+2023-2024_1765,2023-2024,25,Nottingham Forest,West Ham United,Nuno Espírito Santo,David Moyes
+2023-2024_1766,2023-2024,25,Tottenham Hotspur,Wolverhampton Wanderers,Ange Postecoglou,Gary O'Neil
+2023-2024_1767,2023-2024,25,Manchester City,Chelsea FC,Pep Guardiola,Mauricio Pochettino
+2023-2024_1768,2023-2024,25,Sheffield United,Brighton & Hove Albion,Chris Wilder,Roberto De Zerbi
+2023-2024_1769,2023-2024,25,Luton Town,Manchester United,Rob Edwards,Erik ten Hag
+2023-2024_1770,2023-2024,25,Everton FC,Crystal Palace,Sean Dyche,Ray Lewington
+2023-2024_1771,2023-2024,26,Liverpool FC,Luton Town,Jürgen Klopp,Rob Edwards
+2023-2024_1772,2023-2024,26,Aston Villa,Nottingham Forest,Unai Emery,Nuno Espírito Santo
+2023-2024_1773,2023-2024,26,Brighton & Hove Albion,Everton FC,Roberto De Zerbi,Sean Dyche
+2023-2024_1774,2023-2024,26,Crystal Palace,Burnley FC,Oliver Glasner,Vincent Kompany
+2023-2024_1775,2023-2024,26,Manchester United,Fulham FC,Erik ten Hag,Marco Silva
+2023-2024_1776,2023-2024,26,AFC Bournemouth,Manchester City,Andoni Iraola,Pep Guardiola
+2023-2024_1777,2023-2024,26,Arsenal FC,Newcastle United,Mikel Arteta,Eddie Howe
+2023-2024_1778,2023-2024,26,Wolverhampton Wanderers,Sheffield United,Gary O'Neil,Chris Wilder
+2023-2024_1779,2023-2024,26,West Ham United,Brentford FC,David Moyes,Thomas Frank
+2023-2024_1780,2023-2024,26,Chelsea FC,Tottenham Hotspur,Mauricio Pochettino,Ange Postecoglou
+2023-2024_1781,2023-2024,27,Brentford FC,Chelsea FC,Thomas Frank,Mauricio Pochettino
+2023-2024_1782,2023-2024,27,Everton FC,West Ham United,Sean Dyche,David Moyes
+2023-2024_1783,2023-2024,27,Fulham FC,Brighton & Hove Albion,Marco Silva,Roberto De Zerbi
+2023-2024_1784,2023-2024,27,Newcastle United,Wolverhampton Wanderers,Eddie Howe,Gary O'Neil
+2023-2024_1785,2023-2024,27,Nottingham Forest,Liverpool FC,Nuno Espírito Santo,Jürgen Klopp
+2023-2024_1786,2023-2024,27,Tottenham Hotspur,Crystal Palace,Ange Postecoglou,Oliver Glasner
+2023-2024_1787,2023-2024,27,Luton Town,Aston Villa,Rob Edwards,Unai Emery
+2023-2024_1788,2023-2024,27,Burnley FC,AFC Bournemouth,Vincent Kompany,Andoni Iraola
+2023-2024_1789,2023-2024,27,Manchester City,Manchester United,Pep Guardiola,Erik ten Hag
+2023-2024_1790,2023-2024,27,Sheffield United,Arsenal FC,Chris Wilder,Mikel Arteta
+2023-2024_1791,2023-2024,28,Manchester United,Everton FC,Erik ten Hag,Sean Dyche
+2023-2024_1792,2023-2024,28,AFC Bournemouth,Sheffield United,Andoni Iraola,Chris Wilder
+2023-2024_1793,2023-2024,28,Crystal Palace,Luton Town,Oliver Glasner,Rob Edwards
+2023-2024_1794,2023-2024,28,Wolverhampton Wanderers,Fulham FC,Gary O'Neil,Marco Silva
+2023-2024_1795,2023-2024,28,Arsenal FC,Brentford FC,Mikel Arteta,Thomas Frank
+2023-2024_1796,2023-2024,28,Aston Villa,Tottenham Hotspur,Unai Emery,Ange Postecoglou
+2023-2024_1797,2023-2024,28,Brighton & Hove Albion,Nottingham Forest,Roberto De Zerbi,Nuno Espírito Santo
+2023-2024_1798,2023-2024,28,West Ham United,Burnley FC,David Moyes,Vincent Kompany
+2023-2024_1799,2023-2024,28,Liverpool FC,Manchester City,Jürgen Klopp,Pep Guardiola
+2023-2024_1800,2023-2024,28,Chelsea FC,Newcastle United,Mauricio Pochettino,Eddie Howe
+2023-2024_1801,2023-2024,29,Burnley FC,Brentford FC,Vincent Kompany,Thomas Frank
+2023-2024_1802,2023-2024,29,Luton Town,Nottingham Forest,Rob Edwards,Nuno Espírito Santo
+2023-2024_1803,2023-2024,29,Fulham FC,Tottenham Hotspur,Marco Silva,Ange Postecoglou
+2023-2024_1804,2023-2024,29,West Ham United,Aston Villa,David Moyes,Unai Emery
+2023-2024_1805,2023-2024,29,Arsenal FC,Chelsea FC,Mikel Arteta,Mauricio Pochettino
+2023-2024_1806,2023-2024,29,Wolverhampton Wanderers,AFC Bournemouth,Gary O'Neil,Andoni Iraola
+2023-2024_1807,2023-2024,29,Crystal Palace,Newcastle United,Oliver Glasner,Eddie Howe
+2023-2024_1808,2023-2024,29,Everton FC,Liverpool FC,Sean Dyche,Jürgen Klopp
+2023-2024_1809,2023-2024,29,Manchester United,Sheffield United,Erik ten Hag,Chris Wilder
+2023-2024_1810,2023-2024,29,Brighton & Hove Albion,Manchester City,Roberto De Zerbi,Pep Guardiola
+2023-2024_1811,2023-2024,30,Newcastle United,West Ham United,Eddie Howe,David Moyes
+2023-2024_1812,2023-2024,30,AFC Bournemouth,Everton FC,Andoni Iraola,Sean Dyche
+2023-2024_1813,2023-2024,30,Chelsea FC,Burnley FC,Mauricio Pochettino,Vincent Kompany
+2023-2024_1814,2023-2024,30,Nottingham Forest,Crystal Palace,Nuno Espírito Santo,Oliver Glasner
+2023-2024_1815,2023-2024,30,Sheffield United,Fulham FC,Chris Wilder,Marco Silva
+2023-2024_1816,2023-2024,30,Tottenham Hotspur,Luton Town,Ange Postecoglou,Rob Edwards
+2023-2024_1817,2023-2024,30,Aston Villa,Wolverhampton Wanderers,Unai Emery,Gary O'Neil
+2023-2024_1818,2023-2024,30,Brentford FC,Manchester United,Thomas Frank,Erik ten Hag
+2023-2024_1819,2023-2024,30,Liverpool FC,Brighton & Hove Albion,Jürgen Klopp,Roberto De Zerbi
+2023-2024_1820,2023-2024,30,Manchester City,Arsenal FC,Pep Guardiola,Mikel Arteta
+2023-2024_1821,2023-2024,31,Nottingham Forest,Fulham FC,Nuno Espírito Santo,Marco Silva
+2023-2024_1822,2023-2024,31,Newcastle United,Everton FC,Eddie Howe,Sean Dyche
+2023-2024_1823,2023-2024,31,AFC Bournemouth,Crystal Palace,Andoni Iraola,Oliver Glasner
+2023-2024_1824,2023-2024,31,Burnley FC,Wolverhampton Wanderers,Vincent Kompany,Gary O'Neil
+2023-2024_1825,2023-2024,31,West Ham United,Tottenham Hotspur,David Moyes,Ange Postecoglou
+2023-2024_1826,2023-2024,31,Arsenal FC,Luton Town,Mikel Arteta,Rob Edwards
+2023-2024_1827,2023-2024,31,Brentford FC,Brighton & Hove Albion,Thomas Frank,Roberto De Zerbi
+2023-2024_1828,2023-2024,31,Manchester City,Aston Villa,Pep Guardiola,Unai Emery
+2023-2024_1829,2023-2024,31,Liverpool FC,Sheffield United,Jürgen Klopp,Chris Wilder
+2023-2024_1830,2023-2024,31,Chelsea FC,Manchester United,Mauricio Pochettino,Erik ten Hag
+2023-2024_1831,2023-2024,32,Crystal Palace,Manchester City,Oliver Glasner,Pep Guardiola
+2023-2024_1832,2023-2024,32,Aston Villa,Brentford FC,Unai Emery,Thomas Frank
+2023-2024_1833,2023-2024,32,Everton FC,Burnley FC,Sean Dyche,Vincent Kompany
+2023-2024_1834,2023-2024,32,Fulham FC,Newcastle United,Marco Silva,Eddie Howe
+2023-2024_1835,2023-2024,32,Luton Town,AFC Bournemouth,Rob Edwards,Andoni Iraola
+2023-2024_1836,2023-2024,32,Wolverhampton Wanderers,West Ham United,Gary O'Neil,David Moyes
+2023-2024_1837,2023-2024,32,Brighton & Hove Albion,Arsenal FC,Roberto De Zerbi,Mikel Arteta
+2023-2024_1838,2023-2024,32,Manchester United,Liverpool FC,Erik ten Hag,Jürgen Klopp
+2023-2024_1839,2023-2024,32,Sheffield United,Chelsea FC,Chris Wilder,Mauricio Pochettino
+2023-2024_1840,2023-2024,32,Tottenham Hotspur,Nottingham Forest,Ange Postecoglou,Nuno Espírito Santo
+2023-2024_1841,2023-2024,33,Newcastle United,Tottenham Hotspur,Eddie Howe,Ange Postecoglou
+2023-2024_1842,2023-2024,33,Brentford FC,Sheffield United,Thomas Frank,Chris Wilder
+2023-2024_1843,2023-2024,33,Burnley FC,Brighton & Hove Albion,Vincent Kompany,Roberto De Zerbi
+2023-2024_1844,2023-2024,33,Manchester City,Luton Town,Pep Guardiola,Rob Edwards
+2023-2024_1845,2023-2024,33,Nottingham Forest,Wolverhampton Wanderers,Nuno Espírito Santo,Gary O'Neil
+2023-2024_1846,2023-2024,33,AFC Bournemouth,Manchester United,Andoni Iraola,Erik ten Hag
+2023-2024_1847,2023-2024,33,Liverpool FC,Crystal Palace,Jürgen Klopp,Oliver Glasner
+2023-2024_1848,2023-2024,33,West Ham United,Fulham FC,David Moyes,Marco Silva
+2023-2024_1849,2023-2024,33,Arsenal FC,Aston Villa,Mikel Arteta,Unai Emery
+2023-2024_1850,2023-2024,33,Chelsea FC,Everton FC,Mauricio Pochettino,Sean Dyche
+2023-2024_1851,2023-2024,34,Luton Town,Brentford FC,Rob Edwards,Thomas Frank
+2023-2024_1852,2023-2024,34,Sheffield United,Burnley FC,Chris Wilder,Vincent Kompany
+2023-2024_1853,2023-2024,34,Wolverhampton Wanderers,Arsenal FC,Gary O'Neil,Mikel Arteta
+2023-2024_1854,2023-2024,34,Everton FC,Nottingham Forest,Sean Dyche,Nuno Espírito Santo
+2023-2024_1855,2023-2024,34,Aston Villa,AFC Bournemouth,Unai Emery,Andoni Iraola
+2023-2024_1856,2023-2024,34,Crystal Palace,West Ham United,Oliver Glasner,David Moyes
+2023-2024_1857,2023-2024,34,Fulham FC,Liverpool FC,Marco Silva,Jürgen Klopp
+2023-2024_1858,2023-2024,34,Tottenham Hotspur,Manchester City,Ange Postecoglou,Pep Guardiola
+2023-2024_1859,2023-2024,34,Brighton & Hove Albion,Chelsea FC,Roberto De Zerbi,Mauricio Pochettino
+2023-2024_1860,2023-2024,34,Manchester United,Newcastle United,Erik ten Hag,Eddie Howe
+2023-2024_1861,2023-2024,35,West Ham United,Liverpool FC,David Moyes,Jürgen Klopp
+2023-2024_1862,2023-2024,35,Fulham FC,Crystal Palace,Marco Silva,Oliver Glasner
+2023-2024_1863,2023-2024,35,Manchester United,Burnley FC,Erik ten Hag,Vincent Kompany
+2023-2024_1864,2023-2024,35,Newcastle United,Sheffield United,Eddie Howe,Chris Wilder
+2023-2024_1865,2023-2024,35,Wolverhampton Wanderers,Luton Town,Gary O'Neil,Rob Edwards
+2023-2024_1866,2023-2024,35,Everton FC,Brentford FC,Sean Dyche,Thomas Frank
+2023-2024_1867,2023-2024,35,Aston Villa,Chelsea FC,Unai Emery,Mauricio Pochettino
+2023-2024_1868,2023-2024,35,AFC Bournemouth,Brighton & Hove Albion,Andoni Iraola,Roberto De Zerbi
+2023-2024_1869,2023-2024,35,Tottenham Hotspur,Arsenal FC,Ange Postecoglou,Mikel Arteta
+2023-2024_1870,2023-2024,35,Nottingham Forest,Manchester City,Nuno Espírito Santo,Pep Guardiola
+2023-2024_1871,2023-2024,36,Luton Town,Everton FC,Rob Edwards,Sean Dyche
+2023-2024_1872,2023-2024,36,Arsenal FC,AFC Bournemouth,Mikel Arteta,Andoni Iraola
+2023-2024_1873,2023-2024,36,Brentford FC,Fulham FC,Thomas Frank,Marco Silva
+2023-2024_1874,2023-2024,36,Burnley FC,Newcastle United,Vincent Kompany,Eddie Howe
+2023-2024_1875,2023-2024,36,Sheffield United,Nottingham Forest,Chris Wilder,Nuno Espírito Santo
+2023-2024_1876,2023-2024,36,Manchester City,Wolverhampton Wanderers,Pep Guardiola,Gary O'Neil
+2023-2024_1877,2023-2024,36,Brighton & Hove Albion,Aston Villa,Roberto De Zerbi,Unai Emery
+2023-2024_1878,2023-2024,36,Chelsea FC,West Ham United,Mauricio Pochettino,David Moyes
+2023-2024_1879,2023-2024,36,Liverpool FC,Tottenham Hotspur,Jürgen Klopp,Ange Postecoglou
+2023-2024_1880,2023-2024,36,Crystal Palace,Manchester United,Oliver Glasner,Erik ten Hag
+2023-2024_1881,2023-2024,37,Fulham FC,Manchester City,Marco Silva,Pep Guardiola
+2023-2024_1882,2023-2024,37,AFC Bournemouth,Brentford FC,Andoni Iraola,Thomas Frank
+2023-2024_1883,2023-2024,37,Everton FC,Sheffield United,Sean Dyche,Chris Wilder
+2023-2024_1884,2023-2024,37,Newcastle United,Brighton & Hove Albion,Eddie Howe,Roberto De Zerbi
+2023-2024_1885,2023-2024,37,Tottenham Hotspur,Burnley FC,Ange Postecoglou,Vincent Kompany
+2023-2024_1886,2023-2024,37,West Ham United,Luton Town,David Moyes,Rob Edwards
+2023-2024_1887,2023-2024,37,Wolverhampton Wanderers,Crystal Palace,Gary O'Neil,Oliver Glasner
+2023-2024_1888,2023-2024,37,Nottingham Forest,Chelsea FC,Nuno Espírito Santo,Mauricio Pochettino
+2023-2024_1889,2023-2024,37,Manchester United,Arsenal FC,Erik ten Hag,Mikel Arteta
+2023-2024_1890,2023-2024,37,Aston Villa,Liverpool FC,Unai Emery,Jürgen Klopp
+2023-2024_1891,2023-2024,38,Arsenal FC,Everton FC,Mikel Arteta,Sean Dyche
+2023-2024_1892,2023-2024,38,Brentford FC,Newcastle United,Thomas Frank,Eddie Howe
+2023-2024_1893,2023-2024,38,Brighton & Hove Albion,Manchester United,Roberto De Zerbi,Erik ten Hag
+2023-2024_1894,2023-2024,38,Burnley FC,Nottingham Forest,Vincent Kompany,Nuno Espírito Santo
+2023-2024_1895,2023-2024,38,Chelsea FC,AFC Bournemouth,Mauricio Pochettino,Andoni Iraola
+2023-2024_1896,2023-2024,38,Crystal Palace,Aston Villa,Oliver Glasner,Unai Emery
+2023-2024_1897,2023-2024,38,Liverpool FC,Wolverhampton Wanderers,Jürgen Klopp,Gary O'Neil
+2023-2024_1898,2023-2024,38,Luton Town,Fulham FC,Rob Edwards,Marco Silva
+2023-2024_1899,2023-2024,38,Manchester City,West Ham United,Pep Guardiola,David Moyes
+2023-2024_1900,2023-2024,38,Sheffield United,Tottenham Hotspur,Chris Wilder,Ange Postecoglou
+2024-2025_1901,2024-2025,1,Manchester United,Fulham FC,Erik ten Hag,Marco Silva
+2024-2025_1902,2024-2025,1,Ipswich Town,Liverpool FC,Kieran McKenna,Arne Slot
+2024-2025_1903,2024-2025,1,Arsenal FC,Wolverhampton Wanderers,Mikel Arteta,Gary O'Neil
+2024-2025_1904,2024-2025,1,Everton FC,Brighton & Hove Albion,Sean Dyche,Fabian Hürzeler
+2024-2025_1905,2024-2025,1,Newcastle United,Southampton FC,Eddie Howe,Russell Martin
+2024-2025_1906,2024-2025,1,Nottingham Forest,AFC Bournemouth,Nuno Espírito Santo,Andoni Iraola
+2024-2025_1907,2024-2025,1,West Ham United,Aston Villa,Julen Lopetegui,Unai Emery
+2024-2025_1908,2024-2025,1,Brentford FC,Crystal Palace,Thomas Frank,Oliver Glasner
+2024-2025_1909,2024-2025,1,Chelsea FC,Manchester City,Enzo Maresca,Pep Guardiola
+2024-2025_1910,2024-2025,1,Leicester City,Tottenham Hotspur,Steve Cooper,Ange Postecoglou
+2024-2025_1911,2024-2025,2,Brighton & Hove Albion,Manchester United,Fabian Hürzeler,Erik ten Hag
+2024-2025_1912,2024-2025,2,Crystal Palace,West Ham United,Oliver Glasner,Julen Lopetegui
+2024-2025_1913,2024-2025,2,Fulham FC,Leicester City,Marco Silva,Steve Cooper
+2024-2025_1914,2024-2025,2,Manchester City,Ipswich Town,Pep Guardiola,Kieran McKenna
+2024-2025_1915,2024-2025,2,Southampton FC,Nottingham Forest,Russell Martin,Nuno Espírito Santo
+2024-2025_1916,2024-2025,2,Tottenham Hotspur,Everton FC,Ange Postecoglou,Sean Dyche
+2024-2025_1917,2024-2025,2,Aston Villa,Arsenal FC,Unai Emery,Mikel Arteta
+2024-2025_1918,2024-2025,2,AFC Bournemouth,Newcastle United,Andoni Iraola,Eddie Howe
+2024-2025_1919,2024-2025,2,Wolverhampton Wanderers,Chelsea FC,Gary O'Neil,Enzo Maresca
+2024-2025_1920,2024-2025,2,Liverpool FC,Brentford FC,Arne Slot,Thomas Frank
+2024-2025_1921,2024-2025,3,Arsenal FC,Brighton & Hove Albion,Mikel Arteta,Fabian Hürzeler
+2024-2025_1922,2024-2025,3,Brentford FC,Southampton FC,Thomas Frank,Russell Martin
+2024-2025_1923,2024-2025,3,Everton FC,AFC Bournemouth,Sean Dyche,Andoni Iraola
+2024-2025_1924,2024-2025,3,Ipswich Town,Fulham FC,Kieran McKenna,Marco Silva
+2024-2025_1925,2024-2025,3,Leicester City,Aston Villa,Steve Cooper,Unai Emery
+2024-2025_1926,2024-2025,3,Nottingham Forest,Wolverhampton Wanderers,Nuno Espírito Santo,Gary O'Neil
+2024-2025_1927,2024-2025,3,West Ham United,Manchester City,Julen Lopetegui,Pep Guardiola
+2024-2025_1928,2024-2025,3,Chelsea FC,Crystal Palace,Enzo Maresca,Oliver Glasner
+2024-2025_1929,2024-2025,3,Newcastle United,Tottenham Hotspur,Eddie Howe,Ange Postecoglou
+2024-2025_1930,2024-2025,3,Manchester United,Liverpool FC,Erik ten Hag,Arne Slot
+2024-2025_1931,2024-2025,4,Southampton FC,Manchester United,Russell Martin,Erik ten Hag
+2024-2025_1932,2024-2025,4,Brighton & Hove Albion,Ipswich Town,Fabian Hürzeler,Kieran McKenna
+2024-2025_1933,2024-2025,4,Crystal Palace,Leicester City,Oliver Glasner,Steve Cooper
+2024-2025_1934,2024-2025,4,Fulham FC,West Ham United,Marco Silva,Julen Lopetegui
+2024-2025_1935,2024-2025,4,Liverpool FC,Nottingham Forest,Arne Slot,Nuno Espírito Santo
+2024-2025_1936,2024-2025,4,Manchester City,Brentford FC,Pep Guardiola,Thomas Frank
+2024-2025_1937,2024-2025,4,Aston Villa,Everton FC,Unai Emery,Sean Dyche
+2024-2025_1938,2024-2025,4,AFC Bournemouth,Chelsea FC,Andoni Iraola,Enzo Maresca
+2024-2025_1939,2024-2025,4,Tottenham Hotspur,Arsenal FC,Ange Postecoglou,Mikel Arteta
+2024-2025_1940,2024-2025,4,Wolverhampton Wanderers,Newcastle United,Gary O'Neil,Eddie Howe
+2024-2025_1941,2024-2025,5,West Ham United,Chelsea FC,Julen Lopetegui,Enzo Maresca
+2024-2025_1942,2024-2025,5,Aston Villa,Wolverhampton Wanderers,Unai Emery,Gary O'Neil
+2024-2025_1943,2024-2025,5,Fulham FC,Newcastle United,Marco Silva,Eddie Howe
+2024-2025_1944,2024-2025,5,Leicester City,Everton FC,Steve Cooper,Sean Dyche
+2024-2025_1945,2024-2025,5,Liverpool FC,AFC Bournemouth,Arne Slot,Andoni Iraola
+2024-2025_1946,2024-2025,5,Southampton FC,Ipswich Town,Russell Martin,Kieran McKenna
+2024-2025_1947,2024-2025,5,Tottenham Hotspur,Brentford FC,Ange Postecoglou,Thomas Frank
+2024-2025_1948,2024-2025,5,Crystal Palace,Manchester United,Oliver Glasner,Erik ten Hag
+2024-2025_1949,2024-2025,5,Brighton & Hove Albion,Nottingham Forest,Fabian Hürzeler,Nuno Espírito Santo
+2024-2025_1950,2024-2025,5,Manchester City,Arsenal FC,Pep Guardiola,Mikel Arteta
+2024-2025_1951,2024-2025,6,Newcastle United,Manchester City,Eddie Howe,Pep Guardiola
+2024-2025_1952,2024-2025,6,Arsenal FC,Leicester City,Mikel Arteta,Steve Cooper
+2024-2025_1953,2024-2025,6,Brentford FC,West Ham United,Thomas Frank,Julen Lopetegui
+2024-2025_1954,2024-2025,6,Chelsea FC,Brighton & Hove Albion,Enzo Maresca,Fabian Hürzeler
+2024-2025_1955,2024-2025,6,Everton FC,Crystal Palace,Sean Dyche,Oliver Glasner
+2024-2025_1956,2024-2025,6,Nottingham Forest,Fulham FC,Nuno Espírito Santo,Marco Silva
+2024-2025_1957,2024-2025,6,Wolverhampton Wanderers,Liverpool FC,Gary O'Neil,Arne Slot
+2024-2025_1958,2024-2025,6,Ipswich Town,Aston Villa,Kieran McKenna,Unai Emery
+2024-2025_1959,2024-2025,6,Manchester United,Tottenham Hotspur,Erik ten Hag,Ange Postecoglou
+2024-2025_1960,2024-2025,6,AFC Bournemouth,Southampton FC,Andoni Iraola,Russell Martin
+2024-2025_1961,2024-2025,7,Crystal Palace,Liverpool FC,Oliver Glasner,Arne Slot
+2024-2025_1962,2024-2025,7,Arsenal FC,Southampton FC,Mikel Arteta,Russell Martin
+2024-2025_1963,2024-2025,7,Brentford FC,Wolverhampton Wanderers,Thomas Frank,Gary O'Neil
+2024-2025_1964,2024-2025,7,Leicester City,AFC Bournemouth,Steve Cooper,Andoni Iraola
+2024-2025_1965,2024-2025,7,Manchester City,Fulham FC,Pep Guardiola,Marco Silva
+2024-2025_1966,2024-2025,7,West Ham United,Ipswich Town,Julen Lopetegui,Kieran McKenna
+2024-2025_1967,2024-2025,7,Everton FC,Newcastle United,Sean Dyche,Eddie Howe
+2024-2025_1968,2024-2025,7,Aston Villa,Manchester United,Unai Emery,Erik ten Hag
+2024-2025_1969,2024-2025,7,Chelsea FC,Nottingham Forest,Enzo Maresca,Nuno Espírito Santo
+2024-2025_1970,2024-2025,7,Brighton & Hove Albion,Tottenham Hotspur,Fabian Hürzeler,Ange Postecoglou
+2024-2025_1971,2024-2025,8,Tottenham Hotspur,West Ham United,Ange Postecoglou,Julen Lopetegui
+2024-2025_1972,2024-2025,8,Fulham FC,Aston Villa,Marco Silva,Unai Emery
+2024-2025_1973,2024-2025,8,Ipswich Town,Everton FC,Kieran McKenna,Sean Dyche
+2024-2025_1974,2024-2025,8,Manchester United,Brentford FC,Erik ten Hag,Thomas Frank
+2024-2025_1975,2024-2025,8,Newcastle United,Brighton & Hove Albion,Eddie Howe,Fabian Hürzeler
+2024-2025_1976,2024-2025,8,Southampton FC,Leicester City,Russell Martin,Steve Cooper
+2024-2025_1977,2024-2025,8,AFC Bournemouth,Arsenal FC,Andoni Iraola,Mikel Arteta
+2024-2025_1978,2024-2025,8,Wolverhampton Wanderers,Manchester City,Gary O'Neil,Pep Guardiola
+2024-2025_1979,2024-2025,8,Liverpool FC,Chelsea FC,Arne Slot,Enzo Maresca
+2024-2025_1980,2024-2025,8,Nottingham Forest,Crystal Palace,Nuno Espírito Santo,Oliver Glasner
+2024-2025_1981,2024-2025,9,Leicester City,Nottingham Forest,Steve Cooper,Nuno Espírito Santo
+2024-2025_1982,2024-2025,9,Aston Villa,AFC Bournemouth,Unai Emery,Andoni Iraola
+2024-2025_1983,2024-2025,9,Brentford FC,Ipswich Town,Thomas Frank,Kieran McKenna
+2024-2025_1984,2024-2025,9,Brighton & Hove Albion,Wolverhampton Wanderers,Fabian Hürzeler,Gary O'Neil
+2024-2025_1985,2024-2025,9,Manchester City,Southampton FC,Pep Guardiola,Russell Martin
+2024-2025_1986,2024-2025,9,Everton FC,Fulham FC,Sean Dyche,Marco Silva
+2024-2025_1987,2024-2025,9,Chelsea FC,Newcastle United,Enzo Maresca,Eddie Howe
+2024-2025_1988,2024-2025,9,Crystal Palace,Tottenham Hotspur,Oliver Glasner,Ange Postecoglou
+2024-2025_1989,2024-2025,9,West Ham United,Manchester United,Julen Lopetegui,Erik ten Hag
+2024-2025_1990,2024-2025,9,Arsenal FC,Liverpool FC,Mikel Arteta,Arne Slot
+2024-2025_1991,2024-2025,10,Newcastle United,Arsenal FC,Eddie Howe,Mikel Arteta
+2024-2025_1992,2024-2025,10,AFC Bournemouth,Manchester City,Andoni Iraola,Pep Guardiola
+2024-2025_1993,2024-2025,10,Ipswich Town,Leicester City,Kieran McKenna,Steve Cooper
+2024-2025_1994,2024-2025,10,Liverpool FC,Brighton & Hove Albion,Arne Slot,Fabian Hürzeler
+2024-2025_1995,2024-2025,10,Nottingham Forest,West Ham United,Nuno Espírito Santo,Julen Lopetegui
+2024-2025_1996,2024-2025,10,Southampton FC,Everton FC,Russell Martin,Sean Dyche
+2024-2025_1997,2024-2025,10,Wolverhampton Wanderers,Crystal Palace,Gary O'Neil,Oliver Glasner
+2024-2025_1998,2024-2025,10,Tottenham Hotspur,Aston Villa,Ange Postecoglou,Unai Emery
+2024-2025_1999,2024-2025,10,Manchester United,Chelsea FC,Ruud van Nistelrooy,Enzo Maresca
+2024-2025_2000,2024-2025,10,Fulham FC,Brentford FC,Marco Silva,Thomas Frank
+2024-2025_2001,2024-2025,11,Brentford FC,AFC Bournemouth,Thomas Frank,Andoni Iraola
+2024-2025_2002,2024-2025,11,Crystal Palace,Fulham FC,Oliver Glasner,Marco Silva
+2024-2025_2003,2024-2025,11,West Ham United,Everton FC,Julen Lopetegui,Sean Dyche
+2024-2025_2004,2024-2025,11,Wolverhampton Wanderers,Southampton FC,Gary O'Neil,Russell Martin
+2024-2025_2005,2024-2025,11,Brighton & Hove Albion,Manchester City,Fabian Hürzeler,Pep Guardiola
+2024-2025_2006,2024-2025,11,Liverpool FC,Aston Villa,Arne Slot,Unai Emery
+2024-2025_2007,2024-2025,11,Manchester United,Leicester City,Ruud van Nistelrooy,Steve Cooper
+2024-2025_2008,2024-2025,11,Nottingham Forest,Newcastle United,Nuno Espírito Santo,Eddie Howe
+2024-2025_2009,2024-2025,11,Tottenham Hotspur,Ipswich Town,Ange Postecoglou,Kieran McKenna
+2024-2025_2010,2024-2025,11,Chelsea FC,Arsenal FC,Enzo Maresca,Mikel Arteta
