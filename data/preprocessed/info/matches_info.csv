@@ -1,0 +1,1631 @@
+Match ID,Season,Round,Home Team,Away Team,Home Coach,Away Coach
+2020-2021_381,2020-2021,1,FUL,ARS,scott parker,mikel arteta
+2020-2021_382,2020-2021,1,CRY,SOU,roy hodgson,ralph hasenhuttl
+2020-2021_383,2020-2021,1,LIV,LEE,jurgen klopp,marcelo bielsa
+2020-2021_384,2020-2021,1,WHU,NEW,david moyes,steve bruce
+2020-2021_385,2020-2021,1,WBA,LEI,slaven bilic,brendan rodgers
+2020-2021_386,2020-2021,1,TOT,EVE,jose mourinho,carlo ancelotti
+2020-2021_387,2020-2021,1,SHU,WOL,chris wilder,nuno espirito santo
+2020-2021_388,2020-2021,1,BHA,CHE,graham potter,frank lampard
+2020-2021_389,2020-2021,1,BUR,MUN,sean dyche,ole gunnar solskjaer
+2020-2021_390,2020-2021,1,MCI,AVL,pep guardiola,dean smith
+2020-2021_391,2020-2021,2,EVE,WBA,carlo ancelotti,slaven bilic
+2020-2021_392,2020-2021,2,LEE,FUL,marcelo bielsa,scott parker
+2020-2021_393,2020-2021,2,MUN,CRY,ole gunnar solskjaer,roy hodgson
+2020-2021_394,2020-2021,2,ARS,WHU,mikel arteta,david moyes
+2020-2021_395,2020-2021,2,SOU,TOT,ralph hasenhuttl,jose mourinho
+2020-2021_396,2020-2021,2,NEW,BHA,steve bruce,graham potter
+2020-2021_397,2020-2021,2,CHE,LIV,frank lampard,jurgen klopp
+2020-2021_398,2020-2021,2,LEI,BUR,brendan rodgers,sean dyche
+2020-2021_399,2020-2021,2,AVL,SHU,dean smith,chris wilder
+2020-2021_400,2020-2021,2,WOL,MCI,nuno espirito santo,pep guardiola
+2020-2021_401,2020-2021,3,BHA,MUN,graham potter,ole gunnar solskjaer
+2020-2021_402,2020-2021,3,CRY,EVE,roy hodgson,carlo ancelotti
+2020-2021_403,2020-2021,3,WBA,CHE,slaven bilic,frank lampard
+2020-2021_404,2020-2021,3,BUR,SOU,sean dyche,ralph hasenhuttl
+2020-2021_405,2020-2021,3,SHU,LEE,chris wilder,marcelo bielsa
+2020-2021_406,2020-2021,3,TOT,NEW,jose mourinho,steve bruce
+2020-2021_407,2020-2021,3,MCI,LEI,pep guardiola,brendan rodgers
+2020-2021_408,2020-2021,3,WHU,WOL,david moyes,nuno espirito santo
+2020-2021_409,2020-2021,3,FUL,AVL,scott parker,dean smith
+2020-2021_410,2020-2021,3,LIV,ARS,jurgen klopp,mikel arteta
+2020-2021_411,2020-2021,4,CHE,CRY,frank lampard,roy hodgson
+2020-2021_412,2020-2021,4,EVE,BHA,carlo ancelotti,graham potter
+2020-2021_413,2020-2021,4,LEE,MCI,marcelo bielsa,pep guardiola
+2020-2021_414,2020-2021,4,NEW,BUR,steve bruce,sean dyche
+2020-2021_415,2020-2021,4,LEI,WHU,brendan rodgers,david moyes
+2020-2021_416,2020-2021,4,SOU,WBA,ralph hasenhuttl,slaven bilic
+2020-2021_417,2020-2021,4,ARS,SHU,mikel arteta,chris wilder
+2020-2021_418,2020-2021,4,WOL,FUL,nuno espirito santo,scott parker
+2020-2021_419,2020-2021,4,MUN,TOT,ole gunnar solskjaer,jose mourinho
+2020-2021_420,2020-2021,4,AVL,LIV,dean smith,jurgen klopp
+2020-2021_421,2020-2021,5,EVE,LIV,carlo ancelotti,jurgen klopp
+2020-2021_422,2020-2021,5,CHE,SOU,frank lampard,ralph hasenhuttl
+2020-2021_423,2020-2021,5,MCI,ARS,pep guardiola,mikel arteta
+2020-2021_424,2020-2021,5,NEW,MUN,steve bruce,ole gunnar solskjaer
+2020-2021_425,2020-2021,5,SHU,FUL,chris wilder,scott parker
+2020-2021_426,2020-2021,5,CRY,BHA,roy hodgson,graham potter
+2020-2021_427,2020-2021,5,TOT,WHU,jose mourinho,david moyes
+2020-2021_428,2020-2021,5,LEI,AVL,brendan rodgers,dean smith
+2020-2021_429,2020-2021,5,WBA,BUR,slaven bilic,sean dyche
+2020-2021_430,2020-2021,5,LEE,WOL,marcelo bielsa,nuno espirito santo
+2020-2021_431,2020-2021,6,AVL,LEE,dean smith,marcelo bielsa
+2020-2021_432,2020-2021,6,WHU,MCI,david moyes,pep guardiola
+2020-2021_433,2020-2021,6,FUL,CRY,scott parker,roy hodgson
+2020-2021_434,2020-2021,6,MUN,CHE,ole gunnar solskjaer,frank lampard
+2020-2021_435,2020-2021,6,LIV,SHU,jurgen klopp,chris wilder
+2020-2021_436,2020-2021,6,SOU,EVE,ralph hasenhuttl,carlo ancelotti
+2020-2021_437,2020-2021,6,WOL,NEW,nuno espirito santo,steve bruce
+2020-2021_438,2020-2021,6,ARS,LEI,mikel arteta,brendan rodgers
+2020-2021_439,2020-2021,6,BHA,WBA,graham potter,slaven bilic
+2020-2021_440,2020-2021,6,BUR,TOT,sean dyche,jose mourinho
+2020-2021_441,2020-2021,7,WOL,CRY,nuno espirito santo,roy hodgson
+2020-2021_442,2020-2021,7,SHU,MCI,chris wilder,pep guardiola
+2020-2021_443,2020-2021,7,BUR,CHE,sean dyche,frank lampard
+2020-2021_444,2020-2021,7,LIV,WHU,jurgen klopp,david moyes
+2020-2021_445,2020-2021,7,AVL,SOU,dean smith,ralph hasenhuttl
+2020-2021_446,2020-2021,7,NEW,EVE,steve bruce,carlo ancelotti
+2020-2021_447,2020-2021,7,MUN,ARS,ole gunnar solskjaer,mikel arteta
+2020-2021_448,2020-2021,7,TOT,BHA,jose mourinho,graham potter
+2020-2021_449,2020-2021,7,FUL,WBA,scott parker,slaven bilic
+2020-2021_450,2020-2021,7,LEE,LEI,marcelo bielsa,brendan rodgers
+2020-2021_451,2020-2021,8,BHA,BUR,graham potter,sean dyche
+2020-2021_452,2020-2021,8,SOU,NEW,ralph hasenhuttl,steve bruce
+2020-2021_453,2020-2021,8,EVE,MUN,carlo ancelotti,ole gunnar solskjaer
+2020-2021_454,2020-2021,8,CRY,LEE,roy hodgson,marcelo bielsa
+2020-2021_455,2020-2021,8,CHE,SHU,frank lampard,chris wilder
+2020-2021_456,2020-2021,8,WHU,FUL,david moyes,scott parker
+2020-2021_457,2020-2021,8,WBA,TOT,slaven bilic,jose mourinho
+2020-2021_458,2020-2021,8,LEI,WOL,brendan rodgers,nuno espirito santo
+2020-2021_459,2020-2021,8,MCI,LIV,pep guardiola,jurgen klopp
+2020-2021_460,2020-2021,8,ARS,AVL,mikel arteta,dean smith
+2020-2021_461,2020-2021,9,NEW,CHE,steve bruce,frank lampard
+2020-2021_462,2020-2021,9,AVL,BHA,dean smith,graham potter
+2020-2021_463,2020-2021,9,TOT,MCI,jose mourinho,pep guardiola
+2020-2021_464,2020-2021,9,MUN,WBA,ole gunnar solskjaer,slaven bilic
+2020-2021_465,2020-2021,9,FUL,EVE,scott parker,carlo ancelotti
+2020-2021_466,2020-2021,9,SHU,WHU,chris wilder,david moyes
+2020-2021_467,2020-2021,9,LEE,ARS,marcelo bielsa,mikel arteta
+2020-2021_468,2020-2021,9,LIV,LEI,jurgen klopp,brendan rodgers
+2020-2021_469,2020-2021,9,BUR,CRY,sean dyche,roy hodgson
+2020-2021_470,2020-2021,9,WOL,SOU,nuno espirito santo,ralph hasenhuttl
+2020-2021_471,2020-2021,10,CRY,NEW,roy hodgson,steve bruce
+2020-2021_472,2020-2021,10,BHA,LIV,graham potter,jurgen klopp
+2020-2021_473,2020-2021,10,MCI,BUR,pep guardiola,sean dyche
+2020-2021_474,2020-2021,10,EVE,LEE,carlo ancelotti,marcelo bielsa
+2020-2021_475,2020-2021,10,WBA,SHU,slaven bilic,chris wilder
+2020-2021_476,2020-2021,10,SOU,MUN,ralph hasenhuttl,ole gunnar solskjaer
+2020-2021_477,2020-2021,10,CHE,TOT,frank lampard,jose mourinho
+2020-2021_478,2020-2021,10,ARS,WOL,mikel arteta,nuno espirito santo
+2020-2021_479,2020-2021,10,LEI,FUL,brendan rodgers,scott parker
+2020-2021_480,2020-2021,10,WHU,AVL,david moyes,dean smith
+2020-2021_481,2020-2021,11,BUR,EVE,sean dyche,carlo ancelotti
+2020-2021_482,2020-2021,11,MCI,FUL,pep guardiola,scott parker
+2020-2021_483,2020-2021,11,WHU,MUN,david moyes,ole gunnar solskjaer
+2020-2021_484,2020-2021,11,CHE,LEE,frank lampard,marcelo bielsa
+2020-2021_485,2020-2021,11,WBA,CRY,slaven bilic,roy hodgson
+2020-2021_486,2020-2021,11,SHU,LEI,chris wilder,brendan rodgers
+2020-2021_487,2020-2021,11,TOT,ARS,jose mourinho,mikel arteta
+2020-2021_488,2020-2021,11,LIV,WOL,jurgen klopp,nuno espirito santo
+2020-2021_489,2020-2021,11,BHA,SOU,graham potter,ralph hasenhuttl
+2020-2021_490,2020-2021,11,AVL,NEW,dean smith,steve bruce
+2020-2021_491,2020-2021,12,LEE,WHU,marcelo bielsa,david moyes
+2020-2021_492,2020-2021,12,WOL,AVL,nuno espirito santo,dean smith
+2020-2021_493,2020-2021,12,NEW,WBA,steve bruce,slaven bilic
+2020-2021_494,2020-2021,12,MUN,MCI,ole gunnar solskjaer,pep guardiola
+2020-2021_495,2020-2021,12,EVE,CHE,carlo ancelotti,frank lampard
+2020-2021_496,2020-2021,12,SOU,SHU,ralph hasenhuttl,chris wilder
+2020-2021_497,2020-2021,12,CRY,TOT,roy hodgson,jose mourinho
+2020-2021_498,2020-2021,12,FUL,LIV,scott parker,jurgen klopp
+2020-2021_499,2020-2021,12,ARS,BUR,mikel arteta,sean dyche
+2020-2021_500,2020-2021,12,LEI,BHA,brendan rodgers,graham potter
+2020-2021_501,2020-2021,13,WOL,CHE,nuno espirito santo,frank lampard
+2020-2021_502,2020-2021,13,MCI,WBA,pep guardiola,slaven bilic
+2020-2021_503,2020-2021,13,ARS,SOU,mikel arteta,ralph hasenhuttl
+2020-2021_504,2020-2021,13,LEE,NEW,marcelo bielsa,steve bruce
+2020-2021_505,2020-2021,13,LEI,EVE,brendan rodgers,carlo ancelotti
+2020-2021_506,2020-2021,13,FUL,BHA,scott parker,graham potter
+2020-2021_507,2020-2021,13,WHU,CRY,david moyes,roy hodgson
+2020-2021_508,2020-2021,13,LIV,TOT,jurgen klopp,jose mourinho
+2020-2021_509,2020-2021,13,AVL,BUR,dean smith,sean dyche
+2020-2021_510,2020-2021,13,SHU,MUN,chris wilder,ole gunnar solskjaer
+2020-2021_511,2020-2021,14,CRY,LIV,roy hodgson,jurgen klopp
+2020-2021_512,2020-2021,14,SOU,MCI,ralph hasenhuttl,pep guardiola
+2020-2021_513,2020-2021,14,EVE,ARS,carlo ancelotti,mikel arteta
+2020-2021_514,2020-2021,14,NEW,FUL,steve bruce,scott parker
+2020-2021_515,2020-2021,14,BHA,SHU,graham potter,chris wilder
+2020-2021_516,2020-2021,14,TOT,LEI,jose mourinho,brendan rodgers
+2020-2021_517,2020-2021,14,MUN,LEE,ole gunnar solskjaer,marcelo bielsa
+2020-2021_518,2020-2021,14,WBA,AVL,sam allardyce,dean smith
+2020-2021_519,2020-2021,14,BUR,WOL,sean dyche,nuno espirito santo
+2020-2021_520,2020-2021,14,CHE,WHU,frank lampard,david moyes
+2020-2021_521,2020-2021,15,LEI,MUN,brendan rodgers,ole gunnar solskjaer
+2020-2021_522,2020-2021,15,AVL,CRY,dean smith,roy hodgson
+2020-2021_523,2020-2021,15,FUL,SOU,scott parker,ralph hasenhuttl
+2020-2021_524,2020-2021,15,ARS,CHE,mikel arteta,frank lampard
+2020-2021_525,2020-2021,15,MCI,NEW,pep guardiola,steve bruce
+2020-2021_526,2020-2021,15,SHU,EVE,chris wilder,carlo ancelotti
+2020-2021_527,2020-2021,15,LEE,BUR,marcelo bielsa,sean dyche
+2020-2021_528,2020-2021,15,WHU,BHA,david moyes,graham potter
+2020-2021_529,2020-2021,15,LIV,WBA,jurgen klopp,sam allardyce
+2020-2021_530,2020-2021,15,WOL,TOT,nuno espirito santo,jose mourinho
+2020-2021_531,2020-2021,16,CRY,LEI,roy hodgson,brendan rodgers
+2020-2021_532,2020-2021,16,CHE,AVL,frank lampard,dean smith
+2020-2021_533,2020-2021,16,BHA,ARS,graham potter,mikel arteta
+2020-2021_534,2020-2021,16,BUR,SHU,sean dyche,chris wilder
+2020-2021_535,2020-2021,16,SOU,WHU,ralph hasenhuttl,david moyes
+2020-2021_536,2020-2021,16,WBA,LEE,sam allardyce,marcelo bielsa
+2020-2021_537,2020-2021,16,MUN,WOL,ole gunnar solskjaer,nuno espirito santo
+2020-2021_538,2020-2021,16,NEW,LIV,steve bruce,jurgen klopp
+2020-2021_539,2020-2021,16,TOT,FUL,jose mourinho,scott parker
+2020-2021_540,2020-2021,16,EVE,MCI,carlo ancelotti,pep guardiola
+2020-2021_541,2020-2021,17,EVE,WHU,carlo ancelotti,david moyes
+2020-2021_542,2020-2021,17,MUN,AVL,ole gunnar solskjaer,dean smith
+2020-2021_543,2020-2021,17,TOT,LEE,jose mourinho,marcelo bielsa
+2020-2021_544,2020-2021,17,CRY,SHU,roy hodgson,chris wilder
+2020-2021_545,2020-2021,17,BHA,WOL,graham potter,nuno espirito santo
+2020-2021_546,2020-2021,17,WBA,ARS,sam allardyce,mikel arteta
+2020-2021_547,2020-2021,17,NEW,LEI,steve bruce,brendan rodgers
+2020-2021_548,2020-2021,17,CHE,MCI,frank lampard,pep guardiola
+2020-2021_549,2020-2021,17,SOU,LIV,ralph hasenhuttl,jurgen klopp
+2020-2021_550,2020-2021,17,BUR,FUL,sean dyche,scott parker
+2020-2021_551,2020-2021,18,SHU,NEW,chris wilder,steve bruce
+2020-2021_552,2020-2021,18,WOL,EVE,nuno espirito santo,carlo ancelotti
+2020-2021_553,2020-2021,18,MCI,BHA,pep guardiola,graham potter
+2020-2021_554,2020-2021,18,ARS,CRY,mikel arteta,roy hodgson
+2020-2021_555,2020-2021,18,WHU,WBA,david moyes,sam allardyce
+2020-2021_556,2020-2021,18,LEI,CHE,brendan rodgers,frank lampard
+2020-2021_557,2020-2021,18,FUL,MUN,scott parker,ole gunnar solskjaer
+2020-2021_558,2020-2021,18,LIV,BUR,jurgen klopp,sean dyche
+2020-2021_559,2020-2021,18,LEE,SOU,marcelo bielsa,ralph hasenhuttl
+2020-2021_560,2020-2021,18,AVL,TOT,dean smith,jose mourinho
+2020-2021_561,2020-2021,19,WOL,WBA,nuno espirito santo,sam allardyce
+2020-2021_562,2020-2021,19,LEE,BHA,marcelo bielsa,graham potter
+2020-2021_563,2020-2021,19,WHU,BUR,david moyes,sean dyche
+2020-2021_564,2020-2021,19,FUL,CHE,scott parker,frank lampard
+2020-2021_565,2020-2021,19,LEI,SOU,brendan rodgers,ralph hasenhuttl
+2020-2021_566,2020-2021,19,SHU,TOT,chris wilder,jose mourinho
+2020-2021_567,2020-2021,19,LIV,MUN,jurgen klopp,ole gunnar solskjaer
+2020-2021_568,2020-2021,19,MCI,CRY,pep guardiola,roy hodgson
+2020-2021_569,2020-2021,19,ARS,NEW,mikel arteta,steve bruce
+2020-2021_570,2020-2021,19,AVL,EVE,dean smith,carlo ancelotti
+2020-2021_571,2020-2021,20,NEW,LEE,steve bruce,marcelo bielsa
+2020-2021_572,2020-2021,20,CRY,WHU,roy hodgson,david moyes
+2020-2021_573,2020-2021,20,WBA,MCI,sam allardyce,pep guardiola
+2020-2021_574,2020-2021,20,SOU,ARS,ralph hasenhuttl,mikel arteta
+2020-2021_575,2020-2021,20,BUR,AVL,sean dyche,dean smith
+2020-2021_576,2020-2021,20,CHE,WOL,thomas tuchel,nuno espirito santo
+2020-2021_577,2020-2021,20,BHA,FUL,graham potter,scott parker
+2020-2021_578,2020-2021,20,EVE,LEI,carlo ancelotti,brendan rodgers
+2020-2021_579,2020-2021,20,MUN,SHU,ole gunnar solskjaer,chris wilder
+2020-2021_580,2020-2021,20,TOT,LIV,jose mourinho,jurgen klopp
+2020-2021_581,2020-2021,21,EVE,NEW,carlo ancelotti,steve bruce
+2020-2021_582,2020-2021,21,CRY,WOL,roy hodgson,nuno espirito santo
+2020-2021_583,2020-2021,21,MCI,SHU,pep guardiola,chris wilder
+2020-2021_584,2020-2021,21,WBA,FUL,sam allardyce,scott parker
+2020-2021_585,2020-2021,21,ARS,MUN,mikel arteta,ole gunnar solskjaer
+2020-2021_586,2020-2021,21,SOU,AVL,ralph hasenhuttl,dean smith
+2020-2021_587,2020-2021,21,CHE,BUR,thomas tuchel,sean dyche
+2020-2021_588,2020-2021,21,LEI,LEE,brendan rodgers,marcelo bielsa
+2020-2021_589,2020-2021,21,WHU,LIV,david moyes,jurgen klopp
+2020-2021_590,2020-2021,21,BHA,TOT,graham potter,jose mourinho
+2020-2021_591,2020-2021,22,SHU,WBA,chris wilder,sam allardyce
+2020-2021_592,2020-2021,22,WOL,ARS,nuno espirito santo,mikel arteta
+2020-2021_593,2020-2021,22,MUN,SOU,ole gunnar solskjaer,ralph hasenhuttl
+2020-2021_594,2020-2021,22,NEW,CRY,steve bruce,roy hodgson
+2020-2021_595,2020-2021,22,BUR,MCI,sean dyche,pep guardiola
+2020-2021_596,2020-2021,22,FUL,LEI,scott parker,brendan rodgers
+2020-2021_597,2020-2021,22,LEE,EVE,marcelo bielsa,carlo ancelotti
+2020-2021_598,2020-2021,22,AVL,WHU,dean smith,david moyes
+2020-2021_599,2020-2021,22,LIV,BHA,jurgen klopp,graham potter
+2020-2021_600,2020-2021,22,TOT,CHE,jose mourinho,thomas tuchel
+2020-2021_601,2020-2021,23,AVL,ARS,dean smith,mikel arteta
+2020-2021_602,2020-2021,23,BUR,BHA,sean dyche,graham potter
+2020-2021_603,2020-2021,23,NEW,SOU,steve bruce,ralph hasenhuttl
+2020-2021_604,2020-2021,23,FUL,WHU,scott parker,david moyes
+2020-2021_605,2020-2021,23,MUN,EVE,ole gunnar solskjaer,carlo ancelotti
+2020-2021_606,2020-2021,23,TOT,WBA,jose mourinho,sam allardyce
+2020-2021_607,2020-2021,23,WOL,LEI,nuno espirito santo,brendan rodgers
+2020-2021_608,2020-2021,23,LIV,MCI,jurgen klopp,pep guardiola
+2020-2021_609,2020-2021,23,SHU,CHE,chris wilder,thomas tuchel
+2020-2021_610,2020-2021,23,LEE,CRY,marcelo bielsa,roy hodgson
+2020-2021_611,2020-2021,24,LEI,LIV,brendan rodgers,jurgen klopp
+2020-2021_612,2020-2021,24,CRY,BUR,roy hodgson,sean dyche
+2020-2021_613,2020-2021,24,MCI,TOT,pep guardiola,jose mourinho
+2020-2021_614,2020-2021,24,BHA,AVL,graham potter,dean smith
+2020-2021_615,2020-2021,24,SOU,WOL,ralph hasenhuttl,nuno espirito santo
+2020-2021_616,2020-2021,24,WBA,MUN,sam allardyce,ole gunnar solskjaer
+2020-2021_617,2020-2021,24,ARS,LEE,mikel arteta,marcelo bielsa
+2020-2021_618,2020-2021,24,EVE,FUL,carlo ancelotti,scott parker
+2020-2021_619,2020-2021,24,WHU,SHU,david moyes,chris wilder
+2020-2021_620,2020-2021,24,CHE,NEW,thomas tuchel,steve bruce
+2020-2021_621,2020-2021,25,WOL,LEE,nuno espirito santo,marcelo bielsa
+2020-2021_622,2020-2021,25,SOU,CHE,ralph hasenhuttl,thomas tuchel
+2020-2021_623,2020-2021,25,BUR,WBA,sean dyche,sam allardyce
+2020-2021_624,2020-2021,25,LIV,EVE,jurgen klopp,carlo ancelotti
+2020-2021_625,2020-2021,25,FUL,SHU,scott parker,chris wilder
+2020-2021_626,2020-2021,25,WHU,TOT,david moyes,jose mourinho
+2020-2021_627,2020-2021,25,AVL,LEI,dean smith,brendan rodgers
+2020-2021_628,2020-2021,25,ARS,MCI,mikel arteta,pep guardiola
+2020-2021_629,2020-2021,25,MUN,NEW,ole gunnar solskjaer,steve bruce
+2020-2021_630,2020-2021,25,BHA,CRY,graham potter,roy hodgson
+2020-2021_631,2020-2021,26,MCI,WHU,pep guardiola,david moyes
+2020-2021_632,2020-2021,26,WBA,BHA,sam allardyce,graham potter
+2020-2021_633,2020-2021,26,LEE,AVL,marcelo bielsa,dean smith
+2020-2021_634,2020-2021,26,NEW,WOL,steve bruce,nuno espirito santo
+2020-2021_635,2020-2021,26,CRY,FUL,roy hodgson,scott parker
+2020-2021_636,2020-2021,26,LEI,ARS,brendan rodgers,mikel arteta
+2020-2021_637,2020-2021,26,TOT,BUR,jose mourinho,sean dyche
+2020-2021_638,2020-2021,26,CHE,MUN,thomas tuchel,ole gunnar solskjaer
+2020-2021_639,2020-2021,26,SHU,LIV,chris wilder,jurgen klopp
+2020-2021_640,2020-2021,26,EVE,SOU,carlo ancelotti,ralph hasenhuttl
+2020-2021_641,2020-2021,27,BUR,ARS,sean dyche,mikel arteta
+2020-2021_642,2020-2021,27,SHU,SOU,chris wilder,ralph hasenhuttl
+2020-2021_643,2020-2021,27,AVL,WOL,dean smith,nuno espirito santo
+2020-2021_644,2020-2021,27,BHA,LEI,graham potter,brendan rodgers
+2020-2021_645,2020-2021,27,WBA,NEW,sam allardyce,steve bruce
+2020-2021_646,2020-2021,27,LIV,FUL,jurgen klopp,scott parker
+2020-2021_647,2020-2021,27,MCI,MUN,pep guardiola,ole gunnar solskjaer
+2020-2021_648,2020-2021,27,TOT,CRY,jose mourinho,roy hodgson
+2020-2021_649,2020-2021,27,CHE,EVE,thomas tuchel,carlo ancelotti
+2020-2021_650,2020-2021,27,WHU,LEE,david moyes,marcelo bielsa
+2020-2021_651,2020-2021,28,NEW,AVL,steve bruce,dean smith
+2020-2021_652,2020-2021,28,LEE,CHE,marcelo bielsa,thomas tuchel
+2020-2021_653,2020-2021,28,CRY,WBA,roy hodgson,sam allardyce
+2020-2021_654,2020-2021,28,EVE,BUR,carlo ancelotti,sean dyche
+2020-2021_655,2020-2021,28,FUL,MCI,scott parker,pep guardiola
+2020-2021_656,2020-2021,28,SOU,BHA,ralph hasenhuttl,graham potter
+2020-2021_657,2020-2021,28,LEI,SHU,brendan rodgers,paul heckingbottom
+2020-2021_658,2020-2021,28,ARS,TOT,mikel arteta,jose mourinho
+2020-2021_659,2020-2021,28,MUN,WHU,ole gunnar solskjaer,david moyes
+2020-2021_660,2020-2021,28,WOL,LIV,nuno espirito santo,jurgen klopp
+2020-2021_661,2020-2021,29,MCI,WOL,pep guardiola,nuno espirito santo
+2020-2021_662,2020-2021,29,BUR,LEI,sean dyche,brendan rodgers
+2020-2021_663,2020-2021,29,SHU,AVL,chris wilder,dean smith
+2020-2021_664,2020-2021,29,CRY,MUN,roy hodgson,ole gunnar solskjaer
+2020-2021_665,2020-2021,29,WBA,EVE,sam allardyce,carlo ancelotti
+2020-2021_666,2020-2021,29,LIV,CHE,jurgen klopp,thomas tuchel
+2020-2021_667,2020-2021,29,FUL,LEE,scott parker,marcelo bielsa
+2020-2021_668,2020-2021,29,BHA,NEW,graham potter,steve bruce
+2020-2021_669,2020-2021,29,WHU,ARS,david moyes,mikel arteta
+2020-2021_670,2020-2021,29,TOT,SOU,ryan mason,ralph hasenhuttl
+2020-2021_671,2020-2021,30,CHE,WBA,thomas tuchel,sam allardyce
+2020-2021_672,2020-2021,30,LEE,SHU,marcelo bielsa,paul heckingbottom
+2020-2021_673,2020-2021,30,LEI,MCI,brendan rodgers,pep guardiola
+2020-2021_674,2020-2021,30,ARS,LIV,mikel arteta,jurgen klopp
+2020-2021_675,2020-2021,30,SOU,BUR,ralph hasenhuttl,sean dyche
+2020-2021_676,2020-2021,30,NEW,TOT,steve bruce,jose mourinho
+2020-2021_677,2020-2021,30,AVL,FUL,dean smith,scott parker
+2020-2021_678,2020-2021,30,MUN,BHA,ole gunnar solskjaer,graham potter
+2020-2021_679,2020-2021,30,EVE,CRY,carlo ancelotti,roy hodgson
+2020-2021_680,2020-2021,30,WOL,WHU,nuno espirito santo,david moyes
+2020-2021_681,2020-2021,31,FUL,WOL,scott parker,nuno espirito santo
+2020-2021_682,2020-2021,31,MCI,LEE,pep guardiola,marcelo bielsa
+2020-2021_683,2020-2021,31,LIV,AVL,jurgen klopp,dean smith
+2020-2021_684,2020-2021,31,CRY,CHE,roy hodgson,thomas tuchel
+2020-2021_685,2020-2021,31,BUR,NEW,sean dyche,steve bruce
+2020-2021_686,2020-2021,31,WHU,LEI,david moyes,brendan rodgers
+2020-2021_687,2020-2021,31,TOT,MUN,jose mourinho,ole gunnar solskjaer
+2020-2021_688,2020-2021,31,SHU,ARS,paul heckingbottom,mikel arteta
+2020-2021_689,2020-2021,31,WBA,SOU,sam allardyce,ralph hasenhuttl
+2020-2021_690,2020-2021,31,BHA,EVE,graham potter,carlo ancelotti
+2020-2021_691,2020-2021,32,EVE,TOT,carlo ancelotti,jose mourinho
+2020-2021_692,2020-2021,32,NEW,WHU,steve bruce,david moyes
+2020-2021_693,2020-2021,32,WOL,SHU,nuno espirito santo,paul heckingbottom
+2020-2021_694,2020-2021,32,ARS,FUL,mikel arteta,scott parker
+2020-2021_695,2020-2021,32,MUN,BUR,ole gunnar solskjaer,sean dyche
+2020-2021_696,2020-2021,32,LEE,LIV,marcelo bielsa,jurgen klopp
+2020-2021_697,2020-2021,32,CHE,BHA,thomas tuchel,graham potter
+2020-2021_698,2020-2021,32,AVL,MCI,dean smith,pep guardiola
+2020-2021_699,2020-2021,32,LEI,WBA,brendan rodgers,sam allardyce
+2020-2021_700,2020-2021,32,SOU,CRY,ralph hasenhuttl,roy hodgson
+2020-2021_701,2020-2021,33,FUL,TOT,scott parker,jose mourinho
+2020-2021_702,2020-2021,33,MCI,SOU,pep guardiola,ralph hasenhuttl
+2020-2021_703,2020-2021,33,ARS,EVE,mikel arteta,carlo ancelotti
+2020-2021_704,2020-2021,33,LIV,NEW,jurgen klopp,steve bruce
+2020-2021_705,2020-2021,33,WHU,CHE,david moyes,thomas tuchel
+2020-2021_706,2020-2021,33,SHU,BHA,paul heckingbottom,graham potter
+2020-2021_707,2020-2021,33,WOL,BUR,nuno espirito santo,sean dyche
+2020-2021_708,2020-2021,33,LEE,MUN,marcelo bielsa,ole gunnar solskjaer
+2020-2021_709,2020-2021,33,AVL,WBA,dean smith,sam allardyce
+2020-2021_710,2020-2021,33,LEI,CRY,brendan rodgers,roy hodgson
+2020-2021_711,2020-2021,34,SOU,LEI,ralph hasenhuttl,brendan rodgers
+2020-2021_712,2020-2021,34,CRY,MCI,roy hodgson,pep guardiola
+2020-2021_713,2020-2021,34,BHA,LEE,graham potter,marcelo bielsa
+2020-2021_714,2020-2021,34,CHE,FUL,thomas tuchel,scott parker
+2020-2021_715,2020-2021,34,EVE,AVL,carlo ancelotti,dean smith
+2020-2021_716,2020-2021,34,NEW,ARS,steve bruce,mikel arteta
+2020-2021_717,2020-2021,34,TOT,SHU,ryan mason,paul heckingbottom
+2020-2021_718,2020-2021,34,WBA,WOL,sam allardyce,nuno espirito santo
+2020-2021_719,2020-2021,34,BUR,WHU,sean dyche,david moyes
+2020-2021_720,2020-2021,34,MUN,LIV,ole gunnar solskjaer,jurgen klopp
+2020-2021_721,2020-2021,35,LEI,NEW,brendan rodgers,steve bruce
+2020-2021_722,2020-2021,35,LEE,TOT,marcelo bielsa,ryan mason
+2020-2021_723,2020-2021,35,SHU,CRY,paul heckingbottom,roy hodgson
+2020-2021_724,2020-2021,35,MCI,CHE,pep guardiola,thomas tuchel
+2020-2021_725,2020-2021,35,LIV,SOU,jurgen klopp,ralph hasenhuttl
+2020-2021_726,2020-2021,35,WOL,BHA,nuno espirito santo,graham potter
+2020-2021_727,2020-2021,35,AVL,MUN,dean smith,ole gunnar solskjaer
+2020-2021_728,2020-2021,35,WHU,EVE,david moyes,carlo ancelotti
+2020-2021_729,2020-2021,35,ARS,WBA,mikel arteta,sam allardyce
+2020-2021_730,2020-2021,35,FUL,BUR,scott parker,sean dyche
+2020-2021_731,2020-2021,36,MUN,LEI,ole gunnar solskjaer,brendan rodgers
+2020-2021_732,2020-2021,36,CHE,ARS,thomas tuchel,mikel arteta
+2020-2021_733,2020-2021,36,NEW,MCI,steve bruce,pep guardiola
+2020-2021_734,2020-2021,36,BUR,LEE,sean dyche,marcelo bielsa
+2020-2021_735,2020-2021,36,SOU,FUL,ralph hasenhuttl,scott parker
+2020-2021_736,2020-2021,36,BHA,WHU,graham potter,david moyes
+2020-2021_737,2020-2021,36,CRY,AVL,roy hodgson,dean smith
+2020-2021_738,2020-2021,36,TOT,WOL,ryan mason,nuno espirito santo
+2020-2021_739,2020-2021,36,WBA,LIV,sam allardyce,jurgen klopp
+2020-2021_740,2020-2021,36,EVE,SHU,carlo ancelotti,paul heckingbottom
+2020-2021_741,2020-2021,37,MUN,FUL,ole gunnar solskjaer,scott parker
+2020-2021_742,2020-2021,37,SOU,LEE,ralph hasenhuttl,marcelo bielsa
+2020-2021_743,2020-2021,37,BHA,MCI,graham potter,pep guardiola
+2020-2021_744,2020-2021,37,CHE,LEI,thomas tuchel,brendan rodgers
+2020-2021_745,2020-2021,37,EVE,WOL,carlo ancelotti,nuno espirito santo
+2020-2021_746,2020-2021,37,NEW,SHU,steve bruce,paul heckingbottom
+2020-2021_747,2020-2021,37,TOT,AVL,ryan mason,dean smith
+2020-2021_748,2020-2021,37,CRY,ARS,roy hodgson,mikel arteta
+2020-2021_749,2020-2021,37,BUR,LIV,sean dyche,jurgen klopp
+2020-2021_750,2020-2021,37,WBA,WHU,sam allardyce,david moyes
+2020-2021_751,2020-2021,38,ARS,BHA,mikel arteta,graham potter
+2020-2021_752,2020-2021,38,AVL,CHE,dean smith,thomas tuchel
+2020-2021_753,2020-2021,38,FUL,NEW,scott parker,steve bruce
+2020-2021_754,2020-2021,38,LEE,WBA,marcelo bielsa,sam allardyce
+2020-2021_755,2020-2021,38,LEI,TOT,brendan rodgers,ryan mason
+2020-2021_756,2020-2021,38,LIV,CRY,jurgen klopp,roy hodgson
+2020-2021_757,2020-2021,38,MCI,EVE,pep guardiola,carlo ancelotti
+2020-2021_758,2020-2021,38,SHU,BUR,paul heckingbottom,sean dyche
+2020-2021_759,2020-2021,38,WHU,SOU,david moyes,ralph hasenhuttl
+2020-2021_760,2020-2021,38,WOL,MUN,nuno espirito santo,ole gunnar solskjaer
+2021-2022_761,2021-2022,1,BRE,ARS,thomas frank,mikel arteta
+2021-2022_762,2021-2022,1,MUN,LEE,ole gunnar solskjaer,marcelo bielsa
+2021-2022_763,2021-2022,1,BUR,BHA,sean dyche,graham potter
+2021-2022_764,2021-2022,1,CHE,CRY,thomas tuchel,patrick vieira
+2021-2022_765,2021-2022,1,EVE,SOU,rafa benitez,ralph hasenhuttl
+2021-2022_766,2021-2022,1,LEI,WOL,brendan rodgers,bruno lage
+2021-2022_767,2021-2022,1,WAT,AVL,xisco munoz,dean smith
+2021-2022_768,2021-2022,1,NOR,LIV,daniel farke,jurgen klopp
+2021-2022_769,2021-2022,1,NEW,WHU,steve bruce,david moyes
+2021-2022_770,2021-2022,1,TOT,MCI,nuno espirito santo,pep guardiola
+2021-2022_771,2021-2022,2,LIV,BUR,jurgen klopp,sean dyche
+2021-2022_772,2021-2022,2,AVL,NEW,dean smith,steve bruce
+2021-2022_773,2021-2022,2,CRY,BRE,patrick vieira,thomas frank
+2021-2022_774,2021-2022,2,LEE,EVE,marcelo bielsa,rafa benitez
+2021-2022_775,2021-2022,2,MCI,NOR,pep guardiola,daniel farke
+2021-2022_776,2021-2022,2,BHA,WAT,graham potter,xisco munoz
+2021-2022_777,2021-2022,2,SOU,MUN,ralph hasenhuttl,ole gunnar solskjaer
+2021-2022_778,2021-2022,2,WOL,TOT,bruno lage,nuno espirito santo
+2021-2022_779,2021-2022,2,ARS,CHE,mikel arteta,thomas tuchel
+2021-2022_780,2021-2022,2,WHU,LEI,david moyes,brendan rodgers
+2021-2022_781,2021-2022,3,MCI,ARS,pep guardiola,mikel arteta
+2021-2022_782,2021-2022,3,AVL,BRE,dean smith,thomas frank
+2021-2022_783,2021-2022,3,BHA,EVE,graham potter,rafa benitez
+2021-2022_784,2021-2022,3,NEW,SOU,steve bruce,ralph hasenhuttl
+2021-2022_785,2021-2022,3,NOR,LEI,daniel farke,brendan rodgers
+2021-2022_786,2021-2022,3,WHU,CRY,david moyes,patrick vieira
+2021-2022_787,2021-2022,3,LIV,CHE,jurgen klopp,thomas tuchel
+2021-2022_788,2021-2022,3,BUR,LEE,sean dyche,marcelo bielsa
+2021-2022_789,2021-2022,3,TOT,WAT,nuno espirito santo,xisco munoz
+2021-2022_790,2021-2022,3,WOL,MUN,bruno lage,ole gunnar solskjaer
+2021-2022_791,2021-2022,4,CRY,TOT,patrick vieira,nuno espirito santo
+2021-2022_792,2021-2022,4,ARS,NOR,mikel arteta,daniel farke
+2021-2022_793,2021-2022,4,BRE,BHA,thomas frank,graham potter
+2021-2022_794,2021-2022,4,LEI,MCI,brendan rodgers,pep guardiola
+2021-2022_795,2021-2022,4,MUN,NEW,ole gunnar solskjaer,steve bruce
+2021-2022_796,2021-2022,4,SOU,WHU,ralph hasenhuttl,david moyes
+2021-2022_797,2021-2022,4,WAT,WOL,xisco munoz,bruno lage
+2021-2022_798,2021-2022,4,CHE,AVL,thomas tuchel,dean smith
+2021-2022_799,2021-2022,4,LEE,LIV,marcelo bielsa,jurgen klopp
+2021-2022_800,2021-2022,4,EVE,BUR,rafa benitez,sean dyche
+2021-2022_801,2021-2022,5,NEW,LEE,steve bruce,marcelo bielsa
+2021-2022_802,2021-2022,5,WOL,BRE,bruno lage,thomas frank
+2021-2022_803,2021-2022,5,BUR,ARS,sean dyche,mikel arteta
+2021-2022_804,2021-2022,5,LIV,CRY,jurgen klopp,patrick vieira
+2021-2022_805,2021-2022,5,MCI,SOU,pep guardiola,ralph hasenhuttl
+2021-2022_806,2021-2022,5,NOR,WAT,daniel farke,xisco munoz
+2021-2022_807,2021-2022,5,AVL,EVE,dean smith,rafa benitez
+2021-2022_808,2021-2022,5,BHA,LEI,graham potter,brendan rodgers
+2021-2022_809,2021-2022,5,WHU,MUN,david moyes,ole gunnar solskjaer
+2021-2022_810,2021-2022,5,TOT,CHE,nuno espirito santo,thomas tuchel
+2021-2022_811,2021-2022,6,CHE,MCI,thomas tuchel,pep guardiola
+2021-2022_812,2021-2022,6,MUN,AVL,ole gunnar solskjaer,dean smith
+2021-2022_813,2021-2022,6,EVE,NOR,rafa benitez,daniel farke
+2021-2022_814,2021-2022,6,LEE,WHU,marcelo bielsa,david moyes
+2021-2022_815,2021-2022,6,LEI,BUR,brendan rodgers,sean dyche
+2021-2022_816,2021-2022,6,WAT,NEW,xisco munoz,steve bruce
+2021-2022_817,2021-2022,6,BRE,LIV,thomas frank,jurgen klopp
+2021-2022_818,2021-2022,6,SOU,WOL,ralph hasenhuttl,bruno lage
+2021-2022_819,2021-2022,6,ARS,TOT,mikel arteta,nuno espirito santo
+2021-2022_820,2021-2022,6,CRY,BHA,patrick vieira,graham potter
+2021-2022_821,2021-2022,7,MUN,EVE,ole gunnar solskjaer,rafa benitez
+2021-2022_822,2021-2022,7,BUR,NOR,sean dyche,daniel farke
+2021-2022_823,2021-2022,7,CHE,SOU,thomas tuchel,ralph hasenhuttl
+2021-2022_824,2021-2022,7,LEE,WAT,marcelo bielsa,xisco munoz
+2021-2022_825,2021-2022,7,WOL,NEW,bruno lage,steve bruce
+2021-2022_826,2021-2022,7,BHA,ARS,graham potter,mikel arteta
+2021-2022_827,2021-2022,7,CRY,LEI,patrick vieira,brendan rodgers
+2021-2022_828,2021-2022,7,TOT,AVL,nuno espirito santo,dean smith
+2021-2022_829,2021-2022,7,WHU,BRE,david moyes,thomas frank
+2021-2022_830,2021-2022,7,LIV,MCI,jurgen klopp,pep guardiola
+2021-2022_831,2021-2022,8,WAT,LIV,claudio ranieri,jurgen klopp
+2021-2022_832,2021-2022,8,AVL,WOL,dean smith,bruno lage
+2021-2022_833,2021-2022,8,LEI,MUN,brendan rodgers,ole gunnar solskjaer
+2021-2022_834,2021-2022,8,MCI,BUR,pep guardiola,sean dyche
+2021-2022_835,2021-2022,8,NOR,BHA,daniel farke,graham potter
+2021-2022_836,2021-2022,8,SOU,LEE,ralph hasenhuttl,marcelo bielsa
+2021-2022_837,2021-2022,8,BRE,CHE,thomas frank,thomas tuchel
+2021-2022_838,2021-2022,8,EVE,WHU,rafa benitez,david moyes
+2021-2022_839,2021-2022,8,NEW,TOT,steve bruce,nuno espirito santo
+2021-2022_840,2021-2022,8,ARS,CRY,mikel arteta,patrick vieira
+2021-2022_841,2021-2022,9,ARS,AVL,mikel arteta,dean smith
+2021-2022_842,2021-2022,9,CHE,NOR,thomas tuchel,daniel farke
+2021-2022_843,2021-2022,9,CRY,NEW,patrick vieira,graeme jones
+2021-2022_844,2021-2022,9,EVE,WAT,rafa benitez,claudio ranieri
+2021-2022_845,2021-2022,9,LEE,WOL,marcelo bielsa,bruno lage
+2021-2022_846,2021-2022,9,SOU,BUR,ralph hasenhuttl,sean dyche
+2021-2022_847,2021-2022,9,BHA,MCI,graham potter,pep guardiola
+2021-2022_848,2021-2022,9,BRE,LEI,thomas frank,brendan rodgers
+2021-2022_849,2021-2022,9,WHU,TOT,david moyes,nuno espirito santo
+2021-2022_850,2021-2022,9,MUN,LIV,ole gunnar solskjaer,jurgen klopp
+2021-2022_851,2021-2022,10,LEI,ARS,brendan rodgers,mikel arteta
+2021-2022_852,2021-2022,10,BUR,BRE,sean dyche,thomas frank
+2021-2022_853,2021-2022,10,LIV,BHA,jurgen klopp,graham potter
+2021-2022_854,2021-2022,10,MCI,CRY,pep guardiola,patrick vieira
+2021-2022_855,2021-2022,10,NEW,CHE,graeme jones,thomas tuchel
+2021-2022_856,2021-2022,10,WAT,SOU,claudio ranieri,ralph hasenhuttl
+2021-2022_857,2021-2022,10,TOT,MUN,nuno espirito santo,ole gunnar solskjaer
+2021-2022_858,2021-2022,10,NOR,LEE,daniel farke,marcelo bielsa
+2021-2022_859,2021-2022,10,AVL,WHU,dean smith,david moyes
+2021-2022_860,2021-2022,10,WOL,EVE,bruno lage,rafa benitez
+2021-2022_861,2021-2022,11,SOU,AVL,ralph hasenhuttl,dean smith
+2021-2022_862,2021-2022,11,MUN,MCI,ole gunnar solskjaer,pep guardiola
+2021-2022_863,2021-2022,11,CRY,WOL,patrick vieira,bruno lage
+2021-2022_864,2021-2022,11,BRE,NOR,thomas frank,daniel farke
+2021-2022_865,2021-2022,11,CHE,BUR,thomas tuchel,sean dyche
+2021-2022_866,2021-2022,11,BHA,NEW,graham potter,graeme jones
+2021-2022_867,2021-2022,11,ARS,WAT,mikel arteta,claudio ranieri
+2021-2022_868,2021-2022,11,EVE,TOT,rafa benitez,antonio conte
+2021-2022_869,2021-2022,11,LEE,LEI,marcelo bielsa,brendan rodgers
+2021-2022_870,2021-2022,11,WHU,LIV,david moyes,jurgen klopp
+2021-2022_871,2021-2022,12,LEI,CHE,brendan rodgers,thomas tuchel
+2021-2022_872,2021-2022,12,AVL,BHA,steven gerrard,graham potter
+2021-2022_873,2021-2022,12,BUR,CRY,sean dyche,patrick vieira
+2021-2022_874,2021-2022,12,NEW,BRE,eddie howe,thomas frank
+2021-2022_875,2021-2022,12,NOR,SOU,dean smith,ralph hasenhuttl
+2021-2022_876,2021-2022,12,WAT,MUN,claudio ranieri,ole gunnar solskjaer
+2021-2022_877,2021-2022,12,WOL,WHU,bruno lage,david moyes
+2021-2022_878,2021-2022,12,LIV,ARS,jurgen klopp,mikel arteta
+2021-2022_879,2021-2022,12,MCI,EVE,pep guardiola,rafa benitez
+2021-2022_880,2021-2022,12,TOT,LEE,antonio conte,marcelo bielsa
+2021-2022_881,2021-2022,13,ARS,NEW,mikel arteta,eddie howe
+2021-2022_882,2021-2022,13,CRY,AVL,patrick vieira,steven gerrard
+2021-2022_883,2021-2022,13,LIV,SOU,jurgen klopp,ralph hasenhuttl
+2021-2022_884,2021-2022,13,NOR,WOL,dean smith,bruno lage
+2021-2022_885,2021-2022,13,BHA,LEE,graham potter,marcelo bielsa
+2021-2022_886,2021-2022,13,BRE,EVE,thomas frank,rafa benitez
+2021-2022_887,2021-2022,13,LEI,WAT,brendan rodgers,claudio ranieri
+2021-2022_888,2021-2022,13,MCI,WHU,pep guardiola,david moyes
+2021-2022_889,2021-2022,13,CHE,MUN,thomas tuchel,michael carrick
+2021-2022_890,2021-2022,13,BUR,TOT,sean dyche,antonio conte
+2021-2022_891,2021-2022,14,NEW,NOR,eddie howe,dean smith
+2021-2022_892,2021-2022,14,LEE,CRY,marcelo bielsa,patrick vieira
+2021-2022_893,2021-2022,14,WAT,CHE,claudio ranieri,thomas tuchel
+2021-2022_894,2021-2022,14,WHU,BHA,david moyes,graham potter
+2021-2022_895,2021-2022,14,WOL,BUR,bruno lage,sean dyche
+2021-2022_896,2021-2022,14,SOU,LEI,ralph hasenhuttl,brendan rodgers
+2021-2022_897,2021-2022,14,AVL,MCI,steven gerrard,pep guardiola
+2021-2022_898,2021-2022,14,EVE,LIV,rafa benitez,jurgen klopp
+2021-2022_899,2021-2022,14,TOT,BRE,antonio conte,thomas frank
+2021-2022_900,2021-2022,14,MUN,ARS,michael carrick,mikel arteta
+2021-2022_901,2021-2022,15,WHU,CHE,david moyes,thomas tuchel
+2021-2022_902,2021-2022,15,SOU,BHA,ralph hasenhuttl,graham potter
+2021-2022_903,2021-2022,15,NEW,BUR,eddie howe,sean dyche
+2021-2022_904,2021-2022,15,WOL,LIV,bruno lage,jurgen klopp
+2021-2022_905,2021-2022,15,WAT,MCI,claudio ranieri,pep guardiola
+2021-2022_906,2021-2022,15,LEE,BRE,marcelo bielsa,thomas frank
+2021-2022_907,2021-2022,15,MUN,CRY,ralf rangnick,patrick vieira
+2021-2022_908,2021-2022,15,TOT,NOR,antonio conte,dean smith
+2021-2022_909,2021-2022,15,AVL,LEI,steven gerrard,brendan rodgers
+2021-2022_910,2021-2022,15,EVE,ARS,rafa benitez,mikel arteta
+2021-2022_911,2021-2022,16,BRE,WAT,thomas frank,claudio ranieri
+2021-2022_912,2021-2022,16,MCI,WOL,pep guardiola,bruno lage
+2021-2022_913,2021-2022,16,ARS,SOU,mikel arteta,ralph hasenhuttl
+2021-2022_914,2021-2022,16,CHE,LEE,thomas tuchel,marcelo bielsa
+2021-2022_915,2021-2022,16,LIV,AVL,jurgen klopp,steven gerrard
+2021-2022_916,2021-2022,16,NOR,MUN,dean smith,ralf rangnick
+2021-2022_917,2021-2022,16,BUR,WHU,sean dyche,david moyes
+2021-2022_918,2021-2022,16,LEI,NEW,brendan rodgers,eddie howe
+2021-2022_919,2021-2022,16,CRY,EVE,patrick vieira,rafa benitez
+2021-2022_920,2021-2022,16,BHA,TOT,graham potter,antonio conte
+2021-2022_921,2021-2022,17,NOR,AVL,dean smith,steven gerrard
+2021-2022_922,2021-2022,17,MCI,LEE,pep guardiola,marcelo bielsa
+2021-2022_923,2021-2022,17,BHA,WOL,graham potter,bruno lage
+2021-2022_924,2021-2022,17,CRY,SOU,patrick vieira,ralph hasenhuttl
+2021-2022_925,2021-2022,17,ARS,WHU,mikel arteta,david moyes
+2021-2022_926,2021-2022,17,CHE,EVE,thomas tuchel,rafa benitez
+2021-2022_927,2021-2022,17,LIV,NEW,jurgen klopp,eddie howe
+2021-2022_928,2021-2022,17,LEI,TOT,brendan rodgers,antonio conte
+2021-2022_929,2021-2022,17,BRE,MUN,thomas frank,ralf rangnick
+2021-2022_930,2021-2022,17,BUR,WAT,sean dyche,roy hodgson
+2021-2022_931,2021-2022,18,LEE,ARS,marcelo bielsa,mikel arteta
+2021-2022_932,2021-2022,18,NEW,MCI,eddie howe,pep guardiola
+2021-2022_933,2021-2022,18,WOL,CHE,bruno lage,thomas tuchel
+2021-2022_934,2021-2022,18,TOT,LIV,antonio conte,jurgen klopp
+2021-2022_935,2021-2022,18,SOU,BRE,ralph hasenhuttl,thomas frank
+2021-2022_936,2021-2022,18,WHU,NOR,david moyes,dean smith
+2021-2022_937,2021-2022,18,MUN,BHA,ralf rangnick,graham potter
+2021-2022_938,2021-2022,18,WAT,CRY,roy hodgson,patrick vieira
+2021-2022_939,2021-2022,18,EVE,LEI,frank lampard,brendan rodgers
+2021-2022_940,2021-2022,18,AVL,BUR,steven gerrard,michael jackson
+2021-2022_941,2021-2022,19,MCI,LEI,pep guardiola,brendan rodgers
+2021-2022_942,2021-2022,19,NOR,ARS,dean smith,mikel arteta
+2021-2022_943,2021-2022,19,TOT,CRY,antonio conte,patrick vieira
+2021-2022_944,2021-2022,19,WHU,SOU,david moyes,ralph hasenhuttl
+2021-2022_945,2021-2022,19,AVL,CHE,steven gerrard,thomas tuchel
+2021-2022_946,2021-2022,19,BHA,BRE,graham potter,thomas frank
+2021-2022_947,2021-2022,19,NEW,MUN,eddie howe,ralf rangnick
+2021-2022_948,2021-2022,19,LIV,LEE,jurgen klopp,marcelo bielsa
+2021-2022_949,2021-2022,19,WOL,WAT,bruno lage,roy hodgson
+2021-2022_950,2021-2022,19,BUR,EVE,sean dyche,frank lampard
+2021-2022_951,2021-2022,20,CRY,NOR,patrick vieira,dean smith
+2021-2022_952,2021-2022,20,SOU,TOT,ralph hasenhuttl,antonio conte
+2021-2022_953,2021-2022,20,WAT,WHU,claudio ranieri,david moyes
+2021-2022_954,2021-2022,20,LEI,LIV,brendan rodgers,jurgen klopp
+2021-2022_955,2021-2022,20,CHE,BHA,thomas tuchel,graham potter
+2021-2022_956,2021-2022,20,BRE,MCI,thomas frank,pep guardiola
+2021-2022_957,2021-2022,20,MUN,BUR,ralf rangnick,sean dyche
+2021-2022_958,2021-2022,20,ARS,WOL,mikel arteta,bruno lage
+2021-2022_959,2021-2022,20,LEE,AVL,jesse marsch,steven gerrard
+2021-2022_960,2021-2022,20,EVE,NEW,frank lampard,eddie howe
+2021-2022_961,2021-2022,21,ARS,MCI,mikel arteta,pep guardiola
+2021-2022_962,2021-2022,21,WAT,TOT,claudio ranieri,antonio conte
+2021-2022_963,2021-2022,21,CRY,WHU,patrick vieira,david moyes
+2021-2022_964,2021-2022,21,BRE,AVL,thomas frank,steven gerrard
+2021-2022_965,2021-2022,21,EVE,BHA,rafa benitez,graham potter
+2021-2022_966,2021-2022,21,LEE,BUR,marcelo bielsa,sean dyche
+2021-2022_967,2021-2022,21,CHE,LIV,thomas tuchel,jurgen klopp
+2021-2022_968,2021-2022,21,MUN,WOL,ralf rangnick,bruno lage
+2021-2022_969,2021-2022,21,SOU,NEW,ralph hasenhuttl,eddie howe
+2021-2022_970,2021-2022,21,LEI,NOR,brendan rodgers,dean smith
+2021-2022_971,2021-2022,22,BHA,CRY,graham potter,patrick vieira
+2021-2022_972,2021-2022,22,MCI,CHE,pep guardiola,thomas tuchel
+2021-2022_973,2021-2022,22,NOR,EVE,dean smith,rafa benitez
+2021-2022_974,2021-2022,22,WOL,SOU,bruno lage,ralph hasenhuttl
+2021-2022_975,2021-2022,22,NEW,WAT,eddie howe,claudio ranieri
+2021-2022_976,2021-2022,22,AVL,MUN,steven gerrard,ralf rangnick
+2021-2022_977,2021-2022,22,LIV,BRE,jurgen klopp,thomas frank
+2021-2022_978,2021-2022,22,WHU,LEE,david moyes,marcelo bielsa
+2021-2022_979,2021-2022,22,BUR,LEI,sean dyche,brendan rodgers
+2021-2022_980,2021-2022,22,TOT,ARS,antonio conte,mikel arteta
+2021-2022_981,2021-2022,23,WAT,NOR,claudio ranieri,dean smith
+2021-2022_982,2021-2022,23,EVE,AVL,duncan ferguson,steven gerrard
+2021-2022_983,2021-2022,23,BRE,WOL,thomas frank,bruno lage
+2021-2022_984,2021-2022,23,LEE,NEW,marcelo bielsa,eddie howe
+2021-2022_985,2021-2022,23,MUN,WHU,ralf rangnick,david moyes
+2021-2022_986,2021-2022,23,SOU,MCI,ralph hasenhuttl,pep guardiola
+2021-2022_987,2021-2022,23,CRY,LIV,patrick vieira,jurgen klopp
+2021-2022_988,2021-2022,23,ARS,BUR,mikel arteta,sean dyche
+2021-2022_989,2021-2022,23,LEI,BHA,brendan rodgers,graham potter
+2021-2022_990,2021-2022,23,CHE,TOT,thomas tuchel,antonio conte
+2021-2022_991,2021-2022,24,BHA,CHE,graham potter,thomas tuchel
+2021-2022_992,2021-2022,24,NEW,EVE,eddie howe,frank lampard
+2021-2022_993,2021-2022,24,WHU,WAT,david moyes,roy hodgson
+2021-2022_994,2021-2022,24,BUR,MUN,sean dyche,ralf rangnick
+2021-2022_995,2021-2022,24,MCI,BRE,pep guardiola,thomas frank
+2021-2022_996,2021-2022,24,NOR,CRY,dean smith,patrick vieira
+2021-2022_997,2021-2022,24,TOT,SOU,antonio conte,ralph hasenhuttl
+2021-2022_998,2021-2022,24,AVL,LEE,steven gerrard,marcelo bielsa
+2021-2022_999,2021-2022,24,WOL,ARS,bruno lage,mikel arteta
+2021-2022_1000,2021-2022,24,LIV,LEI,jurgen klopp,brendan rodgers
+2021-2022_1001,2021-2022,25,MUN,SOU,ralf rangnick,ralph hasenhuttl
+2021-2022_1002,2021-2022,25,BRE,CRY,thomas frank,patrick vieira
+2021-2022_1003,2021-2022,25,EVE,LEE,frank lampard,marcelo bielsa
+2021-2022_1004,2021-2022,25,WAT,BHA,roy hodgson,graham potter
+2021-2022_1005,2021-2022,25,NOR,MCI,dean smith,pep guardiola
+2021-2022_1006,2021-2022,25,BUR,LIV,sean dyche,jurgen klopp
+2021-2022_1007,2021-2022,25,NEW,AVL,eddie howe,steven gerrard
+2021-2022_1008,2021-2022,25,TOT,WOL,antonio conte,bruno lage
+2021-2022_1009,2021-2022,25,LEI,WHU,brendan rodgers,david moyes
+2021-2022_1010,2021-2022,25,CHE,ARS,thomas tuchel,mikel arteta
+2021-2022_1011,2021-2022,26,WHU,NEW,david moyes,eddie howe
+2021-2022_1012,2021-2022,26,ARS,BRE,mikel arteta,thomas frank
+2021-2022_1013,2021-2022,26,BHA,BUR,graham potter,sean dyche
+2021-2022_1014,2021-2022,26,CRY,CHE,patrick vieira,thomas tuchel
+2021-2022_1015,2021-2022,26,SOU,EVE,ralph hasenhuttl,frank lampard
+2021-2022_1016,2021-2022,26,LIV,NOR,jurgen klopp,dean smith
+2021-2022_1017,2021-2022,26,AVL,WAT,steven gerrard,roy hodgson
+2021-2022_1018,2021-2022,26,MCI,TOT,pep guardiola,antonio conte
+2021-2022_1019,2021-2022,26,LEE,MUN,marcelo bielsa,ralf rangnick
+2021-2022_1020,2021-2022,26,WOL,LEI,bruno lage,brendan rodgers
+2021-2022_1021,2021-2022,27,SOU,NOR,ralph hasenhuttl,dean smith
+2021-2022_1022,2021-2022,27,LEE,TOT,marcelo bielsa,antonio conte
+2021-2022_1023,2021-2022,27,CRY,BUR,patrick vieira,sean dyche
+2021-2022_1024,2021-2022,27,BRE,NEW,thomas frank,eddie howe
+2021-2022_1025,2021-2022,27,MUN,WAT,ralf rangnick,roy hodgson
+2021-2022_1026,2021-2022,27,BHA,AVL,graham potter,steven gerrard
+2021-2022_1027,2021-2022,27,EVE,MCI,frank lampard,pep guardiola
+2021-2022_1028,2021-2022,27,WHU,WOL,david moyes,bruno lage
+2021-2022_1029,2021-2022,27,ARS,LIV,mikel arteta,jurgen klopp
+2021-2022_1030,2021-2022,27,CHE,LEI,thomas tuchel,brendan rodgers
+2021-2022_1031,2021-2022,28,LEI,LEE,brendan rodgers,jesse marsch
+2021-2022_1032,2021-2022,28,NEW,BHA,eddie howe,graham potter
+2021-2022_1033,2021-2022,28,WOL,CRY,bruno lage,patrick vieira
+2021-2022_1034,2021-2022,28,NOR,BRE,dean smith,thomas frank
+2021-2022_1035,2021-2022,28,BUR,CHE,sean dyche,thomas tuchel
+2021-2022_1036,2021-2022,28,AVL,SOU,steven gerrard,ralph hasenhuttl
+2021-2022_1037,2021-2022,28,LIV,WHU,jurgen klopp,david moyes
+2021-2022_1038,2021-2022,28,WAT,ARS,roy hodgson,mikel arteta
+2021-2022_1039,2021-2022,28,MCI,MUN,pep guardiola,ralf rangnick
+2021-2022_1040,2021-2022,28,TOT,EVE,antonio conte,frank lampard
+2021-2022_1041,2021-2022,29,BHA,LIV,graham potter,jurgen klopp
+2021-2022_1042,2021-2022,29,BRE,BUR,thomas frank,sean dyche
+2021-2022_1043,2021-2022,29,MUN,TOT,ralf rangnick,antonio conte
+2021-2022_1044,2021-2022,29,CHE,NEW,thomas tuchel,eddie howe
+2021-2022_1045,2021-2022,29,EVE,WOL,frank lampard,bruno lage
+2021-2022_1046,2021-2022,29,SOU,WAT,ralph hasenhuttl,roy hodgson
+2021-2022_1047,2021-2022,29,LEE,NOR,jesse marsch,dean smith
+2021-2022_1048,2021-2022,29,WHU,AVL,david moyes,steven gerrard
+2021-2022_1049,2021-2022,29,ARS,LEI,mikel arteta,brendan rodgers
+2021-2022_1050,2021-2022,29,CRY,MCI,patrick vieira,pep guardiola
+2021-2022_1051,2021-2022,30,NOR,CHE,dean smith,thomas tuchel
+2021-2022_1052,2021-2022,30,WOL,LEE,bruno lage,jesse marsch
+2021-2022_1053,2021-2022,30,AVL,ARS,steven gerrard,mikel arteta
+2021-2022_1054,2021-2022,30,LEI,BRE,brendan rodgers,thomas frank
+2021-2022_1055,2021-2022,30,TOT,WHU,antonio conte,david moyes
+2021-2022_1056,2021-2022,30,LIV,MUN,jurgen klopp,ralf rangnick
+2021-2022_1057,2021-2022,30,NEW,CRY,eddie howe,patrick vieira
+2021-2022_1058,2021-2022,30,MCI,BHA,pep guardiola,graham potter
+2021-2022_1059,2021-2022,30,BUR,SOU,michael jackson,ralph hasenhuttl
+2021-2022_1060,2021-2022,30,WAT,EVE,roy hodgson,frank lampard
+2021-2022_1061,2021-2022,31,LIV,WAT,jurgen klopp,roy hodgson
+2021-2022_1062,2021-2022,31,BHA,NOR,graham potter,dean smith
+2021-2022_1063,2021-2022,31,BUR,MCI,sean dyche,pep guardiola
+2021-2022_1064,2021-2022,31,CHE,BRE,thomas tuchel,thomas frank
+2021-2022_1065,2021-2022,31,LEE,SOU,jesse marsch,ralph hasenhuttl
+2021-2022_1066,2021-2022,31,WOL,AVL,bruno lage,steven gerrard
+2021-2022_1067,2021-2022,31,MUN,LEI,ralf rangnick,brendan rodgers
+2021-2022_1068,2021-2022,31,WHU,EVE,david moyes,frank lampard
+2021-2022_1069,2021-2022,31,TOT,NEW,antonio conte,eddie howe
+2021-2022_1070,2021-2022,31,CRY,ARS,patrick vieira,mikel arteta
+2021-2022_1071,2021-2022,32,NEW,WOL,eddie howe,bruno lage
+2021-2022_1072,2021-2022,32,EVE,MUN,frank lampard,ralf rangnick
+2021-2022_1073,2021-2022,32,ARS,BHA,mikel arteta,graham potter
+2021-2022_1074,2021-2022,32,SOU,CHE,ralph hasenhuttl,thomas tuchel
+2021-2022_1075,2021-2022,32,WAT,LEE,roy hodgson,jesse marsch
+2021-2022_1076,2021-2022,32,AVL,TOT,steven gerrard,antonio conte
+2021-2022_1077,2021-2022,32,NOR,BUR,dean smith,sean dyche
+2021-2022_1078,2021-2022,32,LEI,CRY,brendan rodgers,patrick vieira
+2021-2022_1079,2021-2022,32,BRE,WHU,thomas frank,david moyes
+2021-2022_1080,2021-2022,32,MCI,LIV,pep guardiola,jurgen klopp
+2021-2022_1081,2021-2022,33,TOT,BHA,antonio conte,graham potter
+2021-2022_1082,2021-2022,33,SOU,ARS,ralph hasenhuttl,mikel arteta
+2021-2022_1083,2021-2022,33,WAT,BRE,roy hodgson,thomas frank
+2021-2022_1084,2021-2022,33,MUN,NOR,ralf rangnick,dean smith
+2021-2022_1085,2021-2022,33,NEW,LEI,eddie howe,brendan rodgers
+2021-2022_1086,2021-2022,33,WHU,BUR,david moyes,michael jackson
+2021-2022_1087,2021-2022,33,AVL,LIV,steven gerrard,jurgen klopp
+2021-2022_1088,2021-2022,33,LEE,CHE,jesse marsch,thomas tuchel
+2021-2022_1089,2021-2022,33,WOL,MCI,bruno lage,pep guardiola
+2021-2022_1090,2021-2022,33,EVE,CRY,frank lampard,patrick vieira
+2021-2022_1091,2021-2022,34,ARS,MUN,mikel arteta,ralf rangnick
+2021-2022_1092,2021-2022,34,LEI,AVL,brendan rodgers,steven gerrard
+2021-2022_1093,2021-2022,34,MCI,WAT,pep guardiola,roy hodgson
+2021-2022_1094,2021-2022,34,NOR,NEW,dean smith,eddie howe
+2021-2022_1095,2021-2022,34,BRE,TOT,thomas frank,antonio conte
+2021-2022_1096,2021-2022,34,BHA,SOU,graham potter,ralph hasenhuttl
+2021-2022_1097,2021-2022,34,BUR,WOL,michael jackson,bruno lage
+2021-2022_1098,2021-2022,34,CHE,WHU,thomas tuchel,david moyes
+2021-2022_1099,2021-2022,34,LIV,EVE,jurgen klopp,frank lampard
+2021-2022_1100,2021-2022,34,CRY,LEE,patrick vieira,jesse marsch
+2021-2022_1101,2021-2022,35,NEW,LIV,eddie howe,jurgen klopp
+2021-2022_1102,2021-2022,35,AVL,NOR,steven gerrard,dean smith
+2021-2022_1103,2021-2022,35,SOU,CRY,ralph hasenhuttl,patrick vieira
+2021-2022_1104,2021-2022,35,WAT,BUR,roy hodgson,michael jackson
+2021-2022_1105,2021-2022,35,WOL,BHA,bruno lage,graham potter
+2021-2022_1106,2021-2022,35,LEE,MCI,jesse marsch,pep guardiola
+2021-2022_1107,2021-2022,35,EVE,CHE,frank lampard,thomas tuchel
+2021-2022_1108,2021-2022,35,TOT,LEI,antonio conte,brendan rodgers
+2021-2022_1109,2021-2022,35,WHU,ARS,david moyes,mikel arteta
+2021-2022_1110,2021-2022,35,MUN,BRE,ralf rangnick,thomas frank
+2021-2022_1111,2021-2022,36,BUR,AVL,michael jackson,steven gerrard
+2021-2022_1112,2021-2022,36,BRE,SOU,thomas frank,ralph hasenhuttl
+2021-2022_1113,2021-2022,36,CRY,WAT,patrick vieira,roy hodgson
+2021-2022_1114,2021-2022,36,CHE,WOL,thomas tuchel,bruno lage
+2021-2022_1115,2021-2022,36,BHA,MUN,graham potter,ralf rangnick
+2021-2022_1116,2021-2022,36,LIV,TOT,jurgen klopp,antonio conte
+2021-2022_1117,2021-2022,36,LEI,EVE,brendan rodgers,frank lampard
+2021-2022_1118,2021-2022,36,ARS,LEE,mikel arteta,jesse marsch
+2021-2022_1119,2021-2022,36,NOR,WHU,dean smith,david moyes
+2021-2022_1120,2021-2022,36,MCI,NEW,pep guardiola,eddie howe
+2021-2022_1121,2021-2022,37,MUN,CHE,ralf rangnick,thomas tuchel
+2021-2022_1122,2021-2022,37,TOT,BUR,antonio conte,michael jackson
+2021-2022_1123,2021-2022,37,AVL,CRY,steven gerrard,patrick vieira
+2021-2022_1124,2021-2022,37,WAT,LEI,roy hodgson,brendan rodgers
+2021-2022_1125,2021-2022,37,LEE,BHA,jesse marsch,graham potter
+2021-2022_1126,2021-2022,37,WHU,MCI,david moyes,pep guardiola
+2021-2022_1127,2021-2022,37,WOL,NOR,bruno lage,dean smith
+2021-2022_1128,2021-2022,37,EVE,BRE,frank lampard,thomas frank
+2021-2022_1129,2021-2022,37,NEW,ARS,eddie howe,mikel arteta
+2021-2022_1130,2021-2022,37,SOU,LIV,ralph hasenhuttl,jurgen klopp
+2021-2022_1131,2021-2022,38,ARS,EVE,mikel arteta,frank lampard
+2021-2022_1132,2021-2022,38,BRE,LEE,thomas frank,jesse marsch
+2021-2022_1133,2021-2022,38,BHA,WHU,graham potter,david moyes
+2021-2022_1134,2021-2022,38,BUR,NEW,michael jackson,eddie howe
+2021-2022_1135,2021-2022,38,CHE,WAT,thomas tuchel,roy hodgson
+2021-2022_1136,2021-2022,38,CRY,MUN,patrick vieira,ralf rangnick
+2021-2022_1137,2021-2022,38,LEI,SOU,brendan rodgers,ralph hasenhuttl
+2021-2022_1138,2021-2022,38,LIV,WOL,jurgen klopp,bruno lage
+2021-2022_1139,2021-2022,38,MCI,AVL,pep guardiola,steven gerrard
+2021-2022_1140,2021-2022,38,NOR,TOT,dean smith,antonio conte
+2022-2023_1141,2022-2023,1,CRY,ARS,patrick vieira,mikel arteta
+2022-2023_1142,2022-2023,1,FUL,LIV,marco silva,jurgen klopp
+2022-2023_1143,2022-2023,1,BOU,AVL,scott parker,steven gerrard
+2022-2023_1144,2022-2023,1,LEE,WOL,jesse marsch,bruno lage
+2022-2023_1145,2022-2023,1,NEW,NFO,eddie howe,steve cooper
+2022-2023_1146,2022-2023,1,TOT,SOU,antonio conte,ralph hasenhuttl
+2022-2023_1147,2022-2023,1,EVE,CHE,frank lampard,thomas tuchel
+2022-2023_1148,2022-2023,1,LEI,BRE,brendan rodgers,thomas frank
+2022-2023_1149,2022-2023,1,MUN,BHA,erik ten hag,graham potter
+2022-2023_1150,2022-2023,1,WHU,MCI,david moyes,pep guardiola
+2022-2023_1151,2022-2023,2,AVL,EVE,steven gerrard,frank lampard
+2022-2023_1152,2022-2023,2,BHA,NEW,graham potter,eddie howe
+2022-2023_1153,2022-2023,2,ARS,LEI,mikel arteta,brendan rodgers
+2022-2023_1154,2022-2023,2,SOU,LEE,ralph hasenhuttl,jesse marsch
+2022-2023_1155,2022-2023,2,MCI,BOU,pep guardiola,scott parker
+2022-2023_1156,2022-2023,2,WOL,FUL,bruno lage,marco silva
+2022-2023_1157,2022-2023,2,BRE,MUN,thomas frank,erik ten hag
+2022-2023_1158,2022-2023,2,NFO,WHU,steve cooper,david moyes
+2022-2023_1159,2022-2023,2,CHE,TOT,thomas tuchel,antonio conte
+2022-2023_1160,2022-2023,2,LIV,CRY,jurgen klopp,patrick vieira
+2022-2023_1161,2022-2023,3,TOT,WOL,antonio conte,bruno lage
+2022-2023_1162,2022-2023,3,CRY,AVL,patrick vieira,steven gerrard
+2022-2023_1163,2022-2023,3,EVE,NFO,frank lampard,steve cooper
+2022-2023_1164,2022-2023,3,FUL,BRE,marco silva,thomas frank
+2022-2023_1165,2022-2023,3,LEI,SOU,brendan rodgers,ralph hasenhuttl
+2022-2023_1166,2022-2023,3,BOU,ARS,scott parker,mikel arteta
+2022-2023_1167,2022-2023,3,LEE,CHE,jesse marsch,thomas tuchel
+2022-2023_1168,2022-2023,3,WHU,BHA,david moyes,graham potter
+2022-2023_1169,2022-2023,3,NEW,MCI,eddie howe,pep guardiola
+2022-2023_1170,2022-2023,3,MUN,LIV,erik ten hag,jurgen klopp
+2022-2023_1171,2022-2023,4,SOU,MUN,ralph hasenhuttl,erik ten hag
+2022-2023_1172,2022-2023,4,BHA,LEE,graham potter,jesse marsch
+2022-2023_1173,2022-2023,4,BRE,EVE,thomas frank,frank lampard
+2022-2023_1174,2022-2023,4,CHE,LEI,thomas tuchel,brendan rodgers
+2022-2023_1175,2022-2023,4,LIV,BOU,jurgen klopp,scott parker
+2022-2023_1176,2022-2023,4,MCI,CRY,pep guardiola,patrick vieira
+2022-2023_1177,2022-2023,4,ARS,FUL,mikel arteta,marco silva
+2022-2023_1178,2022-2023,4,AVL,WHU,steven gerrard,david moyes
+2022-2023_1179,2022-2023,4,WOL,NEW,bruno lage,eddie howe
+2022-2023_1180,2022-2023,4,NFO,TOT,steve cooper,antonio conte
+2022-2023_1181,2022-2023,5,FUL,BHA,marco silva,graham potter
+2022-2023_1182,2022-2023,5,CRY,BRE,patrick vieira,thomas frank
+2022-2023_1183,2022-2023,5,SOU,CHE,ralph hasenhuttl,thomas tuchel
+2022-2023_1184,2022-2023,5,LEE,EVE,jesse marsch,frank lampard
+2022-2023_1185,2022-2023,5,BOU,WOL,gary o'neil,bruno lage
+2022-2023_1186,2022-2023,5,ARS,AVL,mikel arteta,steven gerrard
+2022-2023_1187,2022-2023,5,MCI,NFO,pep guardiola,steve cooper
+2022-2023_1188,2022-2023,5,WHU,TOT,david moyes,antonio conte
+2022-2023_1189,2022-2023,5,LIV,NEW,jurgen klopp,eddie howe
+2022-2023_1190,2022-2023,5,LEI,MUN,brendan rodgers,erik ten hag
+2022-2023_1191,2022-2023,6,EVE,LIV,frank lampard,jurgen klopp
+2022-2023_1192,2022-2023,6,BRE,LEE,thomas frank,jesse marsch
+2022-2023_1193,2022-2023,6,CHE,WHU,thomas tuchel,david moyes
+2022-2023_1194,2022-2023,6,NEW,CRY,eddie howe,patrick vieira
+2022-2023_1195,2022-2023,6,NFO,BOU,steve cooper,gary o'neil
+2022-2023_1196,2022-2023,6,TOT,FUL,antonio conte,marco silva
+2022-2023_1197,2022-2023,6,WOL,SOU,bruno lage,ralph hasenhuttl
+2022-2023_1198,2022-2023,6,AVL,MCI,steven gerrard,pep guardiola
+2022-2023_1199,2022-2023,6,BHA,LEI,graham potter,brendan rodgers
+2022-2023_1200,2022-2023,6,MUN,ARS,erik ten hag,mikel arteta
+2022-2023_1201,2022-2023,7,FUL,CHE,marco silva,graham potter
+2022-2023_1202,2022-2023,7,CRY,MUN,patrick vieira,erik ten hag
+2022-2023_1203,2022-2023,7,MCI,TOT,pep guardiola,antonio conte
+2022-2023_1204,2022-2023,7,ARS,EVE,mikel arteta,sean dyche
+2022-2023_1205,2022-2023,7,LIV,WOL,jurgen klopp,julen lopetegui
+2022-2023_1206,2022-2023,7,SOU,BRE,ruben selles,thomas frank
+2022-2023_1207,2022-2023,7,BOU,BHA,gary o'neil,roberto de zerbi
+2022-2023_1208,2022-2023,7,LEE,NFO,gracia,steve cooper
+2022-2023_1209,2022-2023,7,LEI,AVL,adam sadler,unai emery
+2022-2023_1210,2022-2023,7,WHU,NEW,david moyes,eddie howe
+2022-2023_1211,2022-2023,8,AVL,SOU,steven gerrard,ralph hasenhuttl
+2022-2023_1212,2022-2023,8,NFO,FUL,steve cooper,marco silva
+2022-2023_1213,2022-2023,8,WOL,MCI,bruno lage,pep guardiola
+2022-2023_1214,2022-2023,8,NEW,BOU,eddie howe,gary o'neil
+2022-2023_1215,2022-2023,8,TOT,LEI,antonio conte,brendan rodgers
+2022-2023_1216,2022-2023,8,BRE,ARS,thomas frank,mikel arteta
+2022-2023_1217,2022-2023,8,EVE,WHU,frank lampard,david moyes
+2022-2023_1218,2022-2023,8,MUN,LEE,erik ten hag,michael skubala
+2022-2023_1219,2022-2023,8,BHA,CRY,roberto de zerbi,patrick vieira
+2022-2023_1220,2022-2023,8,CHE,LIV,bruno saltor,jurgen klopp
+2022-2023_1221,2022-2023,9,ARS,TOT,mikel arteta,antonio conte
+2022-2023_1222,2022-2023,9,BOU,BRE,gary o'neil,thomas frank
+2022-2023_1223,2022-2023,9,CRY,CHE,patrick vieira,graham potter
+2022-2023_1224,2022-2023,9,FUL,NEW,marco silva,eddie howe
+2022-2023_1225,2022-2023,9,LIV,BHA,jurgen klopp,roberto de zerbi
+2022-2023_1226,2022-2023,9,SOU,EVE,ralph hasenhuttl,frank lampard
+2022-2023_1227,2022-2023,9,WHU,WOL,david moyes,bruno lage
+2022-2023_1228,2022-2023,9,MCI,MUN,pep guardiola,erik ten hag
+2022-2023_1229,2022-2023,9,LEE,AVL,jesse marsch,steven gerrard
+2022-2023_1230,2022-2023,9,LEI,NFO,brendan rodgers,steve cooper
+2022-2023_1231,2022-2023,10,BOU,LEI,gary o'neil,brendan rodgers
+2022-2023_1232,2022-2023,10,CHE,WOL,graham potter,steve davis
+2022-2023_1233,2022-2023,10,MCI,SOU,pep guardiola,ralph hasenhuttl
+2022-2023_1234,2022-2023,10,NEW,BRE,eddie howe,thomas frank
+2022-2023_1235,2022-2023,10,BHA,TOT,roberto de zerbi,antonio conte
+2022-2023_1236,2022-2023,10,CRY,LEE,patrick vieira,jesse marsch
+2022-2023_1237,2022-2023,10,WHU,FUL,david moyes,marco silva
+2022-2023_1238,2022-2023,10,ARS,LIV,mikel arteta,jurgen klopp
+2022-2023_1239,2022-2023,10,EVE,MUN,frank lampard,erik ten hag
+2022-2023_1240,2022-2023,10,NFO,AVL,steve cooper,steven gerrard
+2022-2023_1241,2022-2023,11,BRE,BHA,thomas frank,roberto de zerbi
+2022-2023_1242,2022-2023,11,LEI,CRY,brendan rodgers,patrick vieira
+2022-2023_1243,2022-2023,11,FUL,BOU,marco silva,gary o'neil
+2022-2023_1244,2022-2023,11,WOL,NFO,steve davis,steve cooper
+2022-2023_1245,2022-2023,11,TOT,EVE,antonio conte,frank lampard
+2022-2023_1246,2022-2023,11,AVL,CHE,steven gerrard,graham potter
+2022-2023_1247,2022-2023,11,SOU,WHU,ralph hasenhuttl,david moyes
+2022-2023_1248,2022-2023,11,LEE,ARS,jesse marsch,mikel arteta
+2022-2023_1249,2022-2023,11,MUN,NEW,erik ten hag,eddie howe
+2022-2023_1250,2022-2023,11,LIV,MCI,jurgen klopp,pep guardiola
+2022-2023_1251,2022-2023,12,BHA,NFO,roberto de zerbi,steve cooper
+2022-2023_1252,2022-2023,12,CRY,WOL,patrick vieira,steve davis
+2022-2023_1253,2022-2023,12,BOU,SOU,gary o'neil,ralph hasenhuttl
+2022-2023_1254,2022-2023,12,BRE,CHE,thomas frank,graham potter
+2022-2023_1255,2022-2023,12,NEW,EVE,eddie howe,frank lampard
+2022-2023_1256,2022-2023,12,LIV,WHU,jurgen klopp,david moyes
+2022-2023_1257,2022-2023,12,MUN,TOT,erik ten hag,antonio conte
+2022-2023_1258,2022-2023,12,FUL,AVL,marco silva,steven gerrard
+2022-2023_1259,2022-2023,12,LEI,LEE,brendan rodgers,jesse marsch
+2022-2023_1260,2022-2023,12,ARS,MCI,mikel arteta,pep guardiola
+2022-2023_1261,2022-2023,13,NFO,LIV,steve cooper,jurgen klopp
+2022-2023_1262,2022-2023,13,EVE,CRY,frank lampard,patrick vieira
+2022-2023_1263,2022-2023,13,MCI,BHA,pep guardiola,roberto de zerbi
+2022-2023_1264,2022-2023,13,CHE,MUN,graham potter,erik ten hag
+2022-2023_1265,2022-2023,13,AVL,BRE,aaron danks,thomas frank
+2022-2023_1266,2022-2023,13,SOU,ARS,ralph hasenhuttl,mikel arteta
+2022-2023_1267,2022-2023,13,LEE,FUL,jesse marsch,marco silva
+2022-2023_1268,2022-2023,13,WOL,LEI,steve davis,brendan rodgers
+2022-2023_1269,2022-2023,13,TOT,NEW,antonio conte,eddie howe
+2022-2023_1270,2022-2023,13,WHU,BOU,david moyes,gary o'neil
+2022-2023_1271,2022-2023,14,LEI,MCI,brendan rodgers,pep guardiola
+2022-2023_1272,2022-2023,14,BOU,TOT,gary o'neil,antonio conte
+2022-2023_1273,2022-2023,14,BHA,CHE,roberto de zerbi,graham potter
+2022-2023_1274,2022-2023,14,CRY,SOU,patrick vieira,ralph hasenhuttl
+2022-2023_1275,2022-2023,14,BRE,WOL,thomas frank,steve davis
+2022-2023_1276,2022-2023,14,NEW,AVL,eddie howe,aaron danks
+2022-2023_1277,2022-2023,14,FUL,EVE,marco silva,frank lampard
+2022-2023_1278,2022-2023,14,LIV,LEE,jurgen klopp,jesse marsch
+2022-2023_1279,2022-2023,14,ARS,NFO,mikel arteta,steve cooper
+2022-2023_1280,2022-2023,14,MUN,WHU,erik ten hag,david moyes
+2022-2023_1281,2022-2023,15,LEE,BOU,jesse marsch,gary o'neil
+2022-2023_1282,2022-2023,15,MCI,FUL,pep guardiola,marco silva
+2022-2023_1283,2022-2023,15,NFO,BRE,steve cooper,thomas frank
+2022-2023_1284,2022-2023,15,WOL,BHA,steve davis,roberto de zerbi
+2022-2023_1285,2022-2023,15,EVE,LEI,frank lampard,brendan rodgers
+2022-2023_1286,2022-2023,15,CHE,ARS,graham potter,mikel arteta
+2022-2023_1287,2022-2023,15,AVL,MUN,unai emery,erik ten hag
+2022-2023_1288,2022-2023,15,SOU,NEW,ralph hasenhuttl,eddie howe
+2022-2023_1289,2022-2023,15,WHU,CRY,david moyes,patrick vieira
+2022-2023_1290,2022-2023,15,TOT,LIV,antonio conte,jurgen klopp
+2022-2023_1291,2022-2023,16,MCI,BRE,pep guardiola,thomas frank
+2022-2023_1292,2022-2023,16,BOU,EVE,gary o'neil,frank lampard
+2022-2023_1293,2022-2023,16,LIV,SOU,jurgen klopp,nathan jones
+2022-2023_1294,2022-2023,16,NFO,CRY,steve cooper,patrick vieira
+2022-2023_1295,2022-2023,16,TOT,LEE,antonio conte,jesse marsch
+2022-2023_1296,2022-2023,16,WHU,LEI,david moyes,brendan rodgers
+2022-2023_1297,2022-2023,16,NEW,CHE,eddie howe,graham potter
+2022-2023_1298,2022-2023,16,WOL,ARS,steve davis,mikel arteta
+2022-2023_1299,2022-2023,16,BHA,AVL,roberto de zerbi,unai emery
+2022-2023_1300,2022-2023,16,FUL,MUN,marco silva,erik ten hag
+2022-2023_1301,2022-2023,17,BRE,TOT,thomas frank,antonio conte
+2022-2023_1302,2022-2023,17,CRY,FUL,patrick vieira,marco silva
+2022-2023_1303,2022-2023,17,EVE,WOL,frank lampard,julen lopetegui
+2022-2023_1304,2022-2023,17,SOU,BHA,nathan jones,roberto de zerbi
+2022-2023_1305,2022-2023,17,LEI,NEW,brendan rodgers,eddie howe
+2022-2023_1306,2022-2023,17,AVL,LIV,unai emery,jurgen klopp
+2022-2023_1307,2022-2023,17,ARS,WHU,mikel arteta,david moyes
+2022-2023_1308,2022-2023,17,CHE,BOU,graham potter,gary o'neil
+2022-2023_1309,2022-2023,17,MUN,NFO,erik ten hag,steve cooper
+2022-2023_1310,2022-2023,17,LEE,MCI,jesse marsch,pep guardiola
+2022-2023_1311,2022-2023,18,WHU,BRE,david moyes,thomas frank
+2022-2023_1312,2022-2023,18,LIV,LEI,jurgen klopp,brendan rodgers
+2022-2023_1313,2022-2023,18,WOL,MUN,julen lopetegui,erik ten hag
+2022-2023_1314,2022-2023,18,BOU,CRY,gary o'neil,patrick vieira
+2022-2023_1315,2022-2023,18,FUL,SOU,marco silva,nathan jones
+2022-2023_1316,2022-2023,18,MCI,EVE,pep guardiola,frank lampard
+2022-2023_1317,2022-2023,18,NEW,LEE,eddie howe,jesse marsch
+2022-2023_1318,2022-2023,18,BHA,ARS,roberto de zerbi,mikel arteta
+2022-2023_1319,2022-2023,18,TOT,AVL,antonio conte,unai emery
+2022-2023_1320,2022-2023,18,NFO,CHE,steve cooper,graham potter
+2022-2023_1321,2022-2023,19,BRE,LIV,thomas frank,jurgen klopp
+2022-2023_1322,2022-2023,19,ARS,NEW,mikel arteta,eddie howe
+2022-2023_1323,2022-2023,19,EVE,BHA,frank lampard,roberto de zerbi
+2022-2023_1324,2022-2023,19,LEI,FUL,brendan rodgers,marco silva
+2022-2023_1325,2022-2023,19,MUN,BOU,erik ten hag,gary o'neil
+2022-2023_1326,2022-2023,19,SOU,NFO,nathan jones,steve cooper
+2022-2023_1327,2022-2023,19,LEE,WHU,jesse marsch,david moyes
+2022-2023_1328,2022-2023,19,AVL,WOL,unai emery,julen lopetegui
+2022-2023_1329,2022-2023,19,CRY,TOT,patrick vieira,antonio conte
+2022-2023_1330,2022-2023,19,CHE,MCI,graham potter,pep guardiola
+2022-2023_1331,2022-2023,20,AVL,LEE,unai emery,jesse marsch
+2022-2023_1332,2022-2023,20,MUN,MCI,erik ten hag,pep guardiola
+2022-2023_1333,2022-2023,20,BHA,LIV,roberto de zerbi,jurgen klopp
+2022-2023_1334,2022-2023,20,EVE,SOU,frank lampard,nathan jones
+2022-2023_1335,2022-2023,20,NFO,LEI,steve cooper,brendan rodgers
+2022-2023_1336,2022-2023,20,WOL,WHU,julen lopetegui,david moyes
+2022-2023_1337,2022-2023,20,BRE,BOU,thomas frank,gary o'neil
+2022-2023_1338,2022-2023,20,CHE,CRY,graham potter,patrick vieira
+2022-2023_1339,2022-2023,20,NEW,FUL,eddie howe,marco silva
+2022-2023_1340,2022-2023,20,TOT,ARS,antonio conte,mikel arteta
+2022-2023_1341,2022-2023,21,LIV,CHE,jurgen klopp,graham potter
+2022-2023_1342,2022-2023,21,BOU,NFO,gary o'neil,steve cooper
+2022-2023_1343,2022-2023,21,SOU,AVL,nathan jones,unai emery
+2022-2023_1344,2022-2023,21,LEI,BHA,brendan rodgers,roberto de zerbi
+2022-2023_1345,2022-2023,21,WHU,EVE,david moyes,frank lampard
+2022-2023_1346,2022-2023,21,CRY,NEW,patrick vieira,eddie howe
+2022-2023_1347,2022-2023,21,LEE,BRE,jesse marsch,thomas frank
+2022-2023_1348,2022-2023,21,MCI,WOL,pep guardiola,julen lopetegui
+2022-2023_1349,2022-2023,21,ARS,MUN,mikel arteta,erik ten hag
+2022-2023_1350,2022-2023,21,FUL,TOT,marco silva,antonio conte
+2022-2023_1351,2022-2023,22,CHE,FUL,graham potter,marco silva
+2022-2023_1352,2022-2023,22,EVE,ARS,sean dyche,mikel arteta
+2022-2023_1353,2022-2023,22,AVL,LEI,unai emery,brendan rodgers
+2022-2023_1354,2022-2023,22,BHA,BOU,roberto de zerbi,gary o'neil
+2022-2023_1355,2022-2023,22,BRE,SOU,thomas frank,nathan jones
+2022-2023_1356,2022-2023,22,MUN,CRY,erik ten hag,patrick vieira
+2022-2023_1357,2022-2023,22,WOL,LIV,julen lopetegui,jurgen klopp
+2022-2023_1358,2022-2023,22,NEW,WHU,eddie howe,david moyes
+2022-2023_1359,2022-2023,22,NFO,LEE,steve cooper,jesse marsch
+2022-2023_1360,2022-2023,22,TOT,MCI,antonio conte,pep guardiola
+2022-2023_1361,2022-2023,23,WHU,CHE,david moyes,graham potter
+2022-2023_1362,2022-2023,23,CRY,BHA,patrick vieira,roberto de zerbi
+2022-2023_1363,2022-2023,23,ARS,BRE,mikel arteta,thomas frank
+2022-2023_1364,2022-2023,23,FUL,NFO,marco silva,steve cooper
+2022-2023_1365,2022-2023,23,SOU,WOL,nathan jones,julen lopetegui
+2022-2023_1366,2022-2023,23,LEI,TOT,brendan rodgers,antonio conte
+2022-2023_1367,2022-2023,23,BOU,NEW,gary o'neil,eddie howe
+2022-2023_1368,2022-2023,23,LEE,MUN,michael skubala,erik ten hag
+2022-2023_1369,2022-2023,23,MCI,AVL,pep guardiola,unai emery
+2022-2023_1370,2022-2023,23,LIV,EVE,jurgen klopp,sean dyche
+2022-2023_1371,2022-2023,24,AVL,ARS,unai emery,mikel arteta
+2022-2023_1372,2022-2023,24,BHA,FUL,roberto de zerbi,marco silva
+2022-2023_1373,2022-2023,24,BRE,CRY,thomas frank,patrick vieira
+2022-2023_1374,2022-2023,24,CHE,SOU,graham potter,ruben selles
+2022-2023_1375,2022-2023,24,EVE,LEE,sean dyche,michael skubala
+2022-2023_1376,2022-2023,24,NFO,MCI,steve cooper,pep guardiola
+2022-2023_1377,2022-2023,24,WOL,BOU,julen lopetegui,gary o'neil
+2022-2023_1378,2022-2023,24,NEW,LIV,eddie howe,jurgen klopp
+2022-2023_1379,2022-2023,24,MUN,LEI,erik ten hag,brendan rodgers
+2022-2023_1380,2022-2023,24,TOT,WHU,antonio conte,david moyes
+2022-2023_1381,2022-2023,25,FUL,WOL,marco silva,julen lopetegui
+2022-2023_1382,2022-2023,25,EVE,AVL,sean dyche,unai emery
+2022-2023_1383,2022-2023,25,LEE,SOU,gracia,ruben selles
+2022-2023_1384,2022-2023,25,LEI,ARS,brendan rodgers,mikel arteta
+2022-2023_1385,2022-2023,25,WHU,NFO,david moyes,steve cooper
+2022-2023_1386,2022-2023,25,BOU,MCI,gary o'neil,pep guardiola
+2022-2023_1387,2022-2023,25,CRY,LIV,patrick vieira,jurgen klopp
+2022-2023_1388,2022-2023,25,TOT,CHE,antonio conte,graham potter
+2022-2023_1389,2022-2023,25,MUN,BRE,erik ten hag,thomas frank
+2022-2023_1390,2022-2023,25,NEW,BHA,eddie howe,roberto de zerbi
+2022-2023_1391,2022-2023,26,MCI,NEW,pep guardiola,eddie howe
+2022-2023_1392,2022-2023,26,AVL,CRY,unai emery,patrick vieira
+2022-2023_1393,2022-2023,26,BHA,WHU,roberto de zerbi,david moyes
+2022-2023_1394,2022-2023,26,ARS,BOU,mikel arteta,gary o'neil
+2022-2023_1395,2022-2023,26,CHE,LEE,graham potter,gracia
+2022-2023_1396,2022-2023,26,WOL,TOT,julen lopetegui,antonio conte
+2022-2023_1397,2022-2023,26,SOU,LEI,ruben selles,brendan rodgers
+2022-2023_1398,2022-2023,26,NFO,EVE,steve cooper,sean dyche
+2022-2023_1399,2022-2023,26,LIV,MUN,jurgen klopp,erik ten hag
+2022-2023_1400,2022-2023,26,BRE,FUL,thomas frank,marco silva
+2022-2023_1401,2022-2023,27,BOU,LIV,gary o'neil,jurgen klopp
+2022-2023_1402,2022-2023,27,EVE,BRE,sean dyche,thomas frank
+2022-2023_1403,2022-2023,27,LEE,BHA,gracia,roberto de zerbi
+2022-2023_1404,2022-2023,27,LEI,CHE,brendan rodgers,graham potter
+2022-2023_1405,2022-2023,27,TOT,NFO,antonio conte,steve cooper
+2022-2023_1406,2022-2023,27,CRY,MCI,patrick vieira,pep guardiola
+2022-2023_1407,2022-2023,27,FUL,ARS,marco silva,mikel arteta
+2022-2023_1408,2022-2023,27,MUN,SOU,erik ten hag,ruben selles
+2022-2023_1409,2022-2023,27,WHU,AVL,david moyes,unai emery
+2022-2023_1410,2022-2023,27,NEW,WOL,eddie howe,julen lopetegui
+2022-2023_1411,2022-2023,28,NFO,NEW,steve cooper,eddie howe
+2022-2023_1412,2022-2023,28,AVL,BOU,unai emery,gary o'neil
+2022-2023_1413,2022-2023,28,BRE,LEI,thomas frank,brendan rodgers
+2022-2023_1414,2022-2023,28,SOU,TOT,ruben selles,antonio conte
+2022-2023_1415,2022-2023,28,WOL,LEE,julen lopetegui,gracia
+2022-2023_1416,2022-2023,28,CHE,EVE,graham potter,sean dyche
+2022-2023_1417,2022-2023,28,ARS,CRY,mikel arteta,paddy mccarthy
+2022-2023_1418,2022-2023,28,LIV,FUL,jurgen klopp,marco silva
+2022-2023_1419,2022-2023,28,MCI,WHU,pep guardiola,david moyes
+2022-2023_1420,2022-2023,28,BHA,MUN,roberto de zerbi,erik ten hag
+2022-2023_1421,2022-2023,29,MCI,LIV,pep guardiola,jurgen klopp
+2022-2023_1422,2022-2023,29,BOU,FUL,gary o'neil,marco silva
+2022-2023_1423,2022-2023,29,BHA,BRE,roberto de zerbi,thomas frank
+2022-2023_1424,2022-2023,29,CRY,LEI,roy hodgson,brendan rodgers
+2022-2023_1425,2022-2023,29,ARS,LEE,mikel arteta,gracia
+2022-2023_1426,2022-2023,29,NFO,WOL,steve cooper,julen lopetegui
+2022-2023_1427,2022-2023,29,CHE,AVL,graham potter,unai emery
+2022-2023_1428,2022-2023,29,WHU,SOU,david moyes,ruben selles
+2022-2023_1429,2022-2023,29,NEW,MUN,eddie howe,erik ten hag
+2022-2023_1430,2022-2023,29,EVE,TOT,sean dyche,cristian stellini
+2022-2023_1431,2022-2023,30,MUN,EVE,erik ten hag,sean dyche
+2022-2023_1432,2022-2023,30,AVL,NFO,unai emery,steve cooper
+2022-2023_1433,2022-2023,30,BRE,NEW,thomas frank,eddie howe
+2022-2023_1434,2022-2023,30,FUL,WHU,marco silva,david moyes
+2022-2023_1435,2022-2023,30,LEI,BOU,adam sadler,gary o'neil
+2022-2023_1436,2022-2023,30,TOT,BHA,cristian stellini,roberto de zerbi
+2022-2023_1437,2022-2023,30,WOL,CHE,julen lopetegui,frank lampard
+2022-2023_1438,2022-2023,30,SOU,MCI,ruben selles,pep guardiola
+2022-2023_1439,2022-2023,30,LEE,CRY,gracia,roy hodgson
+2022-2023_1440,2022-2023,30,LIV,ARS,jurgen klopp,mikel arteta
+2022-2023_1441,2022-2023,31,AVL,NEW,unai emery,eddie howe
+2022-2023_1442,2022-2023,31,CHE,BHA,frank lampard,roberto de zerbi
+2022-2023_1443,2022-2023,31,EVE,FUL,sean dyche,marco silva
+2022-2023_1444,2022-2023,31,SOU,CRY,ruben selles,roy hodgson
+2022-2023_1445,2022-2023,31,WOL,BRE,julen lopetegui,thomas frank
+2022-2023_1446,2022-2023,31,TOT,BOU,cristian stellini,gary o'neil
+2022-2023_1447,2022-2023,31,MCI,LEI,pep guardiola,dean smith
+2022-2023_1448,2022-2023,31,WHU,ARS,david moyes,mikel arteta
+2022-2023_1449,2022-2023,31,NFO,MUN,steve cooper,erik ten hag
+2022-2023_1450,2022-2023,31,LEE,LIV,gracia,jurgen klopp
+2022-2023_1451,2022-2023,32,ARS,SOU,mikel arteta,ruben selles
+2022-2023_1452,2022-2023,32,FUL,LEE,marco silva,gracia
+2022-2023_1453,2022-2023,32,CRY,EVE,roy hodgson,sean dyche
+2022-2023_1454,2022-2023,32,BRE,AVL,thomas frank,unai emery
+2022-2023_1455,2022-2023,32,LIV,NFO,jurgen klopp,steve cooper
+2022-2023_1456,2022-2023,32,LEI,WOL,dean smith,julen lopetegui
+2022-2023_1457,2022-2023,32,BOU,WHU,gary o'neil,david moyes
+2022-2023_1458,2022-2023,32,NEW,TOT,eddie howe,cristian stellini
+2022-2023_1459,2022-2023,32,BHA,MCI,roberto de zerbi,pep guardiola
+2022-2023_1460,2022-2023,32,MUN,CHE,erik ten hag,frank lampard
+2022-2023_1461,2022-2023,33,WOL,CRY,julen lopetegui,roy hodgson
+2022-2023_1462,2022-2023,33,AVL,FUL,unai emery,marco silva
+2022-2023_1463,2022-2023,33,LEE,LEI,gracia,dean smith
+2022-2023_1464,2022-2023,33,NFO,BHA,steve cooper,roberto de zerbi
+2022-2023_1465,2022-2023,33,WHU,LIV,david moyes,jurgen klopp
+2022-2023_1466,2022-2023,33,CHE,BRE,frank lampard,thomas frank
+2022-2023_1467,2022-2023,33,MCI,ARS,pep guardiola,mikel arteta
+2022-2023_1468,2022-2023,33,EVE,NEW,sean dyche,eddie howe
+2022-2023_1469,2022-2023,33,SOU,BOU,ruben selles,gary o'neil
+2022-2023_1470,2022-2023,33,TOT,MUN,ryan mason,erik ten hag
+2022-2023_1471,2022-2023,34,CRY,WHU,roy hodgson,david moyes
+2022-2023_1472,2022-2023,34,BHA,WOL,roberto de zerbi,julen lopetegui
+2022-2023_1473,2022-2023,34,BRE,NFO,thomas frank,steve cooper
+2022-2023_1474,2022-2023,34,BOU,LEE,gary o'neil,gracia
+2022-2023_1475,2022-2023,34,FUL,MCI,marco silva,pep guardiola
+2022-2023_1476,2022-2023,34,MUN,AVL,erik ten hag,unai emery
+2022-2023_1477,2022-2023,34,NEW,SOU,eddie howe,ruben selles
+2022-2023_1478,2022-2023,34,LIV,TOT,jurgen klopp,ryan mason
+2022-2023_1479,2022-2023,34,LEI,EVE,dean smith,sean dyche
+2022-2023_1480,2022-2023,34,ARS,CHE,mikel arteta,frank lampard
+2022-2023_1481,2022-2023,35,BOU,CHE,gary o'neil,frank lampard
+2022-2023_1482,2022-2023,35,MCI,LEE,pep guardiola,sam allardyce
+2022-2023_1483,2022-2023,35,TOT,CRY,ryan mason,roy hodgson
+2022-2023_1484,2022-2023,35,WOL,AVL,julen lopetegui,unai emery
+2022-2023_1485,2022-2023,35,LIV,BRE,jurgen klopp,thomas frank
+2022-2023_1486,2022-2023,35,NEW,ARS,eddie howe,mikel arteta
+2022-2023_1487,2022-2023,35,WHU,MUN,david moyes,erik ten hag
+2022-2023_1488,2022-2023,35,FUL,LEI,marco silva,dean smith
+2022-2023_1489,2022-2023,35,BHA,EVE,roberto de zerbi,sean dyche
+2022-2023_1490,2022-2023,35,NFO,SOU,steve cooper,ruben selles
+2022-2023_1491,2022-2023,36,LEE,NEW,sam allardyce,eddie howe
+2022-2023_1492,2022-2023,36,AVL,TOT,unai emery,ryan mason
+2022-2023_1493,2022-2023,36,CRY,BOU,roy hodgson,gary o'neil
+2022-2023_1494,2022-2023,36,CHE,NFO,frank lampard,steve cooper
+2022-2023_1495,2022-2023,36,SOU,FUL,ruben selles,marco silva
+2022-2023_1496,2022-2023,36,MUN,WOL,erik ten hag,julen lopetegui
+2022-2023_1497,2022-2023,36,BRE,WHU,thomas frank,david moyes
+2022-2023_1498,2022-2023,36,EVE,MCI,sean dyche,pep guardiola
+2022-2023_1499,2022-2023,36,ARS,BHA,mikel arteta,roberto de zerbi
+2022-2023_1500,2022-2023,36,LEI,LIV,dean smith,jurgen klopp
+2022-2023_1501,2022-2023,37,TOT,BRE,ryan mason,thomas frank
+2022-2023_1502,2022-2023,37,BOU,MUN,gary o'neil,erik ten hag
+2022-2023_1503,2022-2023,37,FUL,CRY,marco silva,roy hodgson
+2022-2023_1504,2022-2023,37,LIV,AVL,jurgen klopp,unai emery
+2022-2023_1505,2022-2023,37,WOL,EVE,julen lopetegui,sean dyche
+2022-2023_1506,2022-2023,37,NFO,ARS,steve cooper,mikel arteta
+2022-2023_1507,2022-2023,37,WHU,LEE,david moyes,sam allardyce
+2022-2023_1508,2022-2023,37,BHA,SOU,roberto de zerbi,ruben selles
+2022-2023_1509,2022-2023,37,MCI,CHE,pep guardiola,frank lampard
+2022-2023_1510,2022-2023,37,NEW,LEI,eddie howe,dean smith
+2022-2023_1511,2022-2023,38,AVL,BHA,unai emery,roberto de zerbi
+2022-2023_1512,2022-2023,38,CRY,NFO,roy hodgson,steve cooper
+2022-2023_1513,2022-2023,38,ARS,WOL,mikel arteta,julen lopetegui
+2022-2023_1514,2022-2023,38,BRE,MCI,thomas frank,pep guardiola
+2022-2023_1515,2022-2023,38,CHE,NEW,frank lampard,eddie howe
+2022-2023_1516,2022-2023,38,EVE,BOU,sean dyche,gary o'neil
+2022-2023_1517,2022-2023,38,SOU,LIV,ruben selles,jurgen klopp
+2022-2023_1518,2022-2023,38,LEE,TOT,sam allardyce,ryan mason
+2022-2023_1519,2022-2023,38,LEI,WHU,dean smith,david moyes
+2022-2023_1520,2022-2023,38,MUN,FUL,erik ten hag,marco silva
+2023-2024_1521,2023-2024,1,BUR,MCI,vincent kompany,pep guardiola
+2023-2024_1522,2023-2024,1,ARS,NFO,mikel arteta,steve cooper
+2023-2024_1523,2023-2024,1,BOU,WHU,andoni iraola,david moyes
+2023-2024_1524,2023-2024,1,BHA,LUT,roberto de zerbi,rob edwards
+2023-2024_1525,2023-2024,1,EVE,FUL,sean dyche,marco silva
+2023-2024_1526,2023-2024,1,SHU,CRY,paul heckingbottom,roy hodgson
+2023-2024_1527,2023-2024,1,NEW,AVL,eddie howe,unai emery
+2023-2024_1528,2023-2024,1,BRE,TOT,thomas frank,ange postecoglou
+2023-2024_1529,2023-2024,1,CHE,LIV,mauricio pochettino,jurgen klopp
+2023-2024_1530,2023-2024,1,MUN,WOL,erik ten hag,gary o'neil
+2023-2024_1531,2023-2024,2,NFO,SHU,steve cooper,paul heckingbottom
+2023-2024_1532,2023-2024,2,FUL,BRE,marco silva,thomas frank
+2023-2024_1533,2023-2024,2,LIV,BOU,jurgen klopp,andoni iraola
+2023-2024_1534,2023-2024,2,WOL,BHA,gary o'neil,roberto de zerbi
+2023-2024_1535,2023-2024,2,TOT,MUN,ange postecoglou,erik ten hag
+2023-2024_1536,2023-2024,2,MCI,NEW,pep guardiola,eddie howe
+2023-2024_1537,2023-2024,2,AVL,EVE,unai emery,sean dyche
+2023-2024_1538,2023-2024,2,WHU,CHE,david moyes,mauricio pochettino
+2023-2024_1539,2023-2024,2,CRY,ARS,roy hodgson,mikel arteta
+2023-2024_1540,2023-2024,2,LUT,BUR,rob edwards,vincent kompany
+2023-2024_1541,2023-2024,3,CHE,LUT,mauricio pochettino,rob edwards
+2023-2024_1542,2023-2024,3,BOU,TOT,andoni iraola,ange postecoglou
+2023-2024_1543,2023-2024,3,ARS,FUL,mikel arteta,marco silva
+2023-2024_1544,2023-2024,3,BRE,CRY,thomas frank,roy hodgson
+2023-2024_1545,2023-2024,3,EVE,WOL,sean dyche,gary o'neil
+2023-2024_1546,2023-2024,3,MUN,NFO,erik ten hag,steve cooper
+2023-2024_1547,2023-2024,3,BHA,WHU,roberto de zerbi,david moyes
+2023-2024_1548,2023-2024,3,BUR,AVL,vincent kompany,unai emery
+2023-2024_1549,2023-2024,3,SHU,MCI,paul heckingbottom,pep guardiola
+2023-2024_1550,2023-2024,3,NEW,LIV,eddie howe,jurgen klopp
+2023-2024_1551,2023-2024,4,LUT,WHU,rob edwards,david moyes
+2023-2024_1552,2023-2024,4,SHU,EVE,paul heckingbottom,sean dyche
+2023-2024_1553,2023-2024,4,BRE,BOU,thomas frank,andoni iraola
+2023-2024_1554,2023-2024,4,BUR,TOT,vincent kompany,ange postecoglou
+2023-2024_1555,2023-2024,4,CHE,NFO,mauricio pochettino,steve cooper
+2023-2024_1556,2023-2024,4,MCI,FUL,pep guardiola,marco silva
+2023-2024_1557,2023-2024,4,BHA,NEW,roberto de zerbi,eddie howe
+2023-2024_1558,2023-2024,4,CRY,WOL,roy hodgson,gary o'neil
+2023-2024_1559,2023-2024,4,LIV,AVL,jurgen klopp,unai emery
+2023-2024_1560,2023-2024,4,ARS,MUN,mikel arteta,erik ten hag
+2023-2024_1561,2023-2024,5,WOL,LIV,gary o'neil,jurgen klopp
+2023-2024_1562,2023-2024,5,AVL,CRY,unai emery,roy hodgson
+2023-2024_1563,2023-2024,5,FUL,LUT,marco silva,rob edwards
+2023-2024_1564,2023-2024,5,MUN,BHA,erik ten hag,roberto de zerbi
+2023-2024_1565,2023-2024,5,TOT,SHU,ange postecoglou,paul heckingbottom
+2023-2024_1566,2023-2024,5,WHU,MCI,david moyes,pep guardiola
+2023-2024_1567,2023-2024,5,NEW,BRE,eddie howe,thomas frank
+2023-2024_1568,2023-2024,5,BOU,CHE,andoni iraola,mauricio pochettino
+2023-2024_1569,2023-2024,5,EVE,ARS,sean dyche,mikel arteta
+2023-2024_1570,2023-2024,5,NFO,BUR,steve cooper,vincent kompany
+2023-2024_1571,2023-2024,6,CRY,FUL,roy hodgson,marco silva
+2023-2024_1572,2023-2024,6,LUT,WOL,rob edwards,gary o'neil
+2023-2024_1573,2023-2024,6,MCI,NFO,pep guardiola,steve cooper
+2023-2024_1574,2023-2024,6,BRE,EVE,thomas frank,sean dyche
+2023-2024_1575,2023-2024,6,BUR,MUN,vincent kompany,erik ten hag
+2023-2024_1576,2023-2024,6,ARS,TOT,mikel arteta,ange postecoglou
+2023-2024_1577,2023-2024,6,BHA,BOU,roberto de zerbi,andoni iraola
+2023-2024_1578,2023-2024,6,CHE,AVL,mauricio pochettino,unai emery
+2023-2024_1579,2023-2024,6,LIV,WHU,jurgen klopp,david moyes
+2023-2024_1580,2023-2024,6,SHU,NEW,paul heckingbottom,eddie howe
+2023-2024_1581,2023-2024,7,AVL,BHA,unai emery,roberto de zerbi
+2023-2024_1582,2023-2024,7,BOU,ARS,andoni iraola,mikel arteta
+2023-2024_1583,2023-2024,7,EVE,LUT,sean dyche,rob edwards
+2023-2024_1584,2023-2024,7,MUN,CRY,erik ten hag,roy hodgson
+2023-2024_1585,2023-2024,7,NEW,BUR,eddie howe,vincent kompany
+2023-2024_1586,2023-2024,7,WHU,SHU,david moyes,paul heckingbottom
+2023-2024_1587,2023-2024,7,WOL,MCI,gary o'neil,pep guardiola
+2023-2024_1588,2023-2024,7,TOT,LIV,ange postecoglou,jurgen klopp
+2023-2024_1589,2023-2024,7,NFO,BRE,steve cooper,thomas frank
+2023-2024_1590,2023-2024,7,FUL,CHE,marco silva,mauricio pochettino
+2023-2024_1591,2023-2024,8,LUT,TOT,rob edwards,ange postecoglou
+2023-2024_1592,2023-2024,8,BUR,CHE,vincent kompany,mauricio pochettino
+2023-2024_1593,2023-2024,8,EVE,BOU,sean dyche,andoni iraola
+2023-2024_1594,2023-2024,8,FUL,SHU,marco silva,paul heckingbottom
+2023-2024_1595,2023-2024,8,MUN,BRE,erik ten hag,thomas frank
+2023-2024_1596,2023-2024,8,CRY,NFO,roy hodgson,steve cooper
+2023-2024_1597,2023-2024,8,BHA,LIV,roberto de zerbi,jurgen klopp
+2023-2024_1598,2023-2024,8,WHU,NEW,david moyes,eddie howe
+2023-2024_1599,2023-2024,8,WOL,AVL,gary o'neil,unai emery
+2023-2024_1600,2023-2024,8,ARS,MCI,mikel arteta,pep guardiola
+2023-2024_1601,2023-2024,9,LIV,EVE,jurgen klopp,sean dyche
+2023-2024_1602,2023-2024,9,BOU,WOL,andoni iraola,gary o'neil
+2023-2024_1603,2023-2024,9,BRE,BUR,thomas frank,vincent kompany
+2023-2024_1604,2023-2024,9,MCI,BHA,pep guardiola,roberto de zerbi
+2023-2024_1605,2023-2024,9,NEW,CRY,eddie howe,roy hodgson
+2023-2024_1606,2023-2024,9,NFO,LUT,steve cooper,rob edwards
+2023-2024_1607,2023-2024,9,CHE,ARS,mauricio pochettino,mikel arteta
+2023-2024_1608,2023-2024,9,SHU,MUN,paul heckingbottom,erik ten hag
+2023-2024_1609,2023-2024,9,AVL,WHU,unai emery,david moyes
+2023-2024_1610,2023-2024,9,TOT,FUL,ange postecoglou,marco silva
+2023-2024_1611,2023-2024,10,CRY,TOT,roy hodgson,ange postecoglou
+2023-2024_1612,2023-2024,10,CHE,BRE,mauricio pochettino,thomas frank
+2023-2024_1613,2023-2024,10,BOU,BUR,andoni iraola,vincent kompany
+2023-2024_1614,2023-2024,10,ARS,SHU,mikel arteta,paul heckingbottom
+2023-2024_1615,2023-2024,10,WOL,NEW,gary o'neil,eddie howe
+2023-2024_1616,2023-2024,10,WHU,EVE,david moyes,sean dyche
+2023-2024_1617,2023-2024,10,AVL,LUT,unai emery,rob edwards
+2023-2024_1618,2023-2024,10,BHA,FUL,roberto de zerbi,marco silva
+2023-2024_1619,2023-2024,10,LIV,NFO,jurgen klopp,steve cooper
+2023-2024_1620,2023-2024,10,MUN,MCI,erik ten hag,pep guardiola
+2023-2024_1621,2023-2024,11,FUL,MUN,marco silva,erik ten hag
+2023-2024_1622,2023-2024,11,BRE,WHU,thomas frank,david moyes
+2023-2024_1623,2023-2024,11,BUR,CRY,vincent kompany,roy hodgson
+2023-2024_1624,2023-2024,11,EVE,BHA,sean dyche,roberto de zerbi
+2023-2024_1625,2023-2024,11,MCI,BOU,pep guardiola,andoni iraola
+2023-2024_1626,2023-2024,11,SHU,WOL,paul heckingbottom,gary o'neil
+2023-2024_1627,2023-2024,11,NEW,ARS,eddie howe,mikel arteta
+2023-2024_1628,2023-2024,11,NFO,AVL,steve cooper,unai emery
+2023-2024_1629,2023-2024,11,LUT,LIV,rob edwards,jurgen klopp
+2023-2024_1630,2023-2024,11,TOT,CHE,ange postecoglou,mauricio pochettino
+2023-2024_1631,2023-2024,12,WOL,TOT,gary o'neil,ange postecoglou
+2023-2024_1632,2023-2024,12,ARS,BUR,mikel arteta,vincent kompany
+2023-2024_1633,2023-2024,12,CRY,EVE,roy hodgson,sean dyche
+2023-2024_1634,2023-2024,12,MUN,LUT,erik ten hag,rob edwards
+2023-2024_1635,2023-2024,12,BOU,NEW,andoni iraola,eddie howe
+2023-2024_1636,2023-2024,12,AVL,FUL,unai emery,marco silva
+2023-2024_1637,2023-2024,12,BHA,SHU,roberto de zerbi,paul heckingbottom
+2023-2024_1638,2023-2024,12,LIV,BRE,jurgen klopp,thomas frank
+2023-2024_1639,2023-2024,12,WHU,NFO,david moyes,steve cooper
+2023-2024_1640,2023-2024,12,CHE,MCI,mauricio pochettino,pep guardiola
+2023-2024_1641,2023-2024,13,MCI,LIV,pep guardiola,jurgen klopp
+2023-2024_1642,2023-2024,13,BUR,WHU,vincent kompany,david moyes
+2023-2024_1643,2023-2024,13,LUT,CRY,rob edwards,roy hodgson
+2023-2024_1644,2023-2024,13,NEW,CHE,eddie howe,mauricio pochettino
+2023-2024_1645,2023-2024,13,NFO,BHA,steve cooper,roberto de zerbi
+2023-2024_1646,2023-2024,13,SHU,BOU,paul heckingbottom,andoni iraola
+2023-2024_1647,2023-2024,13,BRE,ARS,thomas frank,mikel arteta
+2023-2024_1648,2023-2024,13,TOT,AVL,ange postecoglou,unai emery
+2023-2024_1649,2023-2024,13,EVE,MUN,sean dyche,erik ten hag
+2023-2024_1650,2023-2024,13,FUL,WOL,marco silva,gary o'neil
+2023-2024_1651,2023-2024,14,ARS,WOL,mikel arteta,gary o'neil
+2023-2024_1652,2023-2024,14,BRE,LUT,thomas frank,rob edwards
+2023-2024_1653,2023-2024,14,BUR,SHU,vincent kompany,paul heckingbottom
+2023-2024_1654,2023-2024,14,NFO,EVE,steve cooper,sean dyche
+2023-2024_1655,2023-2024,14,NEW,MUN,eddie howe,erik ten hag
+2023-2024_1656,2023-2024,14,BOU,AVL,andoni iraola,unai emery
+2023-2024_1657,2023-2024,14,CHE,BHA,mauricio pochettino,roberto de zerbi
+2023-2024_1658,2023-2024,14,LIV,FUL,jurgen klopp,marco silva
+2023-2024_1659,2023-2024,14,WHU,CRY,david moyes,roy hodgson
+2023-2024_1660,2023-2024,14,MCI,TOT,pep guardiola,ange postecoglou
+2023-2024_1661,2023-2024,15,WOL,BUR,gary o'neil,vincent kompany
+2023-2024_1662,2023-2024,15,LUT,ARS,rob edwards,mikel arteta
+2023-2024_1663,2023-2024,15,BHA,BRE,roberto de zerbi,thomas frank
+2023-2024_1664,2023-2024,15,FUL,NFO,marco silva,steve cooper
+2023-2024_1665,2023-2024,15,SHU,LIV,chris wilder,jurgen klopp
+2023-2024_1666,2023-2024,15,CRY,BOU,roy hodgson,andoni iraola
+2023-2024_1667,2023-2024,15,AVL,MCI,unai emery,pep guardiola
+2023-2024_1668,2023-2024,15,MUN,CHE,erik ten hag,mauricio pochettino
+2023-2024_1669,2023-2024,15,EVE,NEW,sean dyche,eddie howe
+2023-2024_1670,2023-2024,15,TOT,WHU,ange postecoglou,david moyes
+2023-2024_1671,2023-2024,16,CRY,LIV,roy hodgson,jurgen klopp
+2023-2024_1672,2023-2024,16,BHA,BUR,roberto de zerbi,vincent kompany
+2023-2024_1673,2023-2024,16,MUN,BOU,erik ten hag,andoni iraola
+2023-2024_1674,2023-2024,16,SHU,BRE,chris wilder,thomas frank
+2023-2024_1675,2023-2024,16,WOL,NFO,gary o'neil,steve cooper
+2023-2024_1676,2023-2024,16,AVL,ARS,unai emery,mikel arteta
+2023-2024_1677,2023-2024,16,EVE,CHE,sean dyche,mauricio pochettino
+2023-2024_1678,2023-2024,16,FUL,WHU,marco silva,david moyes
+2023-2024_1679,2023-2024,16,LUT,MCI,rob edwards,pep guardiola
+2023-2024_1680,2023-2024,16,TOT,NEW,ange postecoglou,eddie howe
+2023-2024_1681,2023-2024,17,NFO,TOT,steve cooper,ange postecoglou
+2023-2024_1682,2023-2024,17,CHE,SHU,mauricio pochettino,chris wilder
+2023-2024_1683,2023-2024,17,MCI,CRY,pep guardiola,roy hodgson
+2023-2024_1684,2023-2024,17,NEW,FUL,eddie howe,marco silva
+2023-2024_1685,2023-2024,17,BUR,EVE,vincent kompany,sean dyche
+2023-2024_1686,2023-2024,17,ARS,BHA,mikel arteta,roberto de zerbi
+2023-2024_1687,2023-2024,17,BRE,AVL,thomas frank,unai emery
+2023-2024_1688,2023-2024,17,WHU,WOL,david moyes,gary o'neil
+2023-2024_1689,2023-2024,17,LIV,MUN,jurgen klopp,erik ten hag
+2023-2024_1690,2023-2024,17,BOU,LUT,andoni iraola,rob edwards
+2023-2024_1691,2023-2024,18,CRY,BHA,roy hodgson,roberto de zerbi
+2023-2024_1692,2023-2024,18,AVL,SHU,unai emery,chris wilder
+2023-2024_1693,2023-2024,18,WHU,MUN,david moyes,erik ten hag
+2023-2024_1694,2023-2024,18,FUL,BUR,marco silva,vincent kompany
+2023-2024_1695,2023-2024,18,LUT,NEW,rob edwards,eddie howe
+2023-2024_1696,2023-2024,18,NFO,BOU,nuno espirito santo,andoni iraola
+2023-2024_1697,2023-2024,18,TOT,EVE,ange postecoglou,sean dyche
+2023-2024_1698,2023-2024,18,LIV,ARS,jurgen klopp,mikel arteta
+2023-2024_1699,2023-2024,18,WOL,CHE,gary o'neil,mauricio pochettino
+2023-2024_1700,2023-2024,18,MCI,BRE,pep guardiola,thomas frank
+2023-2024_1701,2023-2024,19,NEW,NFO,eddie howe,nuno espirito santo
+2023-2024_1702,2023-2024,19,BOU,FUL,andoni iraola,marco silva
+2023-2024_1703,2023-2024,19,SHU,LUT,chris wilder,rob edwards
+2023-2024_1704,2023-2024,19,BUR,LIV,vincent kompany,jurgen klopp
+2023-2024_1705,2023-2024,19,MUN,AVL,erik ten hag,unai emery
+2023-2024_1706,2023-2024,19,BRE,WOL,thomas frank,gary o'neil
+2023-2024_1707,2023-2024,19,CHE,CRY,mauricio pochettino,roy hodgson
+2023-2024_1708,2023-2024,19,EVE,MCI,sean dyche,pep guardiola
+2023-2024_1709,2023-2024,19,BHA,TOT,roberto de zerbi,ange postecoglou
+2023-2024_1710,2023-2024,19,ARS,WHU,mikel arteta,david moyes
+2023-2024_1711,2023-2024,20,LUT,CHE,rob edwards,mauricio pochettino
+2023-2024_1712,2023-2024,20,AVL,BUR,unai emery,vincent kompany
+2023-2024_1713,2023-2024,20,CRY,BRE,roy hodgson,thomas frank
+2023-2024_1714,2023-2024,20,MCI,SHU,pep guardiola,chris wilder
+2023-2024_1715,2023-2024,20,WOL,EVE,gary o'neil,sean dyche
+2023-2024_1716,2023-2024,20,NFO,MUN,nuno espirito santo,erik ten hag
+2023-2024_1717,2023-2024,20,FUL,ARS,marco silva,mikel arteta
+2023-2024_1718,2023-2024,20,TOT,BOU,ange postecoglou,andoni iraola
+2023-2024_1719,2023-2024,20,LIV,NEW,jurgen klopp,eddie howe
+2023-2024_1720,2023-2024,20,WHU,BHA,david moyes,roberto de zerbi
+2023-2024_1721,2023-2024,21,BUR,LUT,vincent kompany,rob edwards
+2023-2024_1722,2023-2024,21,CHE,FUL,mauricio pochettino,marco silva
+2023-2024_1723,2023-2024,21,NEW,MCI,eddie howe,pep guardiola
+2023-2024_1724,2023-2024,21,EVE,AVL,sean dyche,unai emery
+2023-2024_1725,2023-2024,21,MUN,TOT,erik ten hag,ange postecoglou
+2023-2024_1726,2023-2024,21,ARS,CRY,mikel arteta,roy hodgson
+2023-2024_1727,2023-2024,21,BRE,NFO,thomas frank,nuno espirito santo
+2023-2024_1728,2023-2024,21,SHU,WHU,chris wilder,david moyes
+2023-2024_1729,2023-2024,21,BOU,LIV,andoni iraola,jurgen klopp
+2023-2024_1730,2023-2024,21,BHA,WOL,roberto de zerbi,gary o'neil
+2023-2024_1731,2023-2024,22,NFO,ARS,nuno espirito santo,mikel arteta
+2023-2024_1732,2023-2024,22,LUT,BHA,rob edwards,roberto de zerbi
+2023-2024_1733,2023-2024,22,FUL,EVE,marco silva,sean dyche
+2023-2024_1734,2023-2024,22,CRY,SHU,roy hodgson,chris wilder
+2023-2024_1735,2023-2024,22,AVL,NEW,unai emery,eddie howe
+2023-2024_1736,2023-2024,22,MCI,BUR,pep guardiola,vincent kompany
+2023-2024_1737,2023-2024,22,TOT,BRE,ange postecoglou,thomas frank
+2023-2024_1738,2023-2024,22,LIV,CHE,jurgen klopp,mauricio pochettino
+2023-2024_1739,2023-2024,22,WHU,BOU,david moyes,andoni iraola
+2023-2024_1740,2023-2024,22,WOL,MUN,gary o'neil,erik ten hag
+2023-2024_1741,2023-2024,23,EVE,TOT,sean dyche,ange postecoglou
+2023-2024_1742,2023-2024,23,BHA,CRY,roberto de zerbi,roy hodgson
+2023-2024_1743,2023-2024,23,BUR,FUL,vincent kompany,marco silva
+2023-2024_1744,2023-2024,23,NEW,LUT,eddie howe,rob edwards
+2023-2024_1745,2023-2024,23,SHU,AVL,chris wilder,unai emery
+2023-2024_1746,2023-2024,23,BOU,NFO,andoni iraola,nuno espirito santo
+2023-2024_1747,2023-2024,23,CHE,WOL,mauricio pochettino,gary o'neil
+2023-2024_1748,2023-2024,23,MUN,WHU,erik ten hag,david moyes
+2023-2024_1749,2023-2024,23,ARS,LIV,mikel arteta,jurgen klopp
+2023-2024_1750,2023-2024,23,BRE,MCI,thomas frank,pep guardiola
+2023-2024_1751,2023-2024,24,MCI,EVE,pep guardiola,sean dyche
+2023-2024_1752,2023-2024,24,FUL,BOU,marco silva,andoni iraola
+2023-2024_1753,2023-2024,24,LIV,BUR,jurgen klopp,vincent kompany
+2023-2024_1754,2023-2024,24,LUT,SHU,rob edwards,chris wilder
+2023-2024_1755,2023-2024,24,TOT,BHA,ange postecoglou,roberto de zerbi
+2023-2024_1756,2023-2024,24,WOL,BRE,gary o'neil,thomas frank
+2023-2024_1757,2023-2024,24,NFO,NEW,nuno espirito santo,eddie howe
+2023-2024_1758,2023-2024,24,WHU,ARS,david moyes,mikel arteta
+2023-2024_1759,2023-2024,24,AVL,MUN,unai emery,erik ten hag
+2023-2024_1760,2023-2024,24,CRY,CHE,roy hodgson,mauricio pochettino
+2023-2024_1761,2023-2024,25,BRE,LIV,thomas frank,jurgen klopp
+2023-2024_1762,2023-2024,25,BUR,ARS,vincent kompany,mikel arteta
+2023-2024_1763,2023-2024,25,FUL,AVL,marco silva,unai emery
+2023-2024_1764,2023-2024,25,NEW,BOU,eddie howe,andoni iraola
+2023-2024_1765,2023-2024,25,NFO,WHU,nuno espirito santo,david moyes
+2023-2024_1766,2023-2024,25,TOT,WOL,ange postecoglou,gary o'neil
+2023-2024_1767,2023-2024,25,MCI,CHE,pep guardiola,mauricio pochettino
+2023-2024_1768,2023-2024,25,SHU,BHA,chris wilder,roberto de zerbi
+2023-2024_1769,2023-2024,25,LUT,MUN,rob edwards,erik ten hag
+2023-2024_1770,2023-2024,25,EVE,CRY,sean dyche,ray lewington
+2023-2024_1771,2023-2024,26,LIV,LUT,jurgen klopp,rob edwards
+2023-2024_1772,2023-2024,26,AVL,NFO,unai emery,nuno espirito santo
+2023-2024_1773,2023-2024,26,BHA,EVE,roberto de zerbi,sean dyche
+2023-2024_1774,2023-2024,26,CRY,BUR,oliver glasner,vincent kompany
+2023-2024_1775,2023-2024,26,MUN,FUL,erik ten hag,marco silva
+2023-2024_1776,2023-2024,26,BOU,MCI,andoni iraola,pep guardiola
+2023-2024_1777,2023-2024,26,ARS,NEW,mikel arteta,eddie howe
+2023-2024_1778,2023-2024,26,WOL,SHU,gary o'neil,chris wilder
+2023-2024_1779,2023-2024,26,WHU,BRE,david moyes,thomas frank
+2023-2024_1780,2023-2024,26,CHE,TOT,mauricio pochettino,ange postecoglou
+2023-2024_1781,2023-2024,27,BRE,CHE,thomas frank,mauricio pochettino
+2023-2024_1782,2023-2024,27,EVE,WHU,sean dyche,david moyes
+2023-2024_1783,2023-2024,27,FUL,BHA,marco silva,roberto de zerbi
+2023-2024_1784,2023-2024,27,NEW,WOL,eddie howe,gary o'neil
+2023-2024_1785,2023-2024,27,NFO,LIV,nuno espirito santo,jurgen klopp
+2023-2024_1786,2023-2024,27,TOT,CRY,ange postecoglou,oliver glasner
+2023-2024_1787,2023-2024,27,LUT,AVL,rob edwards,unai emery
+2023-2024_1788,2023-2024,27,BUR,BOU,vincent kompany,andoni iraola
+2023-2024_1789,2023-2024,27,MCI,MUN,pep guardiola,erik ten hag
+2023-2024_1790,2023-2024,27,SHU,ARS,chris wilder,mikel arteta
+2023-2024_1791,2023-2024,28,MUN,EVE,erik ten hag,sean dyche
+2023-2024_1792,2023-2024,28,BOU,SHU,andoni iraola,chris wilder
+2023-2024_1793,2023-2024,28,CRY,LUT,oliver glasner,rob edwards
+2023-2024_1794,2023-2024,28,WOL,FUL,gary o'neil,marco silva
+2023-2024_1795,2023-2024,28,ARS,BRE,mikel arteta,thomas frank
+2023-2024_1796,2023-2024,28,AVL,TOT,unai emery,ange postecoglou
+2023-2024_1797,2023-2024,28,BHA,NFO,roberto de zerbi,nuno espirito santo
+2023-2024_1798,2023-2024,28,WHU,BUR,david moyes,vincent kompany
+2023-2024_1799,2023-2024,28,LIV,MCI,jurgen klopp,pep guardiola
+2023-2024_1800,2023-2024,28,CHE,NEW,mauricio pochettino,eddie howe
+2023-2024_1801,2023-2024,29,BUR,BRE,vincent kompany,thomas frank
+2023-2024_1802,2023-2024,29,LUT,NFO,rob edwards,nuno espirito santo
+2023-2024_1803,2023-2024,29,FUL,TOT,marco silva,ange postecoglou
+2023-2024_1804,2023-2024,29,WHU,AVL,david moyes,unai emery
+2023-2024_1805,2023-2024,29,ARS,CHE,mikel arteta,mauricio pochettino
+2023-2024_1806,2023-2024,29,WOL,BOU,gary o'neil,andoni iraola
+2023-2024_1807,2023-2024,29,CRY,NEW,oliver glasner,eddie howe
+2023-2024_1808,2023-2024,29,EVE,LIV,sean dyche,jurgen klopp
+2023-2024_1809,2023-2024,29,MUN,SHU,erik ten hag,chris wilder
+2023-2024_1810,2023-2024,29,BHA,MCI,roberto de zerbi,pep guardiola
+2023-2024_1811,2023-2024,30,NEW,WHU,eddie howe,david moyes
+2023-2024_1812,2023-2024,30,BOU,EVE,andoni iraola,sean dyche
+2023-2024_1813,2023-2024,30,CHE,BUR,mauricio pochettino,vincent kompany
+2023-2024_1814,2023-2024,30,NFO,CRY,nuno espirito santo,oliver glasner
+2023-2024_1815,2023-2024,30,SHU,FUL,chris wilder,marco silva
+2023-2024_1816,2023-2024,30,TOT,LUT,ange postecoglou,rob edwards
+2023-2024_1817,2023-2024,30,AVL,WOL,unai emery,gary o'neil
+2023-2024_1818,2023-2024,30,BRE,MUN,thomas frank,erik ten hag
+2023-2024_1819,2023-2024,30,LIV,BHA,jurgen klopp,roberto de zerbi
+2023-2024_1820,2023-2024,30,MCI,ARS,pep guardiola,mikel arteta
+2023-2024_1821,2023-2024,31,NFO,FUL,nuno espirito santo,marco silva
+2023-2024_1822,2023-2024,31,NEW,EVE,eddie howe,sean dyche
+2023-2024_1823,2023-2024,31,BOU,CRY,andoni iraola,oliver glasner
+2023-2024_1824,2023-2024,31,BUR,WOL,vincent kompany,gary o'neil
+2023-2024_1825,2023-2024,31,WHU,TOT,david moyes,ange postecoglou
+2023-2024_1826,2023-2024,31,ARS,LUT,mikel arteta,rob edwards
+2023-2024_1827,2023-2024,31,BRE,BHA,thomas frank,roberto de zerbi
+2023-2024_1828,2023-2024,31,MCI,AVL,pep guardiola,unai emery
+2023-2024_1829,2023-2024,31,LIV,SHU,jurgen klopp,chris wilder
+2023-2024_1830,2023-2024,31,CHE,MUN,mauricio pochettino,erik ten hag
+2023-2024_1831,2023-2024,32,CRY,MCI,oliver glasner,pep guardiola
+2023-2024_1832,2023-2024,32,AVL,BRE,unai emery,thomas frank
+2023-2024_1833,2023-2024,32,EVE,BUR,sean dyche,vincent kompany
+2023-2024_1834,2023-2024,32,FUL,NEW,marco silva,eddie howe
+2023-2024_1835,2023-2024,32,LUT,BOU,rob edwards,andoni iraola
+2023-2024_1836,2023-2024,32,WOL,WHU,gary o'neil,david moyes
+2023-2024_1837,2023-2024,32,BHA,ARS,roberto de zerbi,mikel arteta
+2023-2024_1838,2023-2024,32,MUN,LIV,erik ten hag,jurgen klopp
+2023-2024_1839,2023-2024,32,SHU,CHE,chris wilder,mauricio pochettino
+2023-2024_1840,2023-2024,32,TOT,NFO,ange postecoglou,nuno espirito santo
+2023-2024_1841,2023-2024,33,NEW,TOT,eddie howe,ange postecoglou
+2023-2024_1842,2023-2024,33,BRE,SHU,thomas frank,chris wilder
+2023-2024_1843,2023-2024,33,BUR,BHA,vincent kompany,roberto de zerbi
+2023-2024_1844,2023-2024,33,MCI,LUT,pep guardiola,rob edwards
+2023-2024_1845,2023-2024,33,NFO,WOL,nuno espirito santo,gary o'neil
+2023-2024_1846,2023-2024,33,BOU,MUN,andoni iraola,erik ten hag
+2023-2024_1847,2023-2024,33,LIV,CRY,jurgen klopp,oliver glasner
+2023-2024_1848,2023-2024,33,WHU,FUL,david moyes,marco silva
+2023-2024_1849,2023-2024,33,ARS,AVL,mikel arteta,unai emery
+2023-2024_1850,2023-2024,33,CHE,EVE,mauricio pochettino,sean dyche
+2023-2024_1851,2023-2024,34,LUT,BRE,rob edwards,thomas frank
+2023-2024_1852,2023-2024,34,SHU,BUR,chris wilder,vincent kompany
+2023-2024_1853,2023-2024,34,WOL,ARS,gary o'neil,mikel arteta
+2023-2024_1854,2023-2024,34,EVE,NFO,sean dyche,nuno espirito santo
+2023-2024_1855,2023-2024,34,AVL,BOU,unai emery,andoni iraola
+2023-2024_1856,2023-2024,34,CRY,WHU,oliver glasner,david moyes
+2023-2024_1857,2023-2024,34,FUL,LIV,marco silva,jurgen klopp
+2023-2024_1858,2023-2024,34,TOT,MCI,ange postecoglou,pep guardiola
+2023-2024_1859,2023-2024,34,BHA,CHE,roberto de zerbi,mauricio pochettino
+2023-2024_1860,2023-2024,34,MUN,NEW,erik ten hag,eddie howe
+2023-2024_1861,2023-2024,35,WHU,LIV,david moyes,jurgen klopp
+2023-2024_1862,2023-2024,35,FUL,CRY,marco silva,oliver glasner
+2023-2024_1863,2023-2024,35,MUN,BUR,erik ten hag,vincent kompany
+2023-2024_1864,2023-2024,35,NEW,SHU,eddie howe,chris wilder
+2023-2024_1865,2023-2024,35,WOL,LUT,gary o'neil,rob edwards
+2023-2024_1866,2023-2024,35,EVE,BRE,sean dyche,thomas frank
+2023-2024_1867,2023-2024,35,AVL,CHE,unai emery,mauricio pochettino
+2023-2024_1868,2023-2024,35,BOU,BHA,andoni iraola,roberto de zerbi
+2023-2024_1869,2023-2024,35,TOT,ARS,ange postecoglou,mikel arteta
+2023-2024_1870,2023-2024,35,NFO,MCI,nuno espirito santo,pep guardiola
+2023-2024_1871,2023-2024,36,LUT,EVE,rob edwards,sean dyche
+2023-2024_1872,2023-2024,36,ARS,BOU,mikel arteta,andoni iraola
+2023-2024_1873,2023-2024,36,BRE,FUL,thomas frank,marco silva
+2023-2024_1874,2023-2024,36,BUR,NEW,vincent kompany,eddie howe
+2023-2024_1875,2023-2024,36,SHU,NFO,chris wilder,nuno espirito santo
+2023-2024_1876,2023-2024,36,MCI,WOL,pep guardiola,gary o'neil
+2023-2024_1877,2023-2024,36,BHA,AVL,roberto de zerbi,unai emery
+2023-2024_1878,2023-2024,36,CHE,WHU,mauricio pochettino,david moyes
+2023-2024_1879,2023-2024,36,LIV,TOT,jurgen klopp,ange postecoglou
+2023-2024_1880,2023-2024,36,CRY,MUN,oliver glasner,erik ten hag
+2023-2024_1881,2023-2024,37,FUL,MCI,marco silva,pep guardiola
+2023-2024_1882,2023-2024,37,BOU,BRE,andoni iraola,thomas frank
+2023-2024_1883,2023-2024,37,EVE,SHU,sean dyche,chris wilder
+2023-2024_1884,2023-2024,37,NEW,BHA,eddie howe,roberto de zerbi
+2023-2024_1885,2023-2024,37,TOT,BUR,ange postecoglou,vincent kompany
+2023-2024_1886,2023-2024,37,WHU,LUT,david moyes,rob edwards
+2023-2024_1887,2023-2024,37,WOL,CRY,gary o'neil,oliver glasner
+2023-2024_1888,2023-2024,37,NFO,CHE,nuno espirito santo,mauricio pochettino
+2023-2024_1889,2023-2024,37,MUN,ARS,erik ten hag,mikel arteta
+2023-2024_1890,2023-2024,37,AVL,LIV,unai emery,jurgen klopp
+2023-2024_1891,2023-2024,38,ARS,EVE,mikel arteta,sean dyche
+2023-2024_1892,2023-2024,38,BRE,NEW,thomas frank,eddie howe
+2023-2024_1893,2023-2024,38,BHA,MUN,roberto de zerbi,erik ten hag
+2023-2024_1894,2023-2024,38,BUR,NFO,vincent kompany,nuno espirito santo
+2023-2024_1895,2023-2024,38,CHE,BOU,mauricio pochettino,andoni iraola
+2023-2024_1896,2023-2024,38,CRY,AVL,oliver glasner,unai emery
+2023-2024_1897,2023-2024,38,LIV,WOL,jurgen klopp,gary o'neil
+2023-2024_1898,2023-2024,38,LUT,FUL,rob edwards,marco silva
+2023-2024_1899,2023-2024,38,MCI,WHU,pep guardiola,david moyes
+2023-2024_1900,2023-2024,38,SHU,TOT,chris wilder,ange postecoglou
+2024-2025_1901,2024-2025,1,MUN,FUL,erik ten hag,marco silva
+2024-2025_1902,2024-2025,1,IPS,LIV,kieran mckenna,arne slot
+2024-2025_1903,2024-2025,1,ARS,WOL,mikel arteta,gary o'neil
+2024-2025_1904,2024-2025,1,EVE,BHA,sean dyche,fabian hurzeler
+2024-2025_1905,2024-2025,1,NEW,SOU,eddie howe,russell martin
+2024-2025_1906,2024-2025,1,NFO,BOU,nuno espirito santo,andoni iraola
+2024-2025_1907,2024-2025,1,WHU,AVL,julen lopetegui,unai emery
+2024-2025_1908,2024-2025,1,BRE,CRY,thomas frank,oliver glasner
+2024-2025_1909,2024-2025,1,CHE,MCI,enzo maresca,pep guardiola
+2024-2025_1910,2024-2025,1,LEI,TOT,steve cooper,ange postecoglou
+2024-2025_1911,2024-2025,2,BHA,MUN,fabian hurzeler,erik ten hag
+2024-2025_1912,2024-2025,2,CRY,WHU,oliver glasner,julen lopetegui
+2024-2025_1913,2024-2025,2,FUL,LEI,marco silva,steve cooper
+2024-2025_1914,2024-2025,2,MCI,IPS,pep guardiola,kieran mckenna
+2024-2025_1915,2024-2025,2,SOU,NFO,russell martin,nuno espirito santo
+2024-2025_1916,2024-2025,2,TOT,EVE,ange postecoglou,sean dyche
+2024-2025_1917,2024-2025,2,AVL,ARS,unai emery,mikel arteta
+2024-2025_1918,2024-2025,2,BOU,NEW,andoni iraola,eddie howe
+2024-2025_1919,2024-2025,2,WOL,CHE,gary o'neil,enzo maresca
+2024-2025_1920,2024-2025,2,LIV,BRE,arne slot,thomas frank
+2024-2025_1921,2024-2025,3,ARS,BHA,mikel arteta,fabian hurzeler
+2024-2025_1922,2024-2025,3,BRE,SOU,thomas frank,russell martin
+2024-2025_1923,2024-2025,3,EVE,BOU,sean dyche,andoni iraola
+2024-2025_1924,2024-2025,3,IPS,FUL,kieran mckenna,marco silva
+2024-2025_1925,2024-2025,3,LEI,AVL,steve cooper,unai emery
+2024-2025_1926,2024-2025,3,NFO,WOL,nuno espirito santo,gary o'neil
+2024-2025_1927,2024-2025,3,WHU,MCI,julen lopetegui,pep guardiola
+2024-2025_1928,2024-2025,3,CHE,CRY,enzo maresca,oliver glasner
+2024-2025_1929,2024-2025,3,NEW,TOT,eddie howe,ange postecoglou
+2024-2025_1930,2024-2025,3,MUN,LIV,erik ten hag,arne slot
+2024-2025_1931,2024-2025,4,SOU,MUN,russell martin,erik ten hag
+2024-2025_1932,2024-2025,4,BHA,IPS,fabian hurzeler,kieran mckenna
+2024-2025_1933,2024-2025,4,CRY,LEI,oliver glasner,steve cooper
+2024-2025_1934,2024-2025,4,FUL,WHU,marco silva,julen lopetegui
+2024-2025_1935,2024-2025,4,LIV,NFO,arne slot,nuno espirito santo
+2024-2025_1936,2024-2025,4,MCI,BRE,pep guardiola,thomas frank
+2024-2025_1937,2024-2025,4,AVL,EVE,unai emery,sean dyche
+2024-2025_1938,2024-2025,4,BOU,CHE,andoni iraola,enzo maresca
+2024-2025_1939,2024-2025,4,TOT,ARS,ange postecoglou,mikel arteta
+2024-2025_1940,2024-2025,4,WOL,NEW,gary o'neil,eddie howe
+2024-2025_1941,2024-2025,5,WHU,CHE,julen lopetegui,enzo maresca
+2024-2025_1942,2024-2025,5,AVL,WOL,unai emery,gary o'neil
+2024-2025_1943,2024-2025,5,FUL,NEW,marco silva,eddie howe
+2024-2025_1944,2024-2025,5,LEI,EVE,steve cooper,sean dyche
+2024-2025_1945,2024-2025,5,LIV,BOU,arne slot,andoni iraola
+2024-2025_1946,2024-2025,5,SOU,IPS,russell martin,kieran mckenna
+2024-2025_1947,2024-2025,5,TOT,BRE,ange postecoglou,thomas frank
+2024-2025_1948,2024-2025,5,CRY,MUN,oliver glasner,erik ten hag
+2024-2025_1949,2024-2025,5,BHA,NFO,fabian hurzeler,nuno espirito santo
+2024-2025_1950,2024-2025,5,MCI,ARS,pep guardiola,mikel arteta
+2024-2025_1951,2024-2025,6,NEW,MCI,eddie howe,pep guardiola
+2024-2025_1952,2024-2025,6,ARS,LEI,mikel arteta,steve cooper
+2024-2025_1953,2024-2025,6,BRE,WHU,thomas frank,julen lopetegui
+2024-2025_1954,2024-2025,6,CHE,BHA,enzo maresca,fabian hurzeler
+2024-2025_1955,2024-2025,6,EVE,CRY,sean dyche,oliver glasner
+2024-2025_1956,2024-2025,6,NFO,FUL,nuno espirito santo,marco silva
+2024-2025_1957,2024-2025,6,WOL,LIV,gary o'neil,arne slot
+2024-2025_1958,2024-2025,6,IPS,AVL,kieran mckenna,unai emery
+2024-2025_1959,2024-2025,6,MUN,TOT,erik ten hag,ange postecoglou
+2024-2025_1960,2024-2025,6,BOU,SOU,andoni iraola,russell martin
+2024-2025_1961,2024-2025,7,CRY,LIV,oliver glasner,arne slot
+2024-2025_1962,2024-2025,7,ARS,SOU,mikel arteta,russell martin
+2024-2025_1963,2024-2025,7,BRE,WOL,thomas frank,gary o'neil
+2024-2025_1964,2024-2025,7,LEI,BOU,steve cooper,andoni iraola
+2024-2025_1965,2024-2025,7,MCI,FUL,pep guardiola,marco silva
+2024-2025_1966,2024-2025,7,WHU,IPS,julen lopetegui,kieran mckenna
+2024-2025_1967,2024-2025,7,EVE,NEW,sean dyche,eddie howe
+2024-2025_1968,2024-2025,7,AVL,MUN,unai emery,erik ten hag
+2024-2025_1969,2024-2025,7,CHE,NFO,enzo maresca,nuno espirito santo
+2024-2025_1970,2024-2025,7,BHA,TOT,fabian hurzeler,ange postecoglou
+2024-2025_1971,2024-2025,8,TOT,WHU,ange postecoglou,julen lopetegui
+2024-2025_1972,2024-2025,8,FUL,AVL,marco silva,unai emery
+2024-2025_1973,2024-2025,8,IPS,EVE,kieran mckenna,sean dyche
+2024-2025_1974,2024-2025,8,MUN,BRE,erik ten hag,thomas frank
+2024-2025_1975,2024-2025,8,NEW,BHA,eddie howe,fabian hurzeler
+2024-2025_1976,2024-2025,8,SOU,LEI,russell martin,steve cooper
+2024-2025_1977,2024-2025,8,BOU,ARS,andoni iraola,mikel arteta
+2024-2025_1978,2024-2025,8,WOL,MCI,gary o'neil,pep guardiola
+2024-2025_1979,2024-2025,8,LIV,CHE,arne slot,enzo maresca
+2024-2025_1980,2024-2025,8,NFO,CRY,nuno espirito santo,oliver glasner
+2024-2025_1981,2024-2025,9,LEI,NFO,steve cooper,nuno espirito santo
+2024-2025_1982,2024-2025,9,AVL,BOU,unai emery,andoni iraola
+2024-2025_1983,2024-2025,9,BRE,IPS,thomas frank,kieran mckenna
+2024-2025_1984,2024-2025,9,BHA,WOL,fabian hurzeler,gary o'neil
+2024-2025_1985,2024-2025,9,MCI,SOU,pep guardiola,russell martin
+2024-2025_1986,2024-2025,9,EVE,FUL,sean dyche,marco silva
+2024-2025_1987,2024-2025,9,CHE,NEW,enzo maresca,eddie howe
+2024-2025_1988,2024-2025,9,CRY,TOT,oliver glasner,ange postecoglou
+2024-2025_1989,2024-2025,9,WHU,MUN,julen lopetegui,erik ten hag
+2024-2025_1990,2024-2025,9,ARS,LIV,mikel arteta,arne slot
+2024-2025_1991,2024-2025,10,NEW,ARS,eddie howe,mikel arteta
+2024-2025_1992,2024-2025,10,BOU,MCI,andoni iraola,pep guardiola
+2024-2025_1993,2024-2025,10,IPS,LEI,kieran mckenna,steve cooper
+2024-2025_1994,2024-2025,10,LIV,BHA,arne slot,fabian hurzeler
+2024-2025_1995,2024-2025,10,NFO,WHU,nuno espirito santo,julen lopetegui
+2024-2025_1996,2024-2025,10,SOU,EVE,russell martin,sean dyche
+2024-2025_1997,2024-2025,10,WOL,CRY,gary o'neil,oliver glasner
+2024-2025_1998,2024-2025,10,TOT,AVL,ange postecoglou,unai emery
+2024-2025_1999,2024-2025,10,MUN,CHE,ruud van nistelrooy,enzo maresca
+2024-2025_2000,2024-2025,10,FUL,BRE,marco silva,thomas frank
+2024-2025_2001,2024-2025,11,BRE,BOU,thomas frank,andoni iraola
+2024-2025_2002,2024-2025,11,CRY,FUL,oliver glasner,marco silva
+2024-2025_2003,2024-2025,11,WHU,EVE,julen lopetegui,sean dyche
+2024-2025_2004,2024-2025,11,WOL,SOU,gary o'neil,russell martin
+2024-2025_2005,2024-2025,11,BHA,MCI,fabian hurzeler,pep guardiola
+2024-2025_2006,2024-2025,11,LIV,AVL,arne slot,unai emery
+2024-2025_2007,2024-2025,11,MUN,LEI,ruud van nistelrooy,steve cooper
+2024-2025_2008,2024-2025,11,NFO,NEW,nuno espirito santo,eddie howe
+2024-2025_2009,2024-2025,11,TOT,IPS,ange postecoglou,kieran mckenna
+2024-2025_2010,2024-2025,11,CHE,ARS,enzo maresca,mikel arteta
