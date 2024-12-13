@@ -1,0 +1,24 @@
+data/preprocessed/info: Chứa thông tin về trận đấu để biết đội hình ra sân, hlv
+data/preprocessed/layer1/matches_stats_data.csv: Chứa các chỉ số trận đấu (đã được scale  về 0-1)
+    - hometeam, awayteam, date, season, round: Đội nhà, đội khách, ngày thi đấu, mùa giải, vòng đấu
+    - gf,ga: Số bàn thắng, bàn thua của trận đấu đó (2 cột này ko scale và cũng ko đưa vào lúc dự đoán vì nó là kết quả sau khi kết thúc trận đấu, chỉ giữ để tính elo)
+    - form_gf, form_ga: form của số bàn thắng, bàn thua tính tới trước trận đấu hiện tại của đội (tính dựa trên gf, ga của 4 trận gần nhất)
+    - form_xg, form_xga: form của số bàn thắng, bàn thua kỳ vọng
+    - form_standard sot: form số cú sút trúng đích
+    - form_kp: form số keypass
+    - form_xa: form số kiến tạo kỳ vọng
+    - form_poss_x: form phần trăm kiểm soát bóng
+    - form_touches att pen: form số lần chạm bóng trong vòng cấm
+    - form_carries prgdist: form tổng quãng đường kéo bóng lên
+    - form_progressive passing dist: form tổng quãng đường chuyền bóng hướng về trước
+    - form_tackles tklw: form số pha lấy lại bóng bóng thành công
+    - form_challenges tkl%: form % tắc bóng thành công
+    - form_saves: form số pha cản phá của thủ môn
+
+    h_ và a_ để phân biệt chỉ số của đội nhà và đội khách
+
+    - b365h,b365d,b365a: tỉ lệ cược cho trận đấu đang xét
+    - result_A, result_D, result_H: kết quả cần dự đoán (A là đội nhà thắng, D là hòa, H là đội khách thắng)
+    - soh, soa: elo của đội nhà và đội khách cho đến trận đấu hiện tại
+
+data/preprocessed/layer2/: Chứa các thông tin về cầu thủ được lấy từ Fantasy EPL 
