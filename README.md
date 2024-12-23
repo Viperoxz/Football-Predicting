@@ -1,11 +1,5 @@
 # Football-predicting
 
-- **.idea/**: Contains project-specific settings for the IDE.
-- **data/**: Contains raw, preprocessed, and transformed data.
-- **models/**: Contains machine learning models and related files.
-- **notebooks/**: Contains Jupyter notebooks for data preprocessing, model training, and evaluation.
-- **src/**: Contains source code for the project.
-
 ## Data
 
 The data directory is organized as follows:
@@ -42,7 +36,7 @@ The notebooks directory contains Jupyter notebooks for various tasks:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/Football-Predicting.git
+    git clone https://github.com/Viperoxz/Football-Predicting.git
     ```
 2. Navigate to the project directory:
     ```sh
