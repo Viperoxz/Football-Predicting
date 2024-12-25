@@ -61,11 +61,3 @@ The notebooks directory contains Jupyter notebooks for various tasks:
     ```sh
     jupyter notebook notebooks/evaluate_model.ipynb
     ```
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
