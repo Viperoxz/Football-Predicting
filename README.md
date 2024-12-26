@@ -1,7 +1,11 @@
 # Football Prediction Project
 
 This project aims to predict the outcome of English Premier League football matches using machine learning techniques. It involves data crawling, preprocessing, feature engineering, model training, and evaluation.
-
+## Members
+- [Vũ Châu Minh Trí](https://github.com/vcmt794)
+- [Trương Tiến Đạt](https://github.com/tiendat25052004)
+- [Tống Trọng Tâm](https://github.com/monster1909)
+- [Phạm Văn Hoàng Nam](https://github.com/Viperoxz)
 ## Project Structure
 
 The project is organized into the following directories:
