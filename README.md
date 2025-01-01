@@ -39,11 +39,11 @@ The project is organized into the following directories:
         -   **`Data/`**: Input and output data for the combined model.
         -   **`Model/`**: Trained models for the combined model.
     -   `prepare_data_for_tf.ipynb`: Notebook for preparing data for TensorFlow models.
-    -   `try_both_layer.ipynb`: Notebook for trying both layers of the model.
-    -   `try_layer2_H_NH.ipynb`: Notebook for trying the second layer with H/NH classification.
-    -   `try_layer1_H_NH.ipynb`: Notebook for trying the first layer with H/NH classification.
-    -   `try_layer1.ipynb`: Notebook for trying the first layer of the model.
-    -   `try_layer2.ipynb`: Notebook for trying the second layer of the model.
+    -   `both_layer.ipynb`: Notebook for trying both layers of the model.
+    -   `layer2_H_NH.ipynb`: Notebook for trying the second layer with H/NH classification.
+    -   `layer1_H_NH.ipynb`: Notebook for trying the first layer with H/NH classification.
+    -   `layer1.ipynb`: Notebook for trying the first layer of the model.
+    -   `layer2.ipynb`: Notebook for trying the second layer of the model.
 -   **`src/`**: Contains Python source code.
     -   **`data/`**: Python scripts for data crawling and handling.
         -   `fbref.py`: Script for crawling data from fbref.com.
